@@ -1,0 +1,155 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/CFMIP/MRI/MRI-ESM2-0/amip-lwoff",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/MRI/MRI-ESM2-0/amip-lwoff/r1i1p1f1/Amon/evspsbl/gn/v20190927",
+            "drs_id": "CMIP6.CFMIP.MRI.MRI-ESM2-0.amip-lwoff.r1i1p1f1.Amon.evspsbl.gn.v20190927",
+            "version": "v20190927"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/MRI/MRI-ESM2-0/amip-lwoff/r1i1p1f1/Amon/hurs/gn/v20190927",
+            "drs_id": "CMIP6.CFMIP.MRI.MRI-ESM2-0.amip-lwoff.r1i1p1f1.Amon.hurs.gn.v20190927",
+            "version": "v20190927"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/MRI/MRI-ESM2-0/amip-lwoff/r1i1p1f1/Amon/huss/gn/v20190927",
+            "drs_id": "CMIP6.CFMIP.MRI.MRI-ESM2-0.amip-lwoff.r1i1p1f1.Amon.huss.gn.v20190927",
+            "version": "v20190927"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/MRI/MRI-ESM2-0/amip-lwoff/r1i1p1f1/Amon/pr/gn/v20190927",
+            "drs_id": "CMIP6.CFMIP.MRI.MRI-ESM2-0.amip-lwoff.r1i1p1f1.Amon.pr.gn.v20190927",
+            "version": "v20190927"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/MRI/MRI-ESM2-0/amip-lwoff/r1i1p1f1/Amon/prw/gn/v20190927",
+            "drs_id": "CMIP6.CFMIP.MRI.MRI-ESM2-0.amip-lwoff.r1i1p1f1.Amon.prw.gn.v20190927",
+            "version": "v20190927"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/MRI/MRI-ESM2-0/amip-lwoff/r1i1p1f1/Amon/ps/gn/v20190927",
+            "drs_id": "CMIP6.CFMIP.MRI.MRI-ESM2-0.amip-lwoff.r1i1p1f1.Amon.ps.gn.v20190927",
+            "version": "v20190927"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/MRI/MRI-ESM2-0/amip-lwoff/r1i1p1f1/CFday/ps/gn/v20190927",
+            "drs_id": "CMIP6.CFMIP.MRI.MRI-ESM2-0.amip-lwoff.r1i1p1f1.CFday.ps.gn.v20190927",
+            "version": "v20190927"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/MRI/MRI-ESM2-0/amip-lwoff/r1i1p1f1/LImon/snw/gn/v20190927",
+            "drs_id": "CMIP6.CFMIP.MRI.MRI-ESM2-0.amip-lwoff.r1i1p1f1.LImon.snw.gn.v20190927",
+            "version": "v20190927"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/MRI/MRI-ESM2-0/amip-lwoff/r1i1p1f1/Lmon/mrro/gn/v20190927",
+            "drs_id": "CMIP6.CFMIP.MRI.MRI-ESM2-0.amip-lwoff.r1i1p1f1.Lmon.mrro.gn.v20190927",
+            "version": "v20190927"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/MRI/MRI-ESM2-0/amip-lwoff/r1i1p1f1/Lmon/mrso/gn/v20190927",
+            "drs_id": "CMIP6.CFMIP.MRI.MRI-ESM2-0.amip-lwoff.r1i1p1f1.Lmon.mrso.gn.v20190927",
+            "version": "v20190927"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/MRI/MRI-ESM2-0/amip-lwoff/r1i1p1f1/Lmon/mrsos/gn/v20190927",
+            "drs_id": "CMIP6.CFMIP.MRI.MRI-ESM2-0.amip-lwoff.r1i1p1f1.Lmon.mrsos.gn.v20190927",
+            "version": "v20190927"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/MRI/MRI-ESM2-0/amip-lwoff/r1i1p1f1/day/hurs/gn/v20190927",
+            "drs_id": "CMIP6.CFMIP.MRI.MRI-ESM2-0.amip-lwoff.r1i1p1f1.day.hurs.gn.v20190927",
+            "version": "v20190927"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/MRI/MRI-ESM2-0/amip-lwoff/r1i1p1f1/day/huss/gn/v20190927",
+            "drs_id": "CMIP6.CFMIP.MRI.MRI-ESM2-0.amip-lwoff.r1i1p1f1.day.huss.gn.v20190927",
+            "version": "v20190927"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/MRI/MRI-ESM2-0/amip-lwoff/r1i1p1f1/day/mrro/gn/v20190927",
+            "drs_id": "CMIP6.CFMIP.MRI.MRI-ESM2-0.amip-lwoff.r1i1p1f1.day.mrro.gn.v20190927",
+            "version": "v20190927"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/MRI/MRI-ESM2-0/amip-lwoff/r1i1p1f1/day/mrso/gn/v20190927",
+            "drs_id": "CMIP6.CFMIP.MRI.MRI-ESM2-0.amip-lwoff.r1i1p1f1.day.mrso.gn.v20190927",
+            "version": "v20190927"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/MRI/MRI-ESM2-0/amip-lwoff/r1i1p1f1/day/mrsos/gn/v20190927",
+            "drs_id": "CMIP6.CFMIP.MRI.MRI-ESM2-0.amip-lwoff.r1i1p1f1.day.mrsos.gn.v20190927",
+            "version": "v20190927"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/MRI/MRI-ESM2-0/amip-lwoff/r1i1p1f1/day/pr/gn/v20190927",
+            "drs_id": "CMIP6.CFMIP.MRI.MRI-ESM2-0.amip-lwoff.r1i1p1f1.day.pr.gn.v20190927",
+            "version": "v20190927"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/MRI/MRI-ESM2-0/amip-lwoff/r1i1p1f1/day/snw/gn/v20190927",
+            "drs_id": "CMIP6.CFMIP.MRI.MRI-ESM2-0.amip-lwoff.r1i1p1f1.day.snw.gn.v20190927",
+            "version": "v20190927"
+        }
+    ],
+    "facets": {
+        "activity_id": "CFMIP",
+        "experiment_id": [
+            "amip-lwoff"
+        ],
+        "grid_label": [
+            "gn"
+        ],
+        "institution_id": "MRI",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "MRI-ESM2-0",
+        "table_id": [
+            "Amon",
+            "CFday",
+            "LImon",
+            "Lmon",
+            "day"
+        ],
+        "variable_id": [
+            "evspsbl",
+            "hurs",
+            "huss",
+            "mrro",
+            "mrso",
+            "mrsos",
+            "pr",
+            "prw",
+            "ps",
+            "snw"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T11:48:11",
+    "n_files": 18,
+    "phenomena": [
+        "evspsbl",
+        "hurs",
+        "huss",
+        "mrro",
+        "mrso",
+        "mrsos",
+        "pr",
+        "prw",
+        "ps",
+        "snw"
+    ],
+    "size_in_bytes": 10464329000,
+    "temporal_extent": [
+        "1979-01-01 12:00:00",
+        "2014-12-31 12:00:00"
+    ]
+}

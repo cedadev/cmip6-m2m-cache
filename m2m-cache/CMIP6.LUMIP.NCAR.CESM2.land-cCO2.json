@@ -1,0 +1,189 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/LUMIP/NCAR/CESM2/land-cCO2",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LUMIP/NCAR/CESM2/land-cCO2/r1i1p1f1/Amon/hfls/gn/v20190605",
+            "drs_id": "CMIP6.LUMIP.NCAR.CESM2.land-cCO2.r1i1p1f1.Amon.hfls.gn.v20190605",
+            "version": "v20190605"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LUMIP/NCAR/CESM2/land-cCO2/r1i1p1f1/Amon/hfss/gn/v20190605",
+            "drs_id": "CMIP6.LUMIP.NCAR.CESM2.land-cCO2.r1i1p1f1.Amon.hfss.gn.v20190605",
+            "version": "v20190605"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LUMIP/NCAR/CESM2/land-cCO2/r1i1p1f1/Amon/pr/gn/v20190605",
+            "drs_id": "CMIP6.LUMIP.NCAR.CESM2.land-cCO2.r1i1p1f1.Amon.pr.gn.v20190605",
+            "version": "v20190605"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LUMIP/NCAR/CESM2/land-cCO2/r1i1p1f1/Amon/prsn/gn/v20190605",
+            "drs_id": "CMIP6.LUMIP.NCAR.CESM2.land-cCO2.r1i1p1f1.Amon.prsn.gn.v20190605",
+            "version": "v20190605"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LUMIP/NCAR/CESM2/land-cCO2/r1i1p1f1/Amon/ps/gn/v20190605",
+            "drs_id": "CMIP6.LUMIP.NCAR.CESM2.land-cCO2.r1i1p1f1.Amon.ps.gn.v20190605",
+            "version": "v20190605"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LUMIP/NCAR/CESM2/land-cCO2/r1i1p1f1/Amon/rlds/gn/v20190605",
+            "drs_id": "CMIP6.LUMIP.NCAR.CESM2.land-cCO2.r1i1p1f1.Amon.rlds.gn.v20190605",
+            "version": "v20190605"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LUMIP/NCAR/CESM2/land-cCO2/r1i1p1f1/Amon/rsds/gn/v20190605",
+            "drs_id": "CMIP6.LUMIP.NCAR.CESM2.land-cCO2.r1i1p1f1.Amon.rsds.gn.v20190605",
+            "version": "v20190605"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LUMIP/NCAR/CESM2/land-cCO2/r1i1p1f1/Amon/tas/gn/v20190605",
+            "drs_id": "CMIP6.LUMIP.NCAR.CESM2.land-cCO2.r1i1p1f1.Amon.tas.gn.v20190605",
+            "version": "v20190605"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LUMIP/NCAR/CESM2/land-cCO2/r1i1p1f1/Amon/ts/gn/v20190605",
+            "drs_id": "CMIP6.LUMIP.NCAR.CESM2.land-cCO2.r1i1p1f1.Amon.ts.gn.v20190605",
+            "version": "v20190605"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LUMIP/NCAR/CESM2/land-cCO2/r1i1p1f1/Lmon/baresoilFrac/gn/v20190605",
+            "drs_id": "CMIP6.LUMIP.NCAR.CESM2.land-cCO2.r1i1p1f1.Lmon.baresoilFrac.gn.v20190605",
+            "version": "v20190605"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LUMIP/NCAR/CESM2/land-cCO2/r1i1p1f1/Lmon/cVeg/gn/v20190605",
+            "drs_id": "CMIP6.LUMIP.NCAR.CESM2.land-cCO2.r1i1p1f1.Lmon.cVeg.gn.v20190605",
+            "version": "v20190605"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LUMIP/NCAR/CESM2/land-cCO2/r1i1p1f1/Lmon/cropFrac/gn/v20190605",
+            "drs_id": "CMIP6.LUMIP.NCAR.CESM2.land-cCO2.r1i1p1f1.Lmon.cropFrac.gn.v20190605",
+            "version": "v20190605"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LUMIP/NCAR/CESM2/land-cCO2/r1i1p1f1/Lmon/gpp/gn/v20190605",
+            "drs_id": "CMIP6.LUMIP.NCAR.CESM2.land-cCO2.r1i1p1f1.Lmon.gpp.gn.v20190605",
+            "version": "v20190605"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LUMIP/NCAR/CESM2/land-cCO2/r1i1p1f1/Lmon/grassFrac/gn/v20190605",
+            "drs_id": "CMIP6.LUMIP.NCAR.CESM2.land-cCO2.r1i1p1f1.Lmon.grassFrac.gn.v20190605",
+            "version": "v20190605"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LUMIP/NCAR/CESM2/land-cCO2/r1i1p1f1/Lmon/lai/gn/v20190605",
+            "drs_id": "CMIP6.LUMIP.NCAR.CESM2.land-cCO2.r1i1p1f1.Lmon.lai.gn.v20190605",
+            "version": "v20190605"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LUMIP/NCAR/CESM2/land-cCO2/r1i1p1f1/Lmon/mrro/gn/v20190605",
+            "drs_id": "CMIP6.LUMIP.NCAR.CESM2.land-cCO2.r1i1p1f1.Lmon.mrro.gn.v20190605",
+            "version": "v20190605"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LUMIP/NCAR/CESM2/land-cCO2/r1i1p1f1/Lmon/mrso/gn/v20190605",
+            "drs_id": "CMIP6.LUMIP.NCAR.CESM2.land-cCO2.r1i1p1f1.Lmon.mrso.gn.v20190605",
+            "version": "v20190605"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LUMIP/NCAR/CESM2/land-cCO2/r1i1p1f1/Lmon/mrsos/gn/v20190605",
+            "drs_id": "CMIP6.LUMIP.NCAR.CESM2.land-cCO2.r1i1p1f1.Lmon.mrsos.gn.v20190605",
+            "version": "v20190605"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LUMIP/NCAR/CESM2/land-cCO2/r1i1p1f1/Lmon/nbp/gn/v20190605",
+            "drs_id": "CMIP6.LUMIP.NCAR.CESM2.land-cCO2.r1i1p1f1.Lmon.nbp.gn.v20190605",
+            "version": "v20190605"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LUMIP/NCAR/CESM2/land-cCO2/r1i1p1f1/Lmon/shrubFrac/gn/v20190605",
+            "drs_id": "CMIP6.LUMIP.NCAR.CESM2.land-cCO2.r1i1p1f1.Lmon.shrubFrac.gn.v20190605",
+            "version": "v20190605"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LUMIP/NCAR/CESM2/land-cCO2/r1i1p1f1/Lmon/treeFrac/gn/v20190605",
+            "drs_id": "CMIP6.LUMIP.NCAR.CESM2.land-cCO2.r1i1p1f1.Lmon.treeFrac.gn.v20190605",
+            "version": "v20190605"
+        }
+    ],
+    "facets": {
+        "activity_id": "LUMIP",
+        "experiment_id": [
+            "land-cCO2"
+        ],
+        "grid_label": [
+            "gn"
+        ],
+        "institution_id": "NCAR",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "CESM2",
+        "table_id": [
+            "Amon",
+            "Lmon"
+        ],
+        "variable_id": [
+            "baresoilFrac",
+            "cVeg",
+            "cropFrac",
+            "gpp",
+            "grassFrac",
+            "hfls",
+            "hfss",
+            "lai",
+            "mrro",
+            "mrso",
+            "mrsos",
+            "nbp",
+            "pr",
+            "prsn",
+            "ps",
+            "rlds",
+            "rsds",
+            "shrubFrac",
+            "tas",
+            "treeFrac",
+            "ts"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T11:48:43",
+    "n_files": 25,
+    "phenomena": [
+        "baresoilFrac",
+        "cVeg",
+        "cropFrac",
+        "gpp",
+        "grassFrac",
+        "hfls",
+        "hfss",
+        "lai",
+        "mrro",
+        "mrso",
+        "mrsos",
+        "nbp",
+        "pr",
+        "prsn",
+        "ps",
+        "rlds",
+        "rsds",
+        "shrubFrac",
+        "tas",
+        "treeFrac",
+        "ts"
+    ],
+    "size_in_bytes": 2574987000,
+    "temporal_extent": [
+        "1850-01-15 11:45:00",
+        "2015-12-16 12:00:00"
+    ]
+}

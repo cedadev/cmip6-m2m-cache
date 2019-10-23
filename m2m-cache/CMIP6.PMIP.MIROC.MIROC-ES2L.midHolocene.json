@@ -1,0 +1,92 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/PMIP/MIROC/MIROC-ES2L/midHolocene",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/PMIP/MIROC/MIROC-ES2L/midHolocene/r1i1p1f2/Amon/evspsbl/gn/v20191002",
+            "drs_id": "CMIP6.PMIP.MIROC.MIROC-ES2L.midHolocene.r1i1p1f2.Amon.evspsbl.gn.v20191002",
+            "version": "v20191002"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/PMIP/MIROC/MIROC-ES2L/midHolocene/r1i1p1f2/Amon/pr/gn/v20191002",
+            "drs_id": "CMIP6.PMIP.MIROC.MIROC-ES2L.midHolocene.r1i1p1f2.Amon.pr.gn.v20191002",
+            "version": "v20191002"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/PMIP/MIROC/MIROC-ES2L/midHolocene/r1i1p1f2/Amon/tas/gn/v20191002",
+            "drs_id": "CMIP6.PMIP.MIROC.MIROC-ES2L.midHolocene.r1i1p1f2.Amon.tas.gn.v20191002",
+            "version": "v20191002"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/PMIP/MIROC/MIROC-ES2L/midHolocene/r1i1p1f2/Amon/tasmax/gn/v20191002",
+            "drs_id": "CMIP6.PMIP.MIROC.MIROC-ES2L.midHolocene.r1i1p1f2.Amon.tasmax.gn.v20191002",
+            "version": "v20191002"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/PMIP/MIROC/MIROC-ES2L/midHolocene/r1i1p1f2/Amon/ts/gn/v20191002",
+            "drs_id": "CMIP6.PMIP.MIROC.MIROC-ES2L.midHolocene.r1i1p1f2.Amon.ts.gn.v20191002",
+            "version": "v20191002"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/PMIP/MIROC/MIROC-ES2L/midHolocene/r1i1p1f2/Omon/tos/gn/v20191002",
+            "drs_id": "CMIP6.PMIP.MIROC.MIROC-ES2L.midHolocene.r1i1p1f2.Omon.tos.gn.v20191002",
+            "version": "v20191002"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/PMIP/MIROC/MIROC-ES2L/midHolocene/r1i1p1f2/SImon/siconc/gn/v20191002",
+            "drs_id": "CMIP6.PMIP.MIROC.MIROC-ES2L.midHolocene.r1i1p1f2.SImon.siconc.gn.v20191002",
+            "version": "v20191002"
+        }
+    ],
+    "facets": {
+        "activity_id": "PMIP",
+        "experiment_id": [
+            "midHolocene"
+        ],
+        "grid_label": [
+            "gn"
+        ],
+        "institution_id": "MIROC",
+        "member_id": [
+            "r1i1p1f2"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "MIROC-ES2L",
+        "table_id": [
+            "Amon",
+            "Omon",
+            "SImon"
+        ],
+        "variable_id": [
+            "evspsbl",
+            "pr",
+            "siconc",
+            "tas",
+            "tasmax",
+            "tos",
+            "ts"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T11:48:30",
+    "n_files": 7,
+    "phenomena": [
+        "evspsbl",
+        "pr",
+        "siconc",
+        "tas",
+        "tasmax",
+        "tos",
+        "ts"
+    ],
+    "size_in_bytes": 357552000,
+    "temporal_extent": [
+        "8000-01-16 12:00:00",
+        "8099-12-16 12:00:00"
+    ]
+}

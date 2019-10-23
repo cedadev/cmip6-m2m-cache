@@ -1,0 +1,256 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/Amon/cli/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.Amon.cli.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/Amon/clw/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.Amon.clw.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/Amon/evspsbl/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.Amon.evspsbl.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/Amon/hfls/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.Amon.hfls.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/Amon/hur/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.Amon.hur.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/Amon/hus/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.Amon.hus.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/Amon/pr/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.Amon.pr.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/Amon/prw/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.Amon.prw.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/Amon/ps/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.Amon.ps.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/Amon/psl/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.Amon.psl.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/Amon/rldscs/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.Amon.rldscs.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/Amon/rlut/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.Amon.rlut.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/Amon/rlutcs/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.Amon.rlutcs.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/Amon/rsutcs/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.Amon.rsutcs.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/Amon/tas/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.Amon.tas.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/Amon/tasmax/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.Amon.tasmax.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/Amon/tasmin/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.Amon.tasmin.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/Amon/ua/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.Amon.ua.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/Amon/wap/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.Amon.wap.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/Amon/zg/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.Amon.zg.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/Lmon/cropFrac/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.Lmon.cropFrac.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/Lmon/grassFrac/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.Lmon.grassFrac.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/Lmon/lai/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.Lmon.lai.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/Lmon/mrro/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.Lmon.mrro.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/Lmon/pastureFrac/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.Lmon.pastureFrac.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/Lmon/treeFrac/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.Lmon.treeFrac.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/Omon/o2/gr/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.Omon.o2.gr.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/Omon/so/gr/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.Omon.so.gr.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/SImon/simass/gn/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.SImon.simass.gn.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/1pctCO2/r1i1p1f1/SImon/sisnmass/gr/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.1pctCO2.r1i1p1f1.SImon.sisnmass.gr.v20180701",
+            "version": "v20180701"
+        }
+    ],
+    "facets": {
+        "activity_id": "CMIP",
+        "experiment_id": [
+            "1pctCO2"
+        ],
+        "grid_label": [
+            "gn",
+            "gr",
+            "gr1"
+        ],
+        "institution_id": "NOAA-GFDL",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "GFDL-CM4",
+        "table_id": [
+            "Amon",
+            "Lmon",
+            "Omon",
+            "SImon"
+        ],
+        "variable_id": [
+            "cli",
+            "clw",
+            "cropFrac",
+            "evspsbl",
+            "grassFrac",
+            "hfls",
+            "hur",
+            "hus",
+            "lai",
+            "mrro",
+            "o2",
+            "pastureFrac",
+            "pr",
+            "prw",
+            "ps",
+            "psl",
+            "rldscs",
+            "rlut",
+            "rlutcs",
+            "rsutcs",
+            "simass",
+            "sisnmass",
+            "so",
+            "tas",
+            "tasmax",
+            "tasmin",
+            "treeFrac",
+            "ua",
+            "wap",
+            "zg"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T11:49:18",
+    "n_files": 72,
+    "phenomena": [
+        "cli",
+        "clw",
+        "cropFrac",
+        "evspsbl",
+        "grassFrac",
+        "hfls",
+        "hur",
+        "hus",
+        "lai",
+        "mrro",
+        "o2",
+        "pastureFrac",
+        "pr",
+        "prw",
+        "ps",
+        "psl",
+        "rldscs",
+        "rlut",
+        "rlutcs",
+        "rsutcs",
+        "simass",
+        "sisnmass",
+        "so",
+        "tas",
+        "tasmax",
+        "tasmin",
+        "treeFrac",
+        "ua",
+        "wap",
+        "zg"
+    ],
+    "size_in_bytes": 49707221000,
+    "temporal_extent": [
+        "1-01-16 12:00:00",
+        "150-12-16 12:00:00"
+    ]
+}

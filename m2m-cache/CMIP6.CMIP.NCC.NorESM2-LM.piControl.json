@@ -1,0 +1,74 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorESM2-LM/piControl",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorESM2-LM/piControl/r1i1p1f1/Omon/msftmrho/grz/v20190815",
+            "drs_id": "CMIP6.CMIP.NCC.NorESM2-LM.piControl.r1i1p1f1.Omon.msftmrho.grz.v20190815",
+            "version": "v20190815"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorESM2-LM/piControl/r1i1p1f1/Omon/so/gn/v20190815",
+            "drs_id": "CMIP6.CMIP.NCC.NorESM2-LM.piControl.r1i1p1f1.Omon.so.gn.v20190815",
+            "version": "v20190815"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorESM2-LM/piControl/r1i1p1f1/Omon/so/gr/v20190815",
+            "drs_id": "CMIP6.CMIP.NCC.NorESM2-LM.piControl.r1i1p1f1.Omon.so.gr.v20190815",
+            "version": "v20190815"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorESM2-LM/piControl/r1i1p1f1/Omon/thetao/gn/v20190815",
+            "drs_id": "CMIP6.CMIP.NCC.NorESM2-LM.piControl.r1i1p1f1.Omon.thetao.gn.v20190815",
+            "version": "v20190815"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorESM2-LM/piControl/r1i1p1f1/Omon/thetao/gr/v20190815",
+            "drs_id": "CMIP6.CMIP.NCC.NorESM2-LM.piControl.r1i1p1f1.Omon.thetao.gr.v20190815",
+            "version": "v20190815"
+        }
+    ],
+    "facets": {
+        "activity_id": "CMIP",
+        "experiment_id": [
+            "piControl"
+        ],
+        "grid_label": [
+            "gn",
+            "gr",
+            "grz"
+        ],
+        "institution_id": "NCC",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "NorESM2-LM",
+        "table_id": [
+            "Omon"
+        ],
+        "variable_id": [
+            "msftmrho",
+            "so",
+            "thetao"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T11:50:20",
+    "n_files": 155,
+    "phenomena": [
+        "msftmrho",
+        "so",
+        "thetao"
+    ],
+    "size_in_bytes": 120893835000,
+    "temporal_extent": [
+        "1600-01-16 12:00:00",
+        "1900-12-16 12:00:00"
+    ]
+}

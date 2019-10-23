@@ -1,0 +1,111 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/CMIP/NUIST/NESM3/abrupt-4xCO2",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NUIST/NESM3/abrupt-4xCO2/r1i1p1f1/Amon/pr/gn/v20190707",
+            "drs_id": "CMIP6.CMIP.NUIST.NESM3.abrupt-4xCO2.r1i1p1f1.Amon.pr.gn.v20190707",
+            "version": "v20190707"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NUIST/NESM3/abrupt-4xCO2/r1i1p1f1/Amon/rlut/gn/v20190707",
+            "drs_id": "CMIP6.CMIP.NUIST.NESM3.abrupt-4xCO2.r1i1p1f1.Amon.rlut.gn.v20190707",
+            "version": "v20190707"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NUIST/NESM3/abrupt-4xCO2/r1i1p1f1/Amon/rlutcs/gn/v20190707",
+            "drs_id": "CMIP6.CMIP.NUIST.NESM3.abrupt-4xCO2.r1i1p1f1.Amon.rlutcs.gn.v20190707",
+            "version": "v20190707"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NUIST/NESM3/abrupt-4xCO2/r1i1p1f1/Amon/rsdt/gn/v20190707",
+            "drs_id": "CMIP6.CMIP.NUIST.NESM3.abrupt-4xCO2.r1i1p1f1.Amon.rsdt.gn.v20190707",
+            "version": "v20190707"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NUIST/NESM3/abrupt-4xCO2/r1i1p1f1/Amon/rsut/gn/v20190707",
+            "drs_id": "CMIP6.CMIP.NUIST.NESM3.abrupt-4xCO2.r1i1p1f1.Amon.rsut.gn.v20190707",
+            "version": "v20190707"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NUIST/NESM3/abrupt-4xCO2/r1i1p1f1/Amon/rsutcs/gn/v20190707",
+            "drs_id": "CMIP6.CMIP.NUIST.NESM3.abrupt-4xCO2.r1i1p1f1.Amon.rsutcs.gn.v20190707",
+            "version": "v20190707"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NUIST/NESM3/abrupt-4xCO2/r1i1p1f1/Amon/tas/gn/v20190707",
+            "drs_id": "CMIP6.CMIP.NUIST.NESM3.abrupt-4xCO2.r1i1p1f1.Amon.tas.gn.v20190707",
+            "version": "v20190707"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NUIST/NESM3/abrupt-4xCO2/r1i1p1f1/Oday/tos/gn/v20190709",
+            "drs_id": "CMIP6.CMIP.NUIST.NESM3.abrupt-4xCO2.r1i1p1f1.Oday.tos.gn.v20190709",
+            "version": "v20190709"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NUIST/NESM3/abrupt-4xCO2/r1i1p1f1/Omon/thetao/gn/v20190703",
+            "drs_id": "CMIP6.CMIP.NUIST.NESM3.abrupt-4xCO2.r1i1p1f1.Omon.thetao.gn.v20190703",
+            "version": "v20190703"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NUIST/NESM3/abrupt-4xCO2/r1i1p1f1/Omon/tos/gn/v20190703",
+            "drs_id": "CMIP6.CMIP.NUIST.NESM3.abrupt-4xCO2.r1i1p1f1.Omon.tos.gn.v20190703",
+            "version": "v20190703"
+        }
+    ],
+    "facets": {
+        "activity_id": "CMIP",
+        "experiment_id": [
+            "abrupt-4xCO2"
+        ],
+        "grid_label": [
+            "gn"
+        ],
+        "institution_id": "NUIST",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "NESM3",
+        "table_id": [
+            "Amon",
+            "Oday",
+            "Omon"
+        ],
+        "variable_id": [
+            "pr",
+            "rlut",
+            "rlutcs",
+            "rsdt",
+            "rsut",
+            "rsutcs",
+            "tas",
+            "thetao",
+            "tos"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T11:48:23",
+    "n_files": 19,
+    "phenomena": [
+        "pr",
+        "rlut",
+        "rlutcs",
+        "rsdt",
+        "rsut",
+        "rsutcs",
+        "tas",
+        "thetao",
+        "tos"
+    ],
+    "size_in_bytes": 27604741000,
+    "temporal_extent": [
+        "1850-01-01 12:00:00",
+        "1999-12-31 12:00:00"
+    ]
+}

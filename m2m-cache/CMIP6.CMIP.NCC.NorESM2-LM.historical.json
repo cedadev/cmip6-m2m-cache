@@ -1,0 +1,76 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorESM2-LM/historical",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorESM2-LM/historical/r1i1p1f1/AERmon/mmrbc/gn/v20190815",
+            "drs_id": "CMIP6.CMIP.NCC.NorESM2-LM.historical.r1i1p1f1.AERmon.mmrbc.gn.v20190815",
+            "version": "v20190815"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorESM2-LM/historical/r1i1p1f1/AERmon/mmrdust/gn/v20190815",
+            "drs_id": "CMIP6.CMIP.NCC.NorESM2-LM.historical.r1i1p1f1.AERmon.mmrdust.gn.v20190815",
+            "version": "v20190815"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorESM2-LM/historical/r1i1p1f1/AERmon/mmroa/gn/v20190815",
+            "drs_id": "CMIP6.CMIP.NCC.NorESM2-LM.historical.r1i1p1f1.AERmon.mmroa.gn.v20190815",
+            "version": "v20190815"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorESM2-LM/historical/r1i1p1f1/AERmon/mmrso4/gn/v20190815",
+            "drs_id": "CMIP6.CMIP.NCC.NorESM2-LM.historical.r1i1p1f1.AERmon.mmrso4.gn.v20190815",
+            "version": "v20190815"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorESM2-LM/historical/r1i1p1f1/AERmon/mmrss/gn/v20190815",
+            "drs_id": "CMIP6.CMIP.NCC.NorESM2-LM.historical.r1i1p1f1.AERmon.mmrss.gn.v20190815",
+            "version": "v20190815"
+        }
+    ],
+    "facets": {
+        "activity_id": "CMIP",
+        "experiment_id": [
+            "historical"
+        ],
+        "grid_label": [
+            "gn"
+        ],
+        "institution_id": "NCC",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "NorESM2-LM",
+        "table_id": [
+            "AERmon"
+        ],
+        "variable_id": [
+            "mmrbc",
+            "mmrdust",
+            "mmroa",
+            "mmrso4",
+            "mmrss"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T11:49:20",
+    "n_files": 85,
+    "phenomena": [
+        "mmrbc",
+        "mmrdust",
+        "mmroa",
+        "mmrso4",
+        "mmrss"
+    ],
+    "size_in_bytes": 12664676000,
+    "temporal_extent": [
+        "1850-01-16 12:00:00",
+        "2014-12-16 12:00:00"
+    ]
+}

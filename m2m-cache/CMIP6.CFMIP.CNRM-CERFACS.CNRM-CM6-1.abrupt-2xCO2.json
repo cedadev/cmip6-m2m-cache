@@ -1,0 +1,119 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/CFMIP/CNRM-CERFACS/CNRM-CM6-1/abrupt-2xCO2",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/CNRM-CERFACS/CNRM-CM6-1/abrupt-2xCO2/r1i1p1f2/Amon/hurs/gr/v20190711",
+            "drs_id": "CMIP6.CFMIP.CNRM-CERFACS.CNRM-CM6-1.abrupt-2xCO2.r1i1p1f2.Amon.hurs.gr.v20190711",
+            "version": "v20190711"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/CNRM-CERFACS/CNRM-CM6-1/abrupt-2xCO2/r1i1p1f2/Amon/huss/gr/v20190711",
+            "drs_id": "CMIP6.CFMIP.CNRM-CERFACS.CNRM-CM6-1.abrupt-2xCO2.r1i1p1f2.Amon.huss.gr.v20190711",
+            "version": "v20190711"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/CNRM-CERFACS/CNRM-CM6-1/abrupt-2xCO2/r1i1p1f2/Amon/pr/gr/v20190711",
+            "drs_id": "CMIP6.CFMIP.CNRM-CERFACS.CNRM-CM6-1.abrupt-2xCO2.r1i1p1f2.Amon.pr.gr.v20190711",
+            "version": "v20190711"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/CNRM-CERFACS/CNRM-CM6-1/abrupt-2xCO2/r1i1p1f2/Amon/ps/gr/v20190711",
+            "drs_id": "CMIP6.CFMIP.CNRM-CERFACS.CNRM-CM6-1.abrupt-2xCO2.r1i1p1f2.Amon.ps.gr.v20190711",
+            "version": "v20190711"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/CNRM-CERFACS/CNRM-CM6-1/abrupt-2xCO2/r1i1p1f2/Emon/evspsblpot/gr/v20190711",
+            "drs_id": "CMIP6.CFMIP.CNRM-CERFACS.CNRM-CM6-1.abrupt-2xCO2.r1i1p1f2.Emon.evspsblpot.gr.v20190711",
+            "version": "v20190711"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/CNRM-CERFACS/CNRM-CM6-1/abrupt-2xCO2/r1i1p1f2/LImon/snw/gr/v20190711",
+            "drs_id": "CMIP6.CFMIP.CNRM-CERFACS.CNRM-CM6-1.abrupt-2xCO2.r1i1p1f2.LImon.snw.gr.v20190711",
+            "version": "v20190711"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/CNRM-CERFACS/CNRM-CM6-1/abrupt-2xCO2/r1i1p1f2/Lmon/mrro/gr/v20190711",
+            "drs_id": "CMIP6.CFMIP.CNRM-CERFACS.CNRM-CM6-1.abrupt-2xCO2.r1i1p1f2.Lmon.mrro.gr.v20190711",
+            "version": "v20190711"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/CNRM-CERFACS/CNRM-CM6-1/abrupt-2xCO2/r1i1p1f2/day/hurs/gr/v20190711",
+            "drs_id": "CMIP6.CFMIP.CNRM-CERFACS.CNRM-CM6-1.abrupt-2xCO2.r1i1p1f2.day.hurs.gr.v20190711",
+            "version": "v20190711"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/CNRM-CERFACS/CNRM-CM6-1/abrupt-2xCO2/r1i1p1f2/day/huss/gr/v20190711",
+            "drs_id": "CMIP6.CFMIP.CNRM-CERFACS.CNRM-CM6-1.abrupt-2xCO2.r1i1p1f2.day.huss.gr.v20190711",
+            "version": "v20190711"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/CNRM-CERFACS/CNRM-CM6-1/abrupt-2xCO2/r1i1p1f2/day/mrro/gr/v20190711",
+            "drs_id": "CMIP6.CFMIP.CNRM-CERFACS.CNRM-CM6-1.abrupt-2xCO2.r1i1p1f2.day.mrro.gr.v20190711",
+            "version": "v20190711"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/CNRM-CERFACS/CNRM-CM6-1/abrupt-2xCO2/r1i1p1f2/day/pr/gr/v20190711",
+            "drs_id": "CMIP6.CFMIP.CNRM-CERFACS.CNRM-CM6-1.abrupt-2xCO2.r1i1p1f2.day.pr.gr.v20190711",
+            "version": "v20190711"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/CNRM-CERFACS/CNRM-CM6-1/abrupt-2xCO2/r1i1p1f2/day/snw/gr/v20190711",
+            "drs_id": "CMIP6.CFMIP.CNRM-CERFACS.CNRM-CM6-1.abrupt-2xCO2.r1i1p1f2.day.snw.gr.v20190711",
+            "version": "v20190711"
+        }
+    ],
+    "facets": {
+        "activity_id": "CFMIP",
+        "experiment_id": [
+            "abrupt-2xCO2"
+        ],
+        "grid_label": [
+            "gr"
+        ],
+        "institution_id": "CNRM-CERFACS",
+        "member_id": [
+            "r1i1p1f2"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "CNRM-CM6-1",
+        "table_id": [
+            "Amon",
+            "Emon",
+            "LImon",
+            "Lmon",
+            "day"
+        ],
+        "variable_id": [
+            "evspsblpot",
+            "hurs",
+            "huss",
+            "mrro",
+            "pr",
+            "ps",
+            "snw"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T11:48:02",
+    "n_files": 15,
+    "phenomena": [
+        "evspsblpot",
+        "hurs",
+        "huss",
+        "mrro",
+        "pr",
+        "ps",
+        "snw"
+    ],
+    "size_in_bytes": 20490563000,
+    "temporal_extent": [
+        "1850-01-01 12:00:00",
+        "1999-12-31 12:00:00"
+    ]
+}

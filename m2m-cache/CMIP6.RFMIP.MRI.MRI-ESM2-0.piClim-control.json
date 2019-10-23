@@ -1,0 +1,336 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/ch4/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.ch4.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/cli/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.cli.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/clivi/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.clivi.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/clt/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.clt.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/clw/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.clw.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/clwvi/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.clwvi.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/co2/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.co2.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/evspsbl/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.evspsbl.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/hfls/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.hfls.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/hfss/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.hfss.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/hur/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.hur.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/hus/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.hus.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/o3/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.o3.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/pr/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.pr.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/prsn/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.prsn.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/prw/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.prw.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/ps/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.ps.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/psl/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.psl.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/rlds/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.rlds.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/rldscs/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.rldscs.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/rlut/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.rlut.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/rlutcs/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.rlutcs.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/rsds/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.rsds.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/rsdscs/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.rsdscs.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/rsdt/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.rsdt.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/rsuscs/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.rsuscs.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/rsut/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.rsut.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/rsutcs/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.rsutcs.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/ta/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.ta.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/tas/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.tas.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/tasmax/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.tasmax.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/tasmin/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.tasmin.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/tauu/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.tauu.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/tauv/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.tauv.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/ts/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.ts.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/ua/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.ua.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/va/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.va.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/wap/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.wap.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Amon/zg/gn/v20190308",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Amon.zg.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Lmon/mrro/gn/v20190603",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Lmon.mrro.gn.v20190603",
+            "version": "v20190603"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Lmon/mrso/gn/v20190603",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Lmon.mrso.gn.v20190603",
+            "version": "v20190603"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/MRI/MRI-ESM2-0/piClim-control/r1i1p1f1/Lmon/mrsos/gn/v20190603",
+            "drs_id": "CMIP6.RFMIP.MRI.MRI-ESM2-0.piClim-control.r1i1p1f1.Lmon.mrsos.gn.v20190603",
+            "version": "v20190603"
+        }
+    ],
+    "facets": {
+        "activity_id": "RFMIP",
+        "experiment_id": [
+            "piClim-control"
+        ],
+        "grid_label": [
+            "gn"
+        ],
+        "institution_id": "MRI",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "MRI-ESM2-0",
+        "table_id": [
+            "Amon",
+            "Lmon"
+        ],
+        "variable_id": [
+            "ch4",
+            "cli",
+            "clivi",
+            "clt",
+            "clw",
+            "clwvi",
+            "co2",
+            "evspsbl",
+            "hfls",
+            "hfss",
+            "hur",
+            "hus",
+            "mrro",
+            "mrso",
+            "mrsos",
+            "o3",
+            "pr",
+            "prsn",
+            "prw",
+            "ps",
+            "psl",
+            "rlds",
+            "rldscs",
+            "rlut",
+            "rlutcs",
+            "rsds",
+            "rsdscs",
+            "rsdt",
+            "rsuscs",
+            "rsut",
+            "rsutcs",
+            "ta",
+            "tas",
+            "tasmax",
+            "tasmin",
+            "tauu",
+            "tauv",
+            "ts",
+            "ua",
+            "va",
+            "wap",
+            "zg"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T11:49:15",
+    "n_files": 46,
+    "phenomena": [
+        "ch4",
+        "cli",
+        "clivi",
+        "clt",
+        "clw",
+        "clwvi",
+        "co2",
+        "evspsbl",
+        "hfls",
+        "hfss",
+        "hur",
+        "hus",
+        "mrro",
+        "mrso",
+        "mrsos",
+        "o3",
+        "pr",
+        "prsn",
+        "prw",
+        "ps",
+        "psl",
+        "rlds",
+        "rldscs",
+        "rlut",
+        "rlutcs",
+        "rsds",
+        "rsdscs",
+        "rsdt",
+        "rsuscs",
+        "rsut",
+        "rsutcs",
+        "ta",
+        "tas",
+        "tasmax",
+        "tasmin",
+        "tauu",
+        "tauv",
+        "ts",
+        "ua",
+        "va",
+        "wap",
+        "zg"
+    ],
+    "size_in_bytes": 12733602000,
+    "temporal_extent": [
+        "1850-01-16 12:00:00",
+        "1879-12-16 12:00:00"
+    ]
+}

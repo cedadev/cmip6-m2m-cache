@@ -1,0 +1,120 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/CMIP/CCCma/CanESM5/amip",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/CCCma/CanESM5/amip/r1i1p1f1/Amon/tas/gn/v20190429",
+            "drs_id": "CMIP6.CMIP.CCCma.CanESM5.amip.r1i1p1f1.Amon.tas.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/CCCma/CanESM5/amip/r1i1p1f1/day/tas/gn/v20190429",
+            "drs_id": "CMIP6.CMIP.CCCma.CanESM5.amip.r1i1p1f1.day.tas.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/CCCma/CanESM5/amip/r1i1p2f1/Amon/tas/gn/v20190429",
+            "drs_id": "CMIP6.CMIP.CCCma.CanESM5.amip.r1i1p2f1.Amon.tas.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/CCCma/CanESM5/amip/r1i1p2f1/day/tas/gn/v20190429",
+            "drs_id": "CMIP6.CMIP.CCCma.CanESM5.amip.r1i1p2f1.day.tas.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/CCCma/CanESM5/amip/r2i1p1f1/Amon/tas/gn/v20190429",
+            "drs_id": "CMIP6.CMIP.CCCma.CanESM5.amip.r2i1p1f1.Amon.tas.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/CCCma/CanESM5/amip/r2i1p1f1/day/tas/gn/v20190429",
+            "drs_id": "CMIP6.CMIP.CCCma.CanESM5.amip.r2i1p1f1.day.tas.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/CCCma/CanESM5/amip/r2i1p2f1/Amon/tas/gn/v20190429",
+            "drs_id": "CMIP6.CMIP.CCCma.CanESM5.amip.r2i1p2f1.Amon.tas.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/CCCma/CanESM5/amip/r2i1p2f1/day/tas/gn/v20190429",
+            "drs_id": "CMIP6.CMIP.CCCma.CanESM5.amip.r2i1p2f1.day.tas.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/CCCma/CanESM5/amip/r3i1p2f1/Amon/tas/gn/v20190429",
+            "drs_id": "CMIP6.CMIP.CCCma.CanESM5.amip.r3i1p2f1.Amon.tas.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/CCCma/CanESM5/amip/r3i1p2f1/day/tas/gn/v20190429",
+            "drs_id": "CMIP6.CMIP.CCCma.CanESM5.amip.r3i1p2f1.day.tas.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/CCCma/CanESM5/amip/r4i1p2f1/Amon/tas/gn/v20190429",
+            "drs_id": "CMIP6.CMIP.CCCma.CanESM5.amip.r4i1p2f1.Amon.tas.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/CCCma/CanESM5/amip/r4i1p2f1/day/tas/gn/v20190429",
+            "drs_id": "CMIP6.CMIP.CCCma.CanESM5.amip.r4i1p2f1.day.tas.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/CCCma/CanESM5/amip/r5i1p2f1/Amon/tas/gn/v20190429",
+            "drs_id": "CMIP6.CMIP.CCCma.CanESM5.amip.r5i1p2f1.Amon.tas.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/CCCma/CanESM5/amip/r5i1p2f1/day/tas/gn/v20190429",
+            "drs_id": "CMIP6.CMIP.CCCma.CanESM5.amip.r5i1p2f1.day.tas.gn.v20190429",
+            "version": "v20190429"
+        }
+    ],
+    "facets": {
+        "activity_id": "CMIP",
+        "experiment_id": [
+            "amip"
+        ],
+        "grid_label": [
+            "gn"
+        ],
+        "institution_id": "CCCma",
+        "member_id": [
+            "r1i1p1f1",
+            "r1i1p2f1",
+            "r2i1p1f1",
+            "r2i1p2f1",
+            "r3i1p2f1",
+            "r4i1p2f1",
+            "r5i1p2f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "CanESM5",
+        "table_id": [
+            "Amon",
+            "day"
+        ],
+        "variable_id": [
+            "tas"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T11:48:04",
+    "n_files": 14,
+    "phenomena": [
+        "tas"
+    ],
+    "size_in_bytes": 4438871000,
+    "temporal_extent": [
+        "1950-01-01 12:00:00",
+        "2014-12-31 12:00:00"
+    ]
+}

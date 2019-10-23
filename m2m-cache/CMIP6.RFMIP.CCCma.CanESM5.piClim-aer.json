@@ -1,0 +1,308 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Amon/clivi/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Amon.clivi.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Amon/clt/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Amon.clt.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Amon/clwvi/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Amon.clwvi.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Amon/evspsbl/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Amon.evspsbl.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Amon/hfls/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Amon.hfls.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Amon/hfss/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Amon.hfss.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Amon/hur/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Amon.hur.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Amon/hus/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Amon.hus.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Amon/pr/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Amon.pr.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Amon/prsn/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Amon.prsn.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Amon/prw/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Amon.prw.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Amon/ps/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Amon.ps.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Amon/psl/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Amon.psl.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Amon/rlds/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Amon.rlds.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Amon/rldscs/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Amon.rldscs.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Amon/rsds/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Amon.rsds.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Amon/rsdscs/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Amon.rsdscs.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Amon/rtmt/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Amon.rtmt.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Amon/ta/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Amon.ta.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Amon/tas/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Amon.tas.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Amon/tasmax/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Amon.tasmax.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Amon/tasmin/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Amon.tasmin.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Amon/ts/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Amon.ts.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Amon/ua/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Amon.ua.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Amon/va/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Amon.va.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Amon/wap/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Amon.wap.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Amon/zg/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Amon.zg.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Lmon/baresoilFrac/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Lmon.baresoilFrac.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Lmon/cVeg/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Lmon.cVeg.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Lmon/cropFrac/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Lmon.cropFrac.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Lmon/gpp/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Lmon.gpp.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Lmon/grassFrac/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Lmon.grassFrac.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Lmon/lai/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Lmon.lai.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Lmon/mrro/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Lmon.mrro.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Lmon/mrso/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Lmon.mrso.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Lmon/mrsos/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Lmon.mrsos.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Lmon/nbp/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Lmon.nbp.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/CCCma/CanESM5/piClim-aer/r1i1p2f1/Lmon/treeFrac/gn/v20190429",
+            "drs_id": "CMIP6.RFMIP.CCCma.CanESM5.piClim-aer.r1i1p2f1.Lmon.treeFrac.gn.v20190429",
+            "version": "v20190429"
+        }
+    ],
+    "facets": {
+        "activity_id": "RFMIP",
+        "experiment_id": [
+            "piClim-aer"
+        ],
+        "grid_label": [
+            "gn"
+        ],
+        "institution_id": "CCCma",
+        "member_id": [
+            "r1i1p2f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "CanESM5",
+        "table_id": [
+            "Amon",
+            "Lmon"
+        ],
+        "variable_id": [
+            "baresoilFrac",
+            "cVeg",
+            "clivi",
+            "clt",
+            "clwvi",
+            "cropFrac",
+            "evspsbl",
+            "gpp",
+            "grassFrac",
+            "hfls",
+            "hfss",
+            "hur",
+            "hus",
+            "lai",
+            "mrro",
+            "mrso",
+            "mrsos",
+            "nbp",
+            "pr",
+            "prsn",
+            "prw",
+            "ps",
+            "psl",
+            "rlds",
+            "rldscs",
+            "rsds",
+            "rsdscs",
+            "rtmt",
+            "ta",
+            "tas",
+            "tasmax",
+            "tasmin",
+            "treeFrac",
+            "ts",
+            "ua",
+            "va",
+            "wap",
+            "zg"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T11:48:52",
+    "n_files": 38,
+    "phenomena": [
+        "baresoilFrac",
+        "cVeg",
+        "clivi",
+        "clt",
+        "clwvi",
+        "cropFrac",
+        "evspsbl",
+        "gpp",
+        "grassFrac",
+        "hfls",
+        "hfss",
+        "hur",
+        "hus",
+        "lai",
+        "mrro",
+        "mrso",
+        "mrsos",
+        "nbp",
+        "pr",
+        "prsn",
+        "prw",
+        "ps",
+        "psl",
+        "rlds",
+        "rldscs",
+        "rsds",
+        "rsdscs",
+        "rtmt",
+        "ta",
+        "tas",
+        "tasmax",
+        "tasmin",
+        "treeFrac",
+        "ts",
+        "ua",
+        "va",
+        "wap",
+        "zg"
+    ],
+    "size_in_bytes": 2603559000,
+    "temporal_extent": [
+        "1850-01-16 12:00:00",
+        "1899-12-16 12:00:00"
+    ]
+}

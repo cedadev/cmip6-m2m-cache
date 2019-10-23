@@ -1,0 +1,78 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/CMIP/CAS/FGOALS-g3/amip",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/CAS/FGOALS-g3/amip/r1i1p1f1/Amon/tas/gn/v20190818",
+            "drs_id": "CMIP6.CMIP.CAS.FGOALS-g3.amip.r1i1p1f1.Amon.tas.gn.v20190818",
+            "version": "v20190818"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/CAS/FGOALS-g3/amip/r2i1p1f1/Amon/tas/gn/v20190818",
+            "drs_id": "CMIP6.CMIP.CAS.FGOALS-g3.amip.r2i1p1f1.Amon.tas.gn.v20190818",
+            "version": "v20190818"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/CAS/FGOALS-g3/amip/r2i1p1f1/day/tas/gn/v20190818",
+            "drs_id": "CMIP6.CMIP.CAS.FGOALS-g3.amip.r2i1p1f1.day.tas.gn.v20190818",
+            "version": "v20190818"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/CAS/FGOALS-g3/amip/r3i1p1f1/Amon/tas/gn/v20190818",
+            "drs_id": "CMIP6.CMIP.CAS.FGOALS-g3.amip.r3i1p1f1.Amon.tas.gn.v20190818",
+            "version": "v20190818"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/CAS/FGOALS-g3/amip/r4i1p1f1/Amon/tas/gn/v20190820",
+            "drs_id": "CMIP6.CMIP.CAS.FGOALS-g3.amip.r4i1p1f1.Amon.tas.gn.v20190820",
+            "version": "v20190820"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/CAS/FGOALS-g3/amip/r5i1p1f1/Amon/tas/gn/v20190820",
+            "drs_id": "CMIP6.CMIP.CAS.FGOALS-g3.amip.r5i1p1f1.Amon.tas.gn.v20190820",
+            "version": "v20190820"
+        }
+    ],
+    "facets": {
+        "activity_id": "CMIP",
+        "experiment_id": [
+            "amip"
+        ],
+        "grid_label": [
+            "gn"
+        ],
+        "institution_id": "CAS",
+        "member_id": [
+            "r1i1p1f1",
+            "r2i1p1f1",
+            "r3i1p1f1",
+            "r4i1p1f1",
+            "r5i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "FGOALS-g3",
+        "table_id": [
+            "Amon",
+            "day"
+        ],
+        "variable_id": [
+            "tas"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T11:48:25",
+    "n_files": 58,
+    "phenomena": [
+        "tas"
+    ],
+    "size_in_bytes": 909934000,
+    "temporal_extent": [
+        "1979-01-01 12:00:00",
+        "2016-12-31 12:00:00"
+    ]
+}

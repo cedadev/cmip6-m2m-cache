@@ -1,0 +1,55 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp534-over",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp534-over/r1i1p1f1/day/tas/gr/v20190614",
+            "drs_id": "CMIP6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp534-over.r1i1p1f1.day.tas.gr.v20190614",
+            "version": "v20190614"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp534-over/r1i1p1f1/day/tasmax/gr/v20190614",
+            "drs_id": "CMIP6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp534-over.r1i1p1f1.day.tasmax.gr.v20190614",
+            "version": "v20190614"
+        }
+    ],
+    "facets": {
+        "activity_id": "ScenarioMIP",
+        "experiment_id": [
+            "ssp534-over"
+        ],
+        "grid_label": [
+            "gr"
+        ],
+        "institution_id": "IPSL",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "IPSL-CM6A-LR",
+        "table_id": [
+            "day"
+        ],
+        "variable_id": [
+            "tas",
+            "tasmax"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T11:48:54",
+    "n_files": 2,
+    "phenomena": [
+        "tas",
+        "tasmax"
+    ],
+    "size_in_bytes": 2165860000,
+    "temporal_extent": [
+        "2040-01-01 12:00:00",
+        "2100-12-31 12:00:00"
+    ]
+}

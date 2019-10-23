@@ -1,0 +1,102 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/ScenarioMIP/NOAA-GFDL/GFDL-ESM4/ssp585",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/NOAA-GFDL/GFDL-ESM4/ssp585/r1i1p1f1/Amon/ta/gr1/v20180701",
+            "drs_id": "CMIP6.ScenarioMIP.NOAA-GFDL.GFDL-ESM4.ssp585.r1i1p1f1.Amon.ta.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/NOAA-GFDL/GFDL-ESM4/ssp585/r1i1p1f1/Lmon/mrso/gr1/v20180701",
+            "drs_id": "CMIP6.ScenarioMIP.NOAA-GFDL.GFDL-ESM4.ssp585.r1i1p1f1.Lmon.mrso.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/NOAA-GFDL/GFDL-ESM4/ssp585/r1i1p1f1/Lmon/mrsos/gr1/v20180701",
+            "drs_id": "CMIP6.ScenarioMIP.NOAA-GFDL.GFDL-ESM4.ssp585.r1i1p1f1.Lmon.mrsos.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/NOAA-GFDL/GFDL-ESM4/ssp585/r1i1p1f1/SImon/siconc/gn/v20180701",
+            "drs_id": "CMIP6.ScenarioMIP.NOAA-GFDL.GFDL-ESM4.ssp585.r1i1p1f1.SImon.siconc.gn.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/NOAA-GFDL/GFDL-ESM4/ssp585/r1i1p1f1/SImon/siconc/gr/v20180701",
+            "drs_id": "CMIP6.ScenarioMIP.NOAA-GFDL.GFDL-ESM4.ssp585.r1i1p1f1.SImon.siconc.gr.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/NOAA-GFDL/GFDL-ESM4/ssp585/r1i1p1f1/SImon/simass/gn/v20180701",
+            "drs_id": "CMIP6.ScenarioMIP.NOAA-GFDL.GFDL-ESM4.ssp585.r1i1p1f1.SImon.simass.gn.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/NOAA-GFDL/GFDL-ESM4/ssp585/r1i1p1f1/SImon/simass/gr/v20180701",
+            "drs_id": "CMIP6.ScenarioMIP.NOAA-GFDL.GFDL-ESM4.ssp585.r1i1p1f1.SImon.simass.gr.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/NOAA-GFDL/GFDL-ESM4/ssp585/r1i1p1f1/SImon/sisnmass/gn/v20180701",
+            "drs_id": "CMIP6.ScenarioMIP.NOAA-GFDL.GFDL-ESM4.ssp585.r1i1p1f1.SImon.sisnmass.gn.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/NOAA-GFDL/GFDL-ESM4/ssp585/r1i1p1f1/SImon/sisnmass/gr/v20180701",
+            "drs_id": "CMIP6.ScenarioMIP.NOAA-GFDL.GFDL-ESM4.ssp585.r1i1p1f1.SImon.sisnmass.gr.v20180701",
+            "version": "v20180701"
+        }
+    ],
+    "facets": {
+        "activity_id": "ScenarioMIP",
+        "experiment_id": [
+            "ssp585"
+        ],
+        "grid_label": [
+            "gn",
+            "gr",
+            "gr1"
+        ],
+        "institution_id": "NOAA-GFDL",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "GFDL-ESM4",
+        "table_id": [
+            "Amon",
+            "Lmon",
+            "SImon"
+        ],
+        "variable_id": [
+            "mrso",
+            "mrsos",
+            "siconc",
+            "simass",
+            "sisnmass",
+            "ta"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T11:49:06",
+    "n_files": 9,
+    "phenomena": [
+        "mrso",
+        "mrsos",
+        "siconc",
+        "simass",
+        "sisnmass",
+        "ta"
+    ],
+    "size_in_bytes": 3120801000,
+    "temporal_extent": [
+        "2015-01-16 12:00:00",
+        "2100-12-16 12:00:00"
+    ]
+}

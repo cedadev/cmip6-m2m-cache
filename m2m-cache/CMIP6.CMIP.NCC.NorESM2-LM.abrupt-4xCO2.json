@@ -1,0 +1,126 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorESM2-LM/abrupt-4xCO2",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorESM2-LM/abrupt-4xCO2/r1i1p1f1/Amon/pr/gn/v20190815",
+            "drs_id": "CMIP6.CMIP.NCC.NorESM2-LM.abrupt-4xCO2.r1i1p1f1.Amon.pr.gn.v20190815",
+            "version": "v20190815"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorESM2-LM/abrupt-4xCO2/r1i1p1f1/Amon/rlut/gn/v20190815",
+            "drs_id": "CMIP6.CMIP.NCC.NorESM2-LM.abrupt-4xCO2.r1i1p1f1.Amon.rlut.gn.v20190815",
+            "version": "v20190815"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorESM2-LM/abrupt-4xCO2/r1i1p1f1/Amon/rlutcs/gn/v20190815",
+            "drs_id": "CMIP6.CMIP.NCC.NorESM2-LM.abrupt-4xCO2.r1i1p1f1.Amon.rlutcs.gn.v20190815",
+            "version": "v20190815"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorESM2-LM/abrupt-4xCO2/r1i1p1f1/Amon/rsdt/gn/v20190815",
+            "drs_id": "CMIP6.CMIP.NCC.NorESM2-LM.abrupt-4xCO2.r1i1p1f1.Amon.rsdt.gn.v20190815",
+            "version": "v20190815"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorESM2-LM/abrupt-4xCO2/r1i1p1f1/Amon/rsut/gn/v20190815",
+            "drs_id": "CMIP6.CMIP.NCC.NorESM2-LM.abrupt-4xCO2.r1i1p1f1.Amon.rsut.gn.v20190815",
+            "version": "v20190815"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorESM2-LM/abrupt-4xCO2/r1i1p1f1/Amon/rsutcs/gn/v20190815",
+            "drs_id": "CMIP6.CMIP.NCC.NorESM2-LM.abrupt-4xCO2.r1i1p1f1.Amon.rsutcs.gn.v20190815",
+            "version": "v20190815"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorESM2-LM/abrupt-4xCO2/r1i1p1f1/Amon/tas/gn/v20190815",
+            "drs_id": "CMIP6.CMIP.NCC.NorESM2-LM.abrupt-4xCO2.r1i1p1f1.Amon.tas.gn.v20190815",
+            "version": "v20190815"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorESM2-LM/abrupt-4xCO2/r1i1p1f1/Oday/tos/gn/v20190815",
+            "drs_id": "CMIP6.CMIP.NCC.NorESM2-LM.abrupt-4xCO2.r1i1p1f1.Oday.tos.gn.v20190815",
+            "version": "v20190815"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorESM2-LM/abrupt-4xCO2/r1i1p1f1/Ofx/volcello/gr/v20190815",
+            "drs_id": "CMIP6.CMIP.NCC.NorESM2-LM.abrupt-4xCO2.r1i1p1f1.Ofx.volcello.gr.v20190815",
+            "version": "v20190815"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorESM2-LM/abrupt-4xCO2/r1i1p1f1/Omon/thetao/gn/v20190815",
+            "drs_id": "CMIP6.CMIP.NCC.NorESM2-LM.abrupt-4xCO2.r1i1p1f1.Omon.thetao.gn.v20190815",
+            "version": "v20190815"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorESM2-LM/abrupt-4xCO2/r1i1p1f1/Omon/tos/gn/v20190815",
+            "drs_id": "CMIP6.CMIP.NCC.NorESM2-LM.abrupt-4xCO2.r1i1p1f1.Omon.tos.gn.v20190815",
+            "version": "v20190815"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorESM2-LM/abrupt-4xCO2/r1i1p1f1/day/pr/gn/v20190815",
+            "drs_id": "CMIP6.CMIP.NCC.NorESM2-LM.abrupt-4xCO2.r1i1p1f1.day.pr.gn.v20190815",
+            "version": "v20190815"
+        }
+    ],
+    "facets": {
+        "activity_id": "CMIP",
+        "experiment_id": [
+            "abrupt-4xCO2"
+        ],
+        "grid_label": [
+            "gn",
+            "gr"
+        ],
+        "institution_id": "NCC",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "NorESM2-LM",
+        "table_id": [
+            "Amon",
+            "Oday",
+            "Ofx",
+            "Omon",
+            "day"
+        ],
+        "variable_id": [
+            "pr",
+            "rlut",
+            "rlutcs",
+            "rsdt",
+            "rsut",
+            "rsutcs",
+            "tas",
+            "thetao",
+            "tos",
+            "volcello"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T11:51:29",
+    "n_files": 319,
+    "phenomena": [
+        "pr",
+        "rlut",
+        "rlutcs",
+        "rsdt",
+        "rsut",
+        "rsutcs",
+        "tas",
+        "thetao",
+        "tos",
+        "volcello"
+    ],
+    "size_in_bytes": 60796139000,
+    "temporal_extent": [
+        "1-01-01 12:00:00",
+        "300-12-31 12:00:00"
+    ]
+}

@@ -1,0 +1,271 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/cli/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.cli.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/clivi/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.clivi.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/clt/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.clt.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/clw/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.clw.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/clwvi/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.clwvi.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/evspsbl/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.evspsbl.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/hfls/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.hfls.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/hfss/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.hfss.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/hur/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.hur.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/hus/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.hus.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/pr/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.pr.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/prw/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.prw.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/ps/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.ps.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/psl/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.psl.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/rlds/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.rlds.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/rldscs/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.rldscs.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/rlut/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.rlut.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/rlutcs/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.rlutcs.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/rsds/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.rsds.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/rsdscs/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.rsdscs.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/rsut/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.rsut.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/rsutcs/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.rsutcs.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/rtmt/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.rtmt.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/ta/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.ta.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/tas/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.tas.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/tasmax/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.tasmax.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/tasmin/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.tasmin.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/ts/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.ts.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/ua/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.ua.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/va/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.va.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/wap/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.wap.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/Amon/zg/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.Amon.zg.gn.v20190507",
+            "version": "v20190507"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NCAR/CESM2/aqua-p4K/r1i1p1f1/CFmon/ta/gn/v20190507",
+            "drs_id": "CMIP6.CFMIP.NCAR.CESM2.aqua-p4K.r1i1p1f1.CFmon.ta.gn.v20190507",
+            "version": "v20190507"
+        }
+    ],
+    "facets": {
+        "activity_id": "CFMIP",
+        "experiment_id": [
+            "aqua-p4K"
+        ],
+        "grid_label": [
+            "gn"
+        ],
+        "institution_id": "NCAR",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "CESM2",
+        "table_id": [
+            "Amon",
+            "CFmon"
+        ],
+        "variable_id": [
+            "cli",
+            "clivi",
+            "clt",
+            "clw",
+            "clwvi",
+            "evspsbl",
+            "hfls",
+            "hfss",
+            "hur",
+            "hus",
+            "pr",
+            "prw",
+            "ps",
+            "psl",
+            "rlds",
+            "rldscs",
+            "rlut",
+            "rlutcs",
+            "rsds",
+            "rsdscs",
+            "rsut",
+            "rsutcs",
+            "rtmt",
+            "ta",
+            "tas",
+            "tasmax",
+            "tasmin",
+            "ts",
+            "ua",
+            "va",
+            "wap",
+            "zg"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T11:48:09",
+    "n_files": 33,
+    "phenomena": [
+        "cli",
+        "clivi",
+        "clt",
+        "clw",
+        "clwvi",
+        "evspsbl",
+        "hfls",
+        "hfss",
+        "hur",
+        "hus",
+        "pr",
+        "prw",
+        "ps",
+        "psl",
+        "rlds",
+        "rldscs",
+        "rlut",
+        "rlutcs",
+        "rsds",
+        "rsdscs",
+        "rsut",
+        "rsutcs",
+        "rtmt",
+        "ta",
+        "tas",
+        "tasmax",
+        "tasmin",
+        "ts",
+        "ua",
+        "va",
+        "wap",
+        "zg"
+    ],
+    "size_in_bytes": 3871964000,
+    "temporal_extent": [
+        "1-01-15 12:00:00",
+        "10-12-15 12:00:00"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/RFMIP/NOAA-GFDL/GFDL-CM4/piClim-aer",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/NOAA-GFDL/GFDL-CM4/piClim-aer/r1i1p1f1/Amon/rlut/gr1/v20180701",
+            "drs_id": "CMIP6.RFMIP.NOAA-GFDL.GFDL-CM4.piClim-aer.r1i1p1f1.Amon.rlut.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/NOAA-GFDL/GFDL-CM4/piClim-aer/r1i1p1f1/Amon/rlutcs/gr1/v20180701",
+            "drs_id": "CMIP6.RFMIP.NOAA-GFDL.GFDL-CM4.piClim-aer.r1i1p1f1.Amon.rlutcs.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/NOAA-GFDL/GFDL-CM4/piClim-aer/r1i1p1f1/Amon/rsut/gr1/v20180701",
+            "drs_id": "CMIP6.RFMIP.NOAA-GFDL.GFDL-CM4.piClim-aer.r1i1p1f1.Amon.rsut.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/RFMIP/NOAA-GFDL/GFDL-CM4/piClim-aer/r1i1p1f1/Amon/rsutcs/gr1/v20180701",
+            "drs_id": "CMIP6.RFMIP.NOAA-GFDL.GFDL-CM4.piClim-aer.r1i1p1f1.Amon.rsutcs.gr1.v20180701",
+            "version": "v20180701"
+        }
+    ],
+    "facets": {
+        "activity_id": "RFMIP",
+        "experiment_id": [
+            "piClim-aer"
+        ],
+        "grid_label": [
+            "gr1"
+        ],
+        "institution_id": "NOAA-GFDL",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "GFDL-CM4",
+        "table_id": [
+            "Amon"
+        ],
+        "variable_id": [
+            "rlut",
+            "rlutcs",
+            "rsut",
+            "rsutcs"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T11:48:45",
+    "n_files": 4,
+    "phenomena": [
+        "rlut",
+        "rlutcs",
+        "rsut",
+        "rsutcs"
+    ],
+    "size_in_bytes": 187113000,
+    "temporal_extent": [
+        "1-01-16 12:00:00",
+        "30-12-16 12:00:00"
+    ]
+}

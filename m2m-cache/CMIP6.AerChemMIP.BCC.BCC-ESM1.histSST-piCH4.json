@@ -1,0 +1,62 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/AerChemMIP/BCC/BCC-ESM1/histSST-piCH4",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/BCC/BCC-ESM1/histSST-piCH4/r1i1p1f1/Amon/cli/gn/v20190805",
+            "drs_id": "CMIP6.AerChemMIP.BCC.BCC-ESM1.histSST-piCH4.r1i1p1f1.Amon.cli.gn.v20190805",
+            "version": "v20190805"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/BCC/BCC-ESM1/histSST-piCH4/r1i1p1f1/Amon/clw/gn/v20190805",
+            "drs_id": "CMIP6.AerChemMIP.BCC.BCC-ESM1.histSST-piCH4.r1i1p1f1.Amon.clw.gn.v20190805",
+            "version": "v20190805"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/BCC/BCC-ESM1/histSST-piCH4/r1i1p1f1/Amon/ta/gn/v20190805",
+            "drs_id": "CMIP6.AerChemMIP.BCC.BCC-ESM1.histSST-piCH4.r1i1p1f1.Amon.ta.gn.v20190805",
+            "version": "v20190805"
+        }
+    ],
+    "facets": {
+        "activity_id": "AerChemMIP",
+        "experiment_id": [
+            "histSST-piCH4"
+        ],
+        "grid_label": [
+            "gn"
+        ],
+        "institution_id": "BCC",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "BCC-ESM1",
+        "table_id": [
+            "Amon"
+        ],
+        "variable_id": [
+            "cli",
+            "clw",
+            "ta"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T11:47:54",
+    "n_files": 3,
+    "phenomena": [
+        "cli",
+        "clw",
+        "ta"
+    ],
+    "size_in_bytes": 4625479000,
+    "temporal_extent": [
+        "1850-01-16 12:00:00",
+        "2014-12-16 12:00:00"
+    ]
+}

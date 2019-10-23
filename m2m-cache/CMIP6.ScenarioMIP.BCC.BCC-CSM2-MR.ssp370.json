@@ -1,0 +1,408 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/ch4/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.ch4.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/clivi/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.clivi.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/clt/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.clt.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/clwvi/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.clwvi.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/co2/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.co2.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/evspsbl/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.evspsbl.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/hfls/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.hfls.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/hfss/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.hfss.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/hur/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.hur.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/hus/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.hus.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/o3/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.o3.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/pr/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.pr.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/prsn/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.prsn.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/prw/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.prw.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/ps/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.ps.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/psl/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.psl.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/rlds/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.rlds.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/rldscs/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.rldscs.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/rlut/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.rlut.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/rlutcs/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.rlutcs.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/rsds/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.rsds.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/rsdscs/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.rsdscs.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/rsut/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.rsut.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/rsutcs/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.rsutcs.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/rtmt/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.rtmt.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/ta/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.ta.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/tas/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.tas.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/tasmax/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.tasmax.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/tasmin/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.tasmin.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/tauu/gn/v20190404",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.tauu.gn.v20190404",
+            "version": "v20190404"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/tauv/gn/v20190404",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.tauv.gn.v20190404",
+            "version": "v20190404"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/ts/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.ts.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/ua/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.ua.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/va/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.va.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/wap/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.wap.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Amon/zg/gn/v20190314",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Amon.zg.gn.v20190314",
+            "version": "v20190314"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Lmon/cVeg/gn/v20190308",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Lmon.cVeg.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Lmon/gpp/gn/v20190308",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Lmon.gpp.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Lmon/lai/gn/v20190308",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Lmon.lai.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Lmon/mrro/gn/v20190308",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Lmon.mrro.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Lmon/mrso/gn/v20190308",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Lmon.mrso.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Lmon/mrsos/gn/v20190308",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Lmon.mrsos.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Omon/fgco2/gn/v20190319",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Omon.fgco2.gn.v20190319",
+            "version": "v20190319"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Omon/mlotst/gn/v20190319",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Omon.mlotst.gn.v20190319",
+            "version": "v20190319"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Omon/so/gn/v20190319",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Omon.so.gn.v20190319",
+            "version": "v20190319"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Omon/sos/gn/v20190319",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Omon.sos.gn.v20190319",
+            "version": "v20190319"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Omon/thetao/gn/v20190319",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Omon.thetao.gn.v20190319",
+            "version": "v20190319"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Omon/tos/gn/v20190319",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Omon.tos.gn.v20190319",
+            "version": "v20190319"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Omon/uo/gn/v20190319",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Omon.uo.gn.v20190319",
+            "version": "v20190319"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Omon/vo/gn/v20190319",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Omon.vo.gn.v20190319",
+            "version": "v20190319"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/Omon/zos/gn/v20190429",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.Omon.zos.gn.v20190429",
+            "version": "v20190429"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp370/r1i1p1f1/SImon/simass/gn/v20190315",
+            "drs_id": "CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp370.r1i1p1f1.SImon.simass.gn.v20190315",
+            "version": "v20190315"
+        }
+    ],
+    "facets": {
+        "activity_id": "ScenarioMIP",
+        "experiment_id": [
+            "ssp370"
+        ],
+        "grid_label": [
+            "gn"
+        ],
+        "institution_id": "BCC",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "BCC-CSM2-MR",
+        "table_id": [
+            "Amon",
+            "Lmon",
+            "Omon",
+            "SImon"
+        ],
+        "variable_id": [
+            "cVeg",
+            "ch4",
+            "clivi",
+            "clt",
+            "clwvi",
+            "co2",
+            "evspsbl",
+            "fgco2",
+            "gpp",
+            "hfls",
+            "hfss",
+            "hur",
+            "hus",
+            "lai",
+            "mlotst",
+            "mrro",
+            "mrso",
+            "mrsos",
+            "o3",
+            "pr",
+            "prsn",
+            "prw",
+            "ps",
+            "psl",
+            "rlds",
+            "rldscs",
+            "rlut",
+            "rlutcs",
+            "rsds",
+            "rsdscs",
+            "rsut",
+            "rsutcs",
+            "rtmt",
+            "simass",
+            "so",
+            "sos",
+            "ta",
+            "tas",
+            "tasmax",
+            "tasmin",
+            "tauu",
+            "tauv",
+            "thetao",
+            "tos",
+            "ts",
+            "ua",
+            "uo",
+            "va",
+            "vo",
+            "wap",
+            "zg",
+            "zos"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T11:49:18",
+    "n_files": 104,
+    "phenomena": [
+        "cVeg",
+        "ch4",
+        "clivi",
+        "clt",
+        "clwvi",
+        "co2",
+        "evspsbl",
+        "fgco2",
+        "gpp",
+        "hfls",
+        "hfss",
+        "hur",
+        "hus",
+        "lai",
+        "mlotst",
+        "mrro",
+        "mrso",
+        "mrsos",
+        "o3",
+        "pr",
+        "prsn",
+        "prw",
+        "ps",
+        "psl",
+        "rlds",
+        "rldscs",
+        "rlut",
+        "rlutcs",
+        "rsds",
+        "rsdscs",
+        "rsut",
+        "rsutcs",
+        "rtmt",
+        "simass",
+        "so",
+        "sos",
+        "ta",
+        "tas",
+        "tasmax",
+        "tasmin",
+        "tauu",
+        "tauv",
+        "thetao",
+        "tos",
+        "ts",
+        "ua",
+        "uo",
+        "va",
+        "vo",
+        "wap",
+        "zg",
+        "zos"
+    ],
+    "size_in_bytes": 101742805000,
+    "temporal_extent": [
+        "2015-01-16 12:00:00",
+        "2100-12-16 12:00:00"
+    ]
+}

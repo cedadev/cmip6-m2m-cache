@@ -1,0 +1,62 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/GMMIP/IPSL/IPSL-CM6A-LR/amip-hist",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/GMMIP/IPSL/IPSL-CM6A-LR/amip-hist/r1i1p1f1/Amon/cli/gr/v20180805",
+            "drs_id": "CMIP6.GMMIP.IPSL.IPSL-CM6A-LR.amip-hist.r1i1p1f1.Amon.cli.gr.v20180805",
+            "version": "v20180805"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/GMMIP/IPSL/IPSL-CM6A-LR/amip-hist/r1i1p1f1/Amon/clw/gr/v20180805",
+            "drs_id": "CMIP6.GMMIP.IPSL.IPSL-CM6A-LR.amip-hist.r1i1p1f1.Amon.clw.gr.v20180805",
+            "version": "v20180805"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/GMMIP/IPSL/IPSL-CM6A-LR/amip-hist/r1i1p1f1/Amon/ta/gr/v20180805",
+            "drs_id": "CMIP6.GMMIP.IPSL.IPSL-CM6A-LR.amip-hist.r1i1p1f1.Amon.ta.gr.v20180805",
+            "version": "v20180805"
+        }
+    ],
+    "facets": {
+        "activity_id": "GMMIP",
+        "experiment_id": [
+            "amip-hist"
+        ],
+        "grid_label": [
+            "gr"
+        ],
+        "institution_id": "IPSL",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "IPSL-CM6A-LR",
+        "table_id": [
+            "Amon"
+        ],
+        "variable_id": [
+            "cli",
+            "clw",
+            "ta"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T11:48:18",
+    "n_files": 3,
+    "phenomena": [
+        "cli",
+        "clw",
+        "ta"
+    ],
+    "size_in_bytes": 9141141000,
+    "temporal_extent": [
+        "1870-01-16 12:00:00",
+        "2014-12-16 12:00:00"
+    ]
+}

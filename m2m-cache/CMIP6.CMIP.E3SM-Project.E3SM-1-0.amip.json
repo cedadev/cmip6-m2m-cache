@@ -1,0 +1,81 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/CMIP/E3SM-Project/E3SM-1-0/amip",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/E3SM-Project/E3SM-1-0/amip/r1i1p1f1/Amon/cli/gr/v20190801",
+            "drs_id": "CMIP6.CMIP.E3SM-Project.E3SM-1-0.amip.r1i1p1f1.Amon.cli.gr.v20190801",
+            "version": "v20190801"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/E3SM-Project/E3SM-1-0/amip/r1i1p1f1/Amon/clw/gr/v20190801",
+            "drs_id": "CMIP6.CMIP.E3SM-Project.E3SM-1-0.amip.r1i1p1f1.Amon.clw.gr.v20190801",
+            "version": "v20190801"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/E3SM-Project/E3SM-1-0/amip/r1i1p1f1/Amon/ta/gr/v20190801",
+            "drs_id": "CMIP6.CMIP.E3SM-Project.E3SM-1-0.amip.r1i1p1f1.Amon.ta.gr.v20190801",
+            "version": "v20190801"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/E3SM-Project/E3SM-1-0/amip/r1i1p1f1/Amon/tas/gr/v20190801",
+            "drs_id": "CMIP6.CMIP.E3SM-Project.E3SM-1-0.amip.r1i1p1f1.Amon.tas.gr.v20190801",
+            "version": "v20190801"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/E3SM-Project/E3SM-1-0/amip/r2i1p1f1/Amon/tas/gr/v20190802",
+            "drs_id": "CMIP6.CMIP.E3SM-Project.E3SM-1-0.amip.r2i1p1f1.Amon.tas.gr.v20190802",
+            "version": "v20190802"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/E3SM-Project/E3SM-1-0/amip/r3i1p1f1/Amon/tas/gr/v20190917",
+            "drs_id": "CMIP6.CMIP.E3SM-Project.E3SM-1-0.amip.r3i1p1f1.Amon.tas.gr.v20190917",
+            "version": "v20190917"
+        }
+    ],
+    "facets": {
+        "activity_id": "CMIP",
+        "experiment_id": [
+            "amip"
+        ],
+        "grid_label": [
+            "gr"
+        ],
+        "institution_id": "E3SM-Project",
+        "member_id": [
+            "r1i1p1f1",
+            "r2i1p1f1",
+            "r3i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "E3SM-1-0",
+        "table_id": [
+            "Amon"
+        ],
+        "variable_id": [
+            "cli",
+            "clw",
+            "ta",
+            "tas"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T11:48:26",
+    "n_files": 36,
+    "phenomena": [
+        "cli",
+        "clw",
+        "ta",
+        "tas"
+    ],
+    "size_in_bytes": 48507404000,
+    "temporal_extent": [
+        "1870-01-16 12:00:00",
+        "2014-12-16 12:00:00"
+    ]
+}

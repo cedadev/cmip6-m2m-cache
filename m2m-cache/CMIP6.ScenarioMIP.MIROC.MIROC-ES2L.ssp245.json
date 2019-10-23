@@ -1,0 +1,669 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/AERmon/abs550aer/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.AERmon.abs550aer.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/AERmon/airmass/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.AERmon.airmass.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/AERmon/cdnc/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.AERmon.cdnc.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/AERmon/co2/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.AERmon.co2.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/AERmon/emidms/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.AERmon.emidms.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/AERmon/emidust/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.AERmon.emidust.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/AERmon/emiss/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.AERmon.emiss.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/AERmon/mmrbc/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.AERmon.mmrbc.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/AERmon/mmrdust/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.AERmon.mmrdust.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/AERmon/mmroa/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.AERmon.mmroa.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/AERmon/mmrpm2p5/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.AERmon.mmrpm2p5.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/AERmon/mmrso4/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.AERmon.mmrso4.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/AERmon/mmrss/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.AERmon.mmrss.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/AERmon/od550aer/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.AERmon.od550aer.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/AERmon/od550lt1aer/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.AERmon.od550lt1aer.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/AERmon/so2/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.AERmon.so2.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/AERmon/ua/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.AERmon.ua.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/AERmon/va/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.AERmon.va.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/AERmon/wa/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.AERmon.wa.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/AERmon/zg/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.AERmon.zg.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/AERmonZ/ta/gnz/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.AERmonZ.ta.gnz.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/AERmonZ/ua/gnz/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.AERmonZ.ua.gnz.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/AERmonZ/va/gnz/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.AERmonZ.va.gnz.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/AERmonZ/zg/gnz/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.AERmonZ.zg.gnz.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/clt/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.clt.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/evspsbl/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.evspsbl.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/hfls/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.hfls.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/hfss/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.hfss.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/hurs/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.hurs.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/hus/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.hus.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/huss/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.huss.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/pr/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.pr.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/prsn/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.prsn.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/prw/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.prw.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/ps/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.ps.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/psl/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.psl.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/rlds/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.rlds.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/rlut/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.rlut.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/rlutcs/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.rlutcs.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/rsds/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.rsds.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/rsdt/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.rsdt.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/rsus/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.rsus.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/rsut/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.rsut.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/rsutcs/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.rsutcs.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/rtmt/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.rtmt.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/sbl/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.sbl.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/ta/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.ta.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/tas/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.tas.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/tasmax/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.tasmax.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/tasmin/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.tasmin.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/tauu/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.tauu.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/tauv/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.tauv.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/ts/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.ts.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/ua/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.ua.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/uas/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.uas.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/va/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.va.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/vas/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.vas.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Amon/zg/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Amon.zg.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/CFmon/hus/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.CFmon.hus.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/CFmon/ta/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.CFmon.ta.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/LImon/sbl/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.LImon.sbl.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/LImon/snc/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.LImon.snc.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/LImon/snd/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.LImon.snd.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/LImon/snm/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.LImon.snm.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/LImon/snw/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.LImon.snw.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/LImon/tsn/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.LImon.tsn.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Lmon/gpp/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Lmon.gpp.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Lmon/lai/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Lmon.lai.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Lmon/mrro/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Lmon.mrro.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Lmon/mrros/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Lmon.mrros.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Lmon/mrso/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Lmon.mrso.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Lmon/mrsos/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Lmon.mrsos.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Lmon/nbp/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Lmon.nbp.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Lmon/tsl/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Lmon.tsl.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Ofx/deptho/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Ofx.deptho.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Omon/fgco2/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Omon.fgco2.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Omon/o2/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Omon.o2.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Omon/ph/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Omon.ph.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Omon/prsn/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Omon.prsn.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Omon/so/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Omon.so.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Omon/sos/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Omon.sos.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Omon/tauuo/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Omon.tauuo.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Omon/tauvo/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Omon.tauvo.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Omon/thetao/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Omon.thetao.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Omon/tos/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Omon.tos.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Omon/uo/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Omon.uo.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Omon/vo/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Omon.vo.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Omon/zos/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Omon.zos.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Oyr/fgco2/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Oyr.fgco2.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/Oyr/o2/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.Oyr.o2.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/SImon/siconc/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.SImon.siconc.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r1i1p1f2/SImon/sithick/gn/v20190823",
+            "drs_id": "CMIP6.ScenarioMIP.MIROC.MIROC-ES2L.ssp245.r1i1p1f2.SImon.sithick.gn.v20190823",
+            "version": "v20190823"
+        }
+    ],
+    "facets": {
+        "activity_id": "ScenarioMIP",
+        "experiment_id": [
+            "ssp245"
+        ],
+        "grid_label": [
+            "gn",
+            "gnz"
+        ],
+        "institution_id": "MIROC",
+        "member_id": [
+            "r1i1p1f2"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "MIROC-ES2L",
+        "table_id": [
+            "AERmon",
+            "AERmonZ",
+            "Amon",
+            "CFmon",
+            "LImon",
+            "Lmon",
+            "Ofx",
+            "Omon",
+            "Oyr",
+            "SImon"
+        ],
+        "variable_id": [
+            "abs550aer",
+            "airmass",
+            "cdnc",
+            "clt",
+            "co2",
+            "deptho",
+            "emidms",
+            "emidust",
+            "emiss",
+            "evspsbl",
+            "fgco2",
+            "gpp",
+            "hfls",
+            "hfss",
+            "hurs",
+            "hus",
+            "huss",
+            "lai",
+            "mmrbc",
+            "mmrdust",
+            "mmroa",
+            "mmrpm2p5",
+            "mmrso4",
+            "mmrss",
+            "mrro",
+            "mrros",
+            "mrso",
+            "mrsos",
+            "nbp",
+            "o2",
+            "od550aer",
+            "od550lt1aer",
+            "ph",
+            "pr",
+            "prsn",
+            "prw",
+            "ps",
+            "psl",
+            "rlds",
+            "rlut",
+            "rlutcs",
+            "rsds",
+            "rsdt",
+            "rsus",
+            "rsut",
+            "rsutcs",
+            "rtmt",
+            "sbl",
+            "siconc",
+            "sithick",
+            "snc",
+            "snd",
+            "snm",
+            "snw",
+            "so",
+            "so2",
+            "sos",
+            "ta",
+            "tas",
+            "tasmax",
+            "tasmin",
+            "tauu",
+            "tauuo",
+            "tauv",
+            "tauvo",
+            "thetao",
+            "tos",
+            "ts",
+            "tsl",
+            "tsn",
+            "ua",
+            "uas",
+            "uo",
+            "va",
+            "vas",
+            "vo",
+            "wa",
+            "zg",
+            "zos"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T11:50:05",
+    "n_files": 92,
+    "phenomena": [
+        "abs550aer",
+        "airmass",
+        "cdnc",
+        "clt",
+        "co2",
+        "deptho",
+        "emidms",
+        "emidust",
+        "emiss",
+        "evspsbl",
+        "fgco2",
+        "gpp",
+        "hfls",
+        "hfss",
+        "hurs",
+        "hus",
+        "huss",
+        "lai",
+        "mmrbc",
+        "mmrdust",
+        "mmroa",
+        "mmrpm2p5",
+        "mmrso4",
+        "mmrss",
+        "mrro",
+        "mrros",
+        "mrso",
+        "mrsos",
+        "nbp",
+        "o2",
+        "od550aer",
+        "od550lt1aer",
+        "ph",
+        "pr",
+        "prsn",
+        "prw",
+        "ps",
+        "psl",
+        "rlds",
+        "rlut",
+        "rlutcs",
+        "rsds",
+        "rsdt",
+        "rsus",
+        "rsut",
+        "rsutcs",
+        "rtmt",
+        "sbl",
+        "siconc",
+        "sithick",
+        "snc",
+        "snd",
+        "snm",
+        "snw",
+        "so",
+        "so2",
+        "sos",
+        "ta",
+        "tas",
+        "tasmax",
+        "tasmin",
+        "tauu",
+        "tauuo",
+        "tauv",
+        "tauvo",
+        "thetao",
+        "tos",
+        "ts",
+        "tsl",
+        "tsn",
+        "ua",
+        "uas",
+        "uo",
+        "va",
+        "vas",
+        "vo",
+        "wa",
+        "zg",
+        "zos"
+    ],
+    "size_in_bytes": 64976679000,
+    "temporal_extent": [
+        "2015-01-16 12:00:00",
+        "2100-12-16 12:00:00"
+    ]
+}

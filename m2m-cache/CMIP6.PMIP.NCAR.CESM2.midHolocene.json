@@ -1,0 +1,93 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/PMIP/NCAR/CESM2/midHolocene",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/PMIP/NCAR/CESM2/midHolocene/r1i1p1f1/Amon/evspsbl/gn/v20190923",
+            "drs_id": "CMIP6.PMIP.NCAR.CESM2.midHolocene.r1i1p1f1.Amon.evspsbl.gn.v20190923",
+            "version": "v20190923"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/PMIP/NCAR/CESM2/midHolocene/r1i1p1f1/Amon/tas/gn/v20190923",
+            "drs_id": "CMIP6.PMIP.NCAR.CESM2.midHolocene.r1i1p1f1.Amon.tas.gn.v20190923",
+            "version": "v20190923"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/PMIP/NCAR/CESM2/midHolocene/r1i1p1f1/Amon/ts/gn/v20190923",
+            "drs_id": "CMIP6.PMIP.NCAR.CESM2.midHolocene.r1i1p1f1.Amon.ts.gn.v20190923",
+            "version": "v20190923"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/PMIP/NCAR/CESM2/midHolocene/r1i1p1f1/Omon/tos/gr/v20190923",
+            "drs_id": "CMIP6.PMIP.NCAR.CESM2.midHolocene.r1i1p1f1.Omon.tos.gr.v20190923",
+            "version": "v20190923"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/PMIP/NCAR/CESM2/midHolocene/r1i1p1f1/SIday/siconc/gn/v20190923",
+            "drs_id": "CMIP6.PMIP.NCAR.CESM2.midHolocene.r1i1p1f1.SIday.siconc.gn.v20190923",
+            "version": "v20190923"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/PMIP/NCAR/CESM2/midHolocene/r1i1p1f1/SImon/siconc/gn/v20190923",
+            "drs_id": "CMIP6.PMIP.NCAR.CESM2.midHolocene.r1i1p1f1.SImon.siconc.gn.v20190923",
+            "version": "v20190923"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/PMIP/NCAR/CESM2/midHolocene/r1i1p1f1/fx/sftgif/gn/v20190923",
+            "drs_id": "CMIP6.PMIP.NCAR.CESM2.midHolocene.r1i1p1f1.fx.sftgif.gn.v20190923",
+            "version": "v20190923"
+        }
+    ],
+    "facets": {
+        "activity_id": "PMIP",
+        "experiment_id": [
+            "midHolocene"
+        ],
+        "grid_label": [
+            "gn",
+            "gr"
+        ],
+        "institution_id": "NCAR",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "CESM2",
+        "table_id": [
+            "Amon",
+            "Omon",
+            "SIday",
+            "SImon",
+            "fx"
+        ],
+        "variable_id": [
+            "evspsbl",
+            "sftgif",
+            "siconc",
+            "tas",
+            "tos",
+            "ts"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T11:49:37",
+    "n_files": 80,
+    "phenomena": [
+        "evspsbl",
+        "sftgif",
+        "siconc",
+        "tas",
+        "tos",
+        "ts"
+    ],
+    "size_in_bytes": 16087298000,
+    "temporal_extent": [
+        "1-01-15 12:00:00",
+        "701-01-01 00:00:00"
+    ]
+}

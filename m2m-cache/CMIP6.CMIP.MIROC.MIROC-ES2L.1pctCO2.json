@@ -1,0 +1,98 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/CMIP/MIROC/MIROC-ES2L/1pctCO2",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MIROC/MIROC-ES2L/1pctCO2/r1i1p1f2/Amon/rlut/gn/v20190823",
+            "drs_id": "CMIP6.CMIP.MIROC.MIROC-ES2L.1pctCO2.r1i1p1f2.Amon.rlut.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MIROC/MIROC-ES2L/1pctCO2/r1i1p1f2/Amon/rlutcs/gn/v20190823",
+            "drs_id": "CMIP6.CMIP.MIROC.MIROC-ES2L.1pctCO2.r1i1p1f2.Amon.rlutcs.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MIROC/MIROC-ES2L/1pctCO2/r1i1p1f2/Amon/rsdt/gn/v20190823",
+            "drs_id": "CMIP6.CMIP.MIROC.MIROC-ES2L.1pctCO2.r1i1p1f2.Amon.rsdt.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MIROC/MIROC-ES2L/1pctCO2/r1i1p1f2/Amon/rsut/gn/v20190823",
+            "drs_id": "CMIP6.CMIP.MIROC.MIROC-ES2L.1pctCO2.r1i1p1f2.Amon.rsut.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MIROC/MIROC-ES2L/1pctCO2/r1i1p1f2/Amon/rsutcs/gn/v20190823",
+            "drs_id": "CMIP6.CMIP.MIROC.MIROC-ES2L.1pctCO2.r1i1p1f2.Amon.rsutcs.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MIROC/MIROC-ES2L/1pctCO2/r1i1p1f2/Amon/tas/gn/v20190823",
+            "drs_id": "CMIP6.CMIP.MIROC.MIROC-ES2L.1pctCO2.r1i1p1f2.Amon.tas.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MIROC/MIROC-ES2L/1pctCO2/r1i1p1f2/Omon/thetao/gn/v20190823",
+            "drs_id": "CMIP6.CMIP.MIROC.MIROC-ES2L.1pctCO2.r1i1p1f2.Omon.thetao.gn.v20190823",
+            "version": "v20190823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MIROC/MIROC-ES2L/1pctCO2/r1i1p1f2/Omon/tos/gn/v20190823",
+            "drs_id": "CMIP6.CMIP.MIROC.MIROC-ES2L.1pctCO2.r1i1p1f2.Omon.tos.gn.v20190823",
+            "version": "v20190823"
+        }
+    ],
+    "facets": {
+        "activity_id": "CMIP",
+        "experiment_id": [
+            "1pctCO2"
+        ],
+        "grid_label": [
+            "gn"
+        ],
+        "institution_id": "MIROC",
+        "member_id": [
+            "r1i1p1f2"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "MIROC-ES2L",
+        "table_id": [
+            "Amon",
+            "Omon"
+        ],
+        "variable_id": [
+            "rlut",
+            "rlutcs",
+            "rsdt",
+            "rsut",
+            "rsutcs",
+            "tas",
+            "thetao",
+            "tos"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T11:48:01",
+    "n_files": 8,
+    "phenomena": [
+        "rlut",
+        "rlutcs",
+        "rsdt",
+        "rsut",
+        "rsutcs",
+        "tas",
+        "thetao",
+        "tos"
+    ],
+    "size_in_bytes": 14276442000,
+    "temporal_extent": [
+        "1850-01-16 12:00:00",
+        "1999-12-16 12:00:00"
+    ]
+}

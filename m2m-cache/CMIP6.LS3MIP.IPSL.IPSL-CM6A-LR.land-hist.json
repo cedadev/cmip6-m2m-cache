@@ -1,0 +1,118 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/LS3MIP/IPSL/IPSL-CM6A-LR/land-hist",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LS3MIP/IPSL/IPSL-CM6A-LR/land-hist/r1i1p1f1/Lmon/baresoilFrac/gr/v20190708",
+            "drs_id": "CMIP6.LS3MIP.IPSL.IPSL-CM6A-LR.land-hist.r1i1p1f1.Lmon.baresoilFrac.gr.v20190708",
+            "version": "v20190708"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LS3MIP/IPSL/IPSL-CM6A-LR/land-hist/r1i1p1f1/Lmon/cVeg/gr/v20190708",
+            "drs_id": "CMIP6.LS3MIP.IPSL.IPSL-CM6A-LR.land-hist.r1i1p1f1.Lmon.cVeg.gr.v20190708",
+            "version": "v20190708"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LS3MIP/IPSL/IPSL-CM6A-LR/land-hist/r1i1p1f1/Lmon/cropFrac/gr/v20190708",
+            "drs_id": "CMIP6.LS3MIP.IPSL.IPSL-CM6A-LR.land-hist.r1i1p1f1.Lmon.cropFrac.gr.v20190708",
+            "version": "v20190708"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LS3MIP/IPSL/IPSL-CM6A-LR/land-hist/r1i1p1f1/Lmon/gpp/gr/v20190708",
+            "drs_id": "CMIP6.LS3MIP.IPSL.IPSL-CM6A-LR.land-hist.r1i1p1f1.Lmon.gpp.gr.v20190708",
+            "version": "v20190708"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LS3MIP/IPSL/IPSL-CM6A-LR/land-hist/r1i1p1f1/Lmon/grassFrac/gr/v20190708",
+            "drs_id": "CMIP6.LS3MIP.IPSL.IPSL-CM6A-LR.land-hist.r1i1p1f1.Lmon.grassFrac.gr.v20190708",
+            "version": "v20190708"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LS3MIP/IPSL/IPSL-CM6A-LR/land-hist/r1i1p1f1/Lmon/lai/gr/v20190708",
+            "drs_id": "CMIP6.LS3MIP.IPSL.IPSL-CM6A-LR.land-hist.r1i1p1f1.Lmon.lai.gr.v20190708",
+            "version": "v20190708"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LS3MIP/IPSL/IPSL-CM6A-LR/land-hist/r1i1p1f1/Lmon/mrro/gr/v20190708",
+            "drs_id": "CMIP6.LS3MIP.IPSL.IPSL-CM6A-LR.land-hist.r1i1p1f1.Lmon.mrro.gr.v20190708",
+            "version": "v20190708"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LS3MIP/IPSL/IPSL-CM6A-LR/land-hist/r1i1p1f1/Lmon/mrso/gr/v20190708",
+            "drs_id": "CMIP6.LS3MIP.IPSL.IPSL-CM6A-LR.land-hist.r1i1p1f1.Lmon.mrso.gr.v20190708",
+            "version": "v20190708"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LS3MIP/IPSL/IPSL-CM6A-LR/land-hist/r1i1p1f1/Lmon/mrsos/gr/v20190708",
+            "drs_id": "CMIP6.LS3MIP.IPSL.IPSL-CM6A-LR.land-hist.r1i1p1f1.Lmon.mrsos.gr.v20190708",
+            "version": "v20190708"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LS3MIP/IPSL/IPSL-CM6A-LR/land-hist/r1i1p1f1/Lmon/nbp/gr/v20190708",
+            "drs_id": "CMIP6.LS3MIP.IPSL.IPSL-CM6A-LR.land-hist.r1i1p1f1.Lmon.nbp.gr.v20190708",
+            "version": "v20190708"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LS3MIP/IPSL/IPSL-CM6A-LR/land-hist/r1i1p1f1/Lmon/treeFrac/gr/v20190708",
+            "drs_id": "CMIP6.LS3MIP.IPSL.IPSL-CM6A-LR.land-hist.r1i1p1f1.Lmon.treeFrac.gr.v20190708",
+            "version": "v20190708"
+        }
+    ],
+    "facets": {
+        "activity_id": "LS3MIP",
+        "experiment_id": [
+            "land-hist"
+        ],
+        "grid_label": [
+            "gr"
+        ],
+        "institution_id": "IPSL",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "IPSL-CM6A-LR",
+        "table_id": [
+            "Lmon"
+        ],
+        "variable_id": [
+            "baresoilFrac",
+            "cVeg",
+            "cropFrac",
+            "gpp",
+            "grassFrac",
+            "lai",
+            "mrro",
+            "mrso",
+            "mrsos",
+            "nbp",
+            "treeFrac"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T11:48:27",
+    "n_files": 11,
+    "phenomena": [
+        "baresoilFrac",
+        "cVeg",
+        "cropFrac",
+        "gpp",
+        "grassFrac",
+        "lai",
+        "mrro",
+        "mrso",
+        "mrsos",
+        "nbp",
+        "treeFrac"
+    ],
+    "size_in_bytes": 491680000,
+    "temporal_extent": [
+        "1850-01-16 12:00:00",
+        "2014-12-16 12:00:00"
+    ]
+}

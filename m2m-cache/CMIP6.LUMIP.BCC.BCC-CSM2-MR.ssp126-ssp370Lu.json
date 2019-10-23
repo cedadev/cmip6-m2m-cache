@@ -1,0 +1,62 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/LUMIP/BCC/BCC-CSM2-MR/ssp126-ssp370Lu",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LUMIP/BCC/BCC-CSM2-MR/ssp126-ssp370Lu/r1i1p1f1/Amon/cli/gn/v20190719",
+            "drs_id": "CMIP6.LUMIP.BCC.BCC-CSM2-MR.ssp126-ssp370Lu.r1i1p1f1.Amon.cli.gn.v20190719",
+            "version": "v20190719"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LUMIP/BCC/BCC-CSM2-MR/ssp126-ssp370Lu/r1i1p1f1/Amon/clw/gn/v20190719",
+            "drs_id": "CMIP6.LUMIP.BCC.BCC-CSM2-MR.ssp126-ssp370Lu.r1i1p1f1.Amon.clw.gn.v20190719",
+            "version": "v20190719"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/LUMIP/BCC/BCC-CSM2-MR/ssp126-ssp370Lu/r1i1p1f1/Amon/ta/gn/v20190719",
+            "drs_id": "CMIP6.LUMIP.BCC.BCC-CSM2-MR.ssp126-ssp370Lu.r1i1p1f1.Amon.ta.gn.v20190719",
+            "version": "v20190719"
+        }
+    ],
+    "facets": {
+        "activity_id": "LUMIP",
+        "experiment_id": [
+            "ssp126-ssp370Lu"
+        ],
+        "grid_label": [
+            "gn"
+        ],
+        "institution_id": "BCC",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "BCC-CSM2-MR",
+        "table_id": [
+            "Amon"
+        ],
+        "variable_id": [
+            "cli",
+            "clw",
+            "ta"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T11:48:28",
+    "n_files": 15,
+    "phenomena": [
+        "cli",
+        "clw",
+        "ta"
+    ],
+    "size_in_bytes": 23323709000,
+    "temporal_extent": [
+        "2015-01-16 12:00:00",
+        "2100-12-16 12:00:00"
+    ]
+}

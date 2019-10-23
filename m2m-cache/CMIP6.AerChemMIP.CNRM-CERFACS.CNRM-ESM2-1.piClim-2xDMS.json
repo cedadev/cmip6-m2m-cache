@@ -1,0 +1,364 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/ch4/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.ch4.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/clivi/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.clivi.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/clt/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.clt.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/clwvi/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.clwvi.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/co2/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.co2.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/evspsbl/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.evspsbl.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/hfls/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.hfls.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/hfss/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.hfss.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/hur/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.hur.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/hus/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.hus.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/o3/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.o3.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/pr/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.pr.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/prsn/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.prsn.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/prw/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.prw.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/ps/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.ps.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/psl/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.psl.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/rlds/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.rlds.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/rldscs/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.rldscs.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/rlut/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.rlut.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/rlutcs/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.rlutcs.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/rsds/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.rsds.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/rsdscs/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.rsdscs.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/rsut/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.rsut.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/rsutcs/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.rsutcs.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/ta/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.ta.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/tas/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.tas.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/tasmax/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.tasmax.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/tasmin/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.tasmin.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/tauu/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.tauu.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/tauv/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.tauv.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/ts/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.ts.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/ua/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.ua.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/va/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.va.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/wap/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.wap.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Amon/zg/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Amon.zg.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Lmon/baresoilFrac/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Lmon.baresoilFrac.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Lmon/cVeg/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Lmon.cVeg.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Lmon/cropFrac/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Lmon.cropFrac.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Lmon/gpp/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Lmon.gpp.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Lmon/grassFrac/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Lmon.grassFrac.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Lmon/lai/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Lmon.lai.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Lmon/mrro/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Lmon.mrro.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Lmon/mrso/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Lmon.mrso.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Lmon/mrsos/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Lmon.mrsos.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Lmon/nbp/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Lmon.nbp.gr.v20190219",
+            "version": "v20190219"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/AerChemMIP/CNRM-CERFACS/CNRM-ESM2-1/piClim-2xDMS/r1i1p1f2/Lmon/treeFrac/gr/v20190219",
+            "drs_id": "CMIP6.AerChemMIP.CNRM-CERFACS.CNRM-ESM2-1.piClim-2xDMS.r1i1p1f2.Lmon.treeFrac.gr.v20190219",
+            "version": "v20190219"
+        }
+    ],
+    "facets": {
+        "activity_id": "AerChemMIP",
+        "experiment_id": [
+            "piClim-2xDMS"
+        ],
+        "grid_label": [
+            "gr"
+        ],
+        "institution_id": "CNRM-CERFACS",
+        "member_id": [
+            "r1i1p1f2"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "CNRM-ESM2-1",
+        "table_id": [
+            "Amon",
+            "Lmon"
+        ],
+        "variable_id": [
+            "baresoilFrac",
+            "cVeg",
+            "ch4",
+            "clivi",
+            "clt",
+            "clwvi",
+            "co2",
+            "cropFrac",
+            "evspsbl",
+            "gpp",
+            "grassFrac",
+            "hfls",
+            "hfss",
+            "hur",
+            "hus",
+            "lai",
+            "mrro",
+            "mrso",
+            "mrsos",
+            "nbp",
+            "o3",
+            "pr",
+            "prsn",
+            "prw",
+            "ps",
+            "psl",
+            "rlds",
+            "rldscs",
+            "rlut",
+            "rlutcs",
+            "rsds",
+            "rsdscs",
+            "rsut",
+            "rsutcs",
+            "ta",
+            "tas",
+            "tasmax",
+            "tasmin",
+            "tauu",
+            "tauv",
+            "treeFrac",
+            "ts",
+            "ua",
+            "va",
+            "wap",
+            "zg"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T11:48:06",
+    "n_files": 46,
+    "phenomena": [
+        "baresoilFrac",
+        "cVeg",
+        "ch4",
+        "clivi",
+        "clt",
+        "clwvi",
+        "co2",
+        "cropFrac",
+        "evspsbl",
+        "gpp",
+        "grassFrac",
+        "hfls",
+        "hfss",
+        "hur",
+        "hus",
+        "lai",
+        "mrro",
+        "mrso",
+        "mrsos",
+        "nbp",
+        "o3",
+        "pr",
+        "prsn",
+        "prw",
+        "ps",
+        "psl",
+        "rlds",
+        "rldscs",
+        "rlut",
+        "rlutcs",
+        "rsds",
+        "rsdscs",
+        "rsut",
+        "rsutcs",
+        "ta",
+        "tas",
+        "tasmax",
+        "tasmin",
+        "tauu",
+        "tauv",
+        "treeFrac",
+        "ts",
+        "ua",
+        "va",
+        "wap",
+        "zg"
+    ],
+    "size_in_bytes": 5923551000,
+    "temporal_extent": [
+        "1850-01-16 12:00:00",
+        "1879-12-16 12:00:00"
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/CMIP/UA/MCM-UA-1-0/1pctCO2",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/UA/MCM-UA-1-0/1pctCO2/r1i1p1f1/Amon/rlut/gn/v20190731",
+            "drs_id": "CMIP6.CMIP.UA.MCM-UA-1-0.1pctCO2.r1i1p1f1.Amon.rlut.gn.v20190731",
+            "version": "v20190731"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/UA/MCM-UA-1-0/1pctCO2/r1i1p1f1/Amon/tas/gn/v20190731",
+            "drs_id": "CMIP6.CMIP.UA.MCM-UA-1-0.1pctCO2.r1i1p1f1.Amon.tas.gn.v20190731",
+            "version": "v20190731"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/UA/MCM-UA-1-0/1pctCO2/r1i1p1f1/Ofx/volcello/gn/v20190731",
+            "drs_id": "CMIP6.CMIP.UA.MCM-UA-1-0.1pctCO2.r1i1p1f1.Ofx.volcello.gn.v20190731",
+            "version": "v20190731"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/UA/MCM-UA-1-0/1pctCO2/r1i1p1f1/Omon/thetao/gn/v20190731",
+            "drs_id": "CMIP6.CMIP.UA.MCM-UA-1-0.1pctCO2.r1i1p1f1.Omon.thetao.gn.v20190731",
+            "version": "v20190731"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/UA/MCM-UA-1-0/1pctCO2/r1i1p1f1/Omon/tos/gn/v20190731",
+            "drs_id": "CMIP6.CMIP.UA.MCM-UA-1-0.1pctCO2.r1i1p1f1.Omon.tos.gn.v20190731",
+            "version": "v20190731"
+        }
+    ],
+    "facets": {
+        "activity_id": "CMIP",
+        "experiment_id": [
+            "1pctCO2"
+        ],
+        "grid_label": [
+            "gn"
+        ],
+        "institution_id": "UA",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "MCM-UA-1-0",
+        "table_id": [
+            "Amon",
+            "Ofx",
+            "Omon"
+        ],
+        "variable_id": [
+            "rlut",
+            "tas",
+            "thetao",
+            "tos",
+            "volcello"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T11:48:21",
+    "n_files": 21,
+    "phenomena": [
+        "rlut",
+        "tas",
+        "thetao",
+        "tos",
+        "volcello"
+    ],
+    "size_in_bytes": 7202468000,
+    "temporal_extent": [
+        "1-01-17 00:00:00",
+        "500-12-17 00:00:00"
+    ]
+}

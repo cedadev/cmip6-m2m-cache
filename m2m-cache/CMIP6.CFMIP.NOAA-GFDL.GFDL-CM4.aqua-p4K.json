@@ -1,0 +1,76 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/CFMIP/NOAA-GFDL/GFDL-CM4/aqua-p4K",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NOAA-GFDL/GFDL-CM4/aqua-p4K/r1i1p1f1/Amon/pr/gr1/v20180701",
+            "drs_id": "CMIP6.CFMIP.NOAA-GFDL.GFDL-CM4.aqua-p4K.r1i1p1f1.Amon.pr.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NOAA-GFDL/GFDL-CM4/aqua-p4K/r1i1p1f1/Amon/ps/gr1/v20180701",
+            "drs_id": "CMIP6.CFMIP.NOAA-GFDL.GFDL-CM4.aqua-p4K.r1i1p1f1.Amon.ps.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NOAA-GFDL/GFDL-CM4/aqua-p4K/r1i1p1f1/Amon/rlutcs/gr1/v20180701",
+            "drs_id": "CMIP6.CFMIP.NOAA-GFDL.GFDL-CM4.aqua-p4K.r1i1p1f1.Amon.rlutcs.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NOAA-GFDL/GFDL-CM4/aqua-p4K/r1i1p1f1/Amon/ta/gr1/v20180701",
+            "drs_id": "CMIP6.CFMIP.NOAA-GFDL.GFDL-CM4.aqua-p4K.r1i1p1f1.Amon.ta.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CFMIP/NOAA-GFDL/GFDL-CM4/aqua-p4K/r1i1p1f1/Amon/ts/gr1/v20180701",
+            "drs_id": "CMIP6.CFMIP.NOAA-GFDL.GFDL-CM4.aqua-p4K.r1i1p1f1.Amon.ts.gr1.v20180701",
+            "version": "v20180701"
+        }
+    ],
+    "facets": {
+        "activity_id": "CFMIP",
+        "experiment_id": [
+            "aqua-p4K"
+        ],
+        "grid_label": [
+            "gr1"
+        ],
+        "institution_id": "NOAA-GFDL",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "GFDL-CM4",
+        "table_id": [
+            "Amon"
+        ],
+        "variable_id": [
+            "pr",
+            "ps",
+            "rlutcs",
+            "ta",
+            "ts"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T11:47:59",
+    "n_files": 5,
+    "phenomena": [
+        "pr",
+        "ps",
+        "rlutcs",
+        "ta",
+        "ts"
+    ],
+    "size_in_bytes": 250672000,
+    "temporal_extent": [
+        "1980-01-16 12:00:00",
+        "1989-12-16 12:00:00"
+    ]
+}
