@@ -61,7 +61,7 @@
         90,
         -90
     ],
-    "last_updated": "2019-10-23T11:48:21",
+    "last_updated": "2019-11-04T15:34:12",
     "n_files": 21,
     "phenomena": [
         "rlut",
@@ -70,7 +70,7 @@
         "tos",
         "volcello"
     ],
-    "size_in_bytes": 7202468000,
+    "size_in_bytes": 14404936000,
     "temporal_extent": [
         "1-01-17 00:00:00",
         "500-12-17 00:00:00"

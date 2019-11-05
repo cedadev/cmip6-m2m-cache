@@ -460,7 +460,7 @@
         90,
         -90
     ],
-    "last_updated": "2019-10-23T11:49:43",
+    "last_updated": "2019-11-04T15:35:55",
     "n_files": 72,
     "phenomena": [
         "airmass",
@@ -525,7 +525,7 @@
         "zg",
         "zos"
     ],
-    "size_in_bytes": 62362678000,
+    "size_in_bytes": 124725356000,
     "temporal_extent": [
         "2015-01-16 12:00:00",
         "2100-12-16 12:00:00"

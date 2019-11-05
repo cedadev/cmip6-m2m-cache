@@ -418,7 +418,7 @@
         90,
         -90
     ],
-    "last_updated": "2019-10-23T11:52:13",
+    "last_updated": "2019-11-04T15:33:43",
     "n_files": 330,
     "phenomena": [
         "cVeg",
@@ -477,7 +477,7 @@
         "zg",
         "zos"
     ],
-    "size_in_bytes": 292818725000,
+    "size_in_bytes": 585637450000,
     "temporal_extent": [
         "1-01-15 11:44:59",
         "200-12-15 12:00:00"

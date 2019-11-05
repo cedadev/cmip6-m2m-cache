@@ -412,7 +412,7 @@
         90,
         -90
     ],
-    "last_updated": "2019-10-23T11:49:14",
+    "last_updated": "2019-11-04T15:33:39",
     "n_files": 86,
     "phenomena": [
         "areacello",
@@ -479,7 +479,7 @@
         "zg",
         "zos"
     ],
-    "size_in_bytes": 159703625000,
+    "size_in_bytes": 319407250000,
     "temporal_extent": [
         "1850-01-16 12:00:00",
         "1989-12-16 12:00:00"

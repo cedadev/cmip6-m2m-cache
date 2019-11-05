@@ -471,7 +471,7 @@
         90,
         -90
     ],
-    "last_updated": "2019-10-23T11:51:06",
+    "last_updated": "2019-11-04T15:33:52",
     "n_files": 189,
     "phenomena": [
         "cVeg",
@@ -548,7 +548,7 @@
         "zos",
         "zostoga"
     ],
-    "size_in_bytes": 239987116000,
+    "size_in_bytes": 479974232000,
     "temporal_extent": [
         "1850-01-16 12:00:00",
         "2000-12-16 12:00:00"

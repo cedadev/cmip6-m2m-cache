@@ -1,0 +1,97 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/ScenarioMIP/CAS/FGOALS-f3-L/ssp370",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/CAS/FGOALS-f3-L/ssp370/r1i1p1f1/Amon/prsn/gr/v20191013",
+            "drs_id": "CMIP6.ScenarioMIP.CAS.FGOALS-f3-L.ssp370.r1i1p1f1.Amon.prsn.gr.v20191013",
+            "version": "v20191013"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/CAS/FGOALS-f3-L/ssp370/r1i1p1f1/Amon/ps/gr/v20191013",
+            "drs_id": "CMIP6.ScenarioMIP.CAS.FGOALS-f3-L.ssp370.r1i1p1f1.Amon.ps.gr.v20191013",
+            "version": "v20191013"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/CAS/FGOALS-f3-L/ssp370/r1i1p1f1/Amon/rsds/gr/v20191013",
+            "drs_id": "CMIP6.ScenarioMIP.CAS.FGOALS-f3-L.ssp370.r1i1p1f1.Amon.rsds.gr.v20191013",
+            "version": "v20191013"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/CAS/FGOALS-f3-L/ssp370/r1i1p1f1/Amon/tas/gr/v20191013",
+            "drs_id": "CMIP6.ScenarioMIP.CAS.FGOALS-f3-L.ssp370.r1i1p1f1.Amon.tas.gr.v20191013",
+            "version": "v20191013"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/CAS/FGOALS-f3-L/ssp370/r1i1p1f1/Amon/ts/gr/v20191013",
+            "drs_id": "CMIP6.ScenarioMIP.CAS.FGOALS-f3-L.ssp370.r1i1p1f1.Amon.ts.gr.v20191013",
+            "version": "v20191013"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/CAS/FGOALS-f3-L/ssp370/r1i1p1f1/Amon/ua/gr/v20191013",
+            "drs_id": "CMIP6.ScenarioMIP.CAS.FGOALS-f3-L.ssp370.r1i1p1f1.Amon.ua.gr.v20191013",
+            "version": "v20191013"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/CAS/FGOALS-f3-L/ssp370/r1i1p1f1/Amon/va/gr/v20191013",
+            "drs_id": "CMIP6.ScenarioMIP.CAS.FGOALS-f3-L.ssp370.r1i1p1f1.Amon.va.gr.v20191013",
+            "version": "v20191013"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/CAS/FGOALS-f3-L/ssp370/r1i1p1f1/Amon/zg/gr/v20191013",
+            "drs_id": "CMIP6.ScenarioMIP.CAS.FGOALS-f3-L.ssp370.r1i1p1f1.Amon.zg.gr.v20191013",
+            "version": "v20191013"
+        }
+    ],
+    "facets": {
+        "activity_id": "ScenarioMIP",
+        "experiment_id": [
+            "ssp370"
+        ],
+        "grid_label": [
+            "gr"
+        ],
+        "institution_id": "CAS",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "FGOALS-f3-L",
+        "table_id": [
+            "Amon"
+        ],
+        "variable_id": [
+            "prsn",
+            "ps",
+            "rsds",
+            "tas",
+            "ts",
+            "ua",
+            "va",
+            "zg"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-11-04T15:35:46",
+    "n_files": 32,
+    "phenomena": [
+        "prsn",
+        "ps",
+        "rsds",
+        "tas",
+        "ts",
+        "ua",
+        "va",
+        "zg"
+    ],
+    "size_in_bytes": 12957740000,
+    "temporal_extent": [
+        "2015-01-16 12:00:00",
+        "2100-12-16 12:00:00"
+    ]
+}

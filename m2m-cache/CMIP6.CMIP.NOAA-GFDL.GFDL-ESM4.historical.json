@@ -1,0 +1,89 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-ESM4/historical",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-ESM4/historical/r1i1p1f1/AERmon/mmrbc/gr1/v20190726",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-ESM4.historical.r1i1p1f1.AERmon.mmrbc.gr1.v20190726",
+            "version": "v20190726"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-ESM4/historical/r1i1p1f1/AERmon/mmrdust/gr1/v20190726",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-ESM4.historical.r1i1p1f1.AERmon.mmrdust.gr1.v20190726",
+            "version": "v20190726"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-ESM4/historical/r1i1p1f1/AERmon/mmroa/gr1/v20190726",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-ESM4.historical.r1i1p1f1.AERmon.mmroa.gr1.v20190726",
+            "version": "v20190726"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-ESM4/historical/r1i1p1f1/AERmon/mmrso4/gr1/v20190726",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-ESM4.historical.r1i1p1f1.AERmon.mmrso4.gr1.v20190726",
+            "version": "v20190726"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-ESM4/historical/r1i1p1f1/AERmon/mmrss/gr1/v20190726",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-ESM4.historical.r1i1p1f1.AERmon.mmrss.gr1.v20190726",
+            "version": "v20190726"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-ESM4/historical/r1i1p1f1/AERmon/o3/gr1/v20190726",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-ESM4.historical.r1i1p1f1.AERmon.o3.gr1.v20190726",
+            "version": "v20190726"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-ESM4/historical/r1i1p1f1/Amon/o3/gr1/v20190726",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-ESM4.historical.r1i1p1f1.Amon.o3.gr1.v20190726",
+            "version": "v20190726"
+        }
+    ],
+    "facets": {
+        "activity_id": "CMIP",
+        "experiment_id": [
+            "historical"
+        ],
+        "grid_label": [
+            "gr1"
+        ],
+        "institution_id": "NOAA-GFDL",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "GFDL-ESM4",
+        "table_id": [
+            "AERmon",
+            "Amon"
+        ],
+        "variable_id": [
+            "mmrbc",
+            "mmrdust",
+            "mmroa",
+            "mmrso4",
+            "mmrss",
+            "o3"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-11-04T15:34:24",
+    "n_files": 14,
+    "phenomena": [
+        "mmrbc",
+        "mmrdust",
+        "mmroa",
+        "mmrso4",
+        "mmrss",
+        "o3"
+    ],
+    "size_in_bytes": 78277383000,
+    "temporal_extent": [
+        "1850-01-16 12:00:00",
+        "2014-12-16 12:00:00"
+    ]
+}

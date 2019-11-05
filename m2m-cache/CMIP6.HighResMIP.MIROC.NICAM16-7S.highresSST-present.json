@@ -1,0 +1,141 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/HighResMIP/MIROC/NICAM16-7S/highresSST-present",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MIROC/NICAM16-7S/highresSST-present/r1i1p1f1/3hr/tos/gr/v20190325",
+            "drs_id": "CMIP6.HighResMIP.MIROC.NICAM16-7S.highresSST-present.r1i1p1f1.3hr.tos.gr.v20190325",
+            "version": "v20190325"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MIROC/NICAM16-7S/highresSST-present/r1i1p1f1/Amon/pr/gr/v20190318",
+            "drs_id": "CMIP6.HighResMIP.MIROC.NICAM16-7S.highresSST-present.r1i1p1f1.Amon.pr.gr.v20190318",
+            "version": "v20190318"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MIROC/NICAM16-7S/highresSST-present/r1i1p1f1/Amon/rlut/gr/v20190318",
+            "drs_id": "CMIP6.HighResMIP.MIROC.NICAM16-7S.highresSST-present.r1i1p1f1.Amon.rlut.gr.v20190318",
+            "version": "v20190318"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MIROC/NICAM16-7S/highresSST-present/r1i1p1f1/Amon/rlutcs/gr/v20190318",
+            "drs_id": "CMIP6.HighResMIP.MIROC.NICAM16-7S.highresSST-present.r1i1p1f1.Amon.rlutcs.gr.v20190318",
+            "version": "v20190318"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MIROC/NICAM16-7S/highresSST-present/r1i1p1f1/Amon/rsut/gr/v20190318",
+            "drs_id": "CMIP6.HighResMIP.MIROC.NICAM16-7S.highresSST-present.r1i1p1f1.Amon.rsut.gr.v20190318",
+            "version": "v20190318"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MIROC/NICAM16-7S/highresSST-present/r1i1p1f1/Amon/rsutcs/gr/v20190318",
+            "drs_id": "CMIP6.HighResMIP.MIROC.NICAM16-7S.highresSST-present.r1i1p1f1.Amon.rsutcs.gr.v20190318",
+            "version": "v20190318"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MIROC/NICAM16-7S/highresSST-present/r1i1p1f1/Amon/tas/gr/v20190318",
+            "drs_id": "CMIP6.HighResMIP.MIROC.NICAM16-7S.highresSST-present.r1i1p1f1.Amon.tas.gr.v20190318",
+            "version": "v20190318"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MIROC/NICAM16-7S/highresSST-present/r1i1p1f1/Eday/ts/gr/v20190830",
+            "drs_id": "CMIP6.HighResMIP.MIROC.NICAM16-7S.highresSST-present.r1i1p1f1.Eday.ts.gr.v20190830",
+            "version": "v20190830"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MIROC/NICAM16-7S/highresSST-present/r1i1p1f1/Lmon/mrro/gr/v20190325",
+            "drs_id": "CMIP6.HighResMIP.MIROC.NICAM16-7S.highresSST-present.r1i1p1f1.Lmon.mrro.gr.v20190325",
+            "version": "v20190325"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MIROC/NICAM16-7S/highresSST-present/r1i1p1f1/Oday/tos/gr/v20190325",
+            "drs_id": "CMIP6.HighResMIP.MIROC.NICAM16-7S.highresSST-present.r1i1p1f1.Oday.tos.gr.v20190325",
+            "version": "v20190325"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MIROC/NICAM16-7S/highresSST-present/r1i1p1f1/Omon/tos/gr/v20190325",
+            "drs_id": "CMIP6.HighResMIP.MIROC.NICAM16-7S.highresSST-present.r1i1p1f1.Omon.tos.gr.v20190325",
+            "version": "v20190325"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MIROC/NICAM16-7S/highresSST-present/r1i1p1f1/SImon/siconc/gr/v20190325",
+            "drs_id": "CMIP6.HighResMIP.MIROC.NICAM16-7S.highresSST-present.r1i1p1f1.SImon.siconc.gr.v20190325",
+            "version": "v20190325"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MIROC/NICAM16-7S/highresSST-present/r1i1p1f1/SImon/simass/gr/v20190325",
+            "drs_id": "CMIP6.HighResMIP.MIROC.NICAM16-7S.highresSST-present.r1i1p1f1.SImon.simass.gr.v20190325",
+            "version": "v20190325"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MIROC/NICAM16-7S/highresSST-present/r1i1p1f1/SImon/sisnmass/gr/v20190325",
+            "drs_id": "CMIP6.HighResMIP.MIROC.NICAM16-7S.highresSST-present.r1i1p1f1.SImon.sisnmass.gr.v20190325",
+            "version": "v20190325"
+        }
+    ],
+    "facets": {
+        "activity_id": "HighResMIP",
+        "experiment_id": [
+            "highresSST-present"
+        ],
+        "grid_label": [
+            "gr"
+        ],
+        "institution_id": "MIROC",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "NICAM16-7S",
+        "table_id": [
+            "3hr",
+            "Amon",
+            "Eday",
+            "Lmon",
+            "Oday",
+            "Omon",
+            "SImon"
+        ],
+        "variable_id": [
+            "mrro",
+            "pr",
+            "rlut",
+            "rlutcs",
+            "rsut",
+            "rsutcs",
+            "siconc",
+            "simass",
+            "sisnmass",
+            "tas",
+            "tos",
+            "ts"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-11-04T15:34:48",
+    "n_files": 910,
+    "phenomena": [
+        "mrro",
+        "pr",
+        "rlut",
+        "rlutcs",
+        "rsut",
+        "rsutcs",
+        "siconc",
+        "simass",
+        "sisnmass",
+        "tas",
+        "tos",
+        "ts"
+    ],
+    "size_in_bytes": 179319510000,
+    "temporal_extent": [
+        "1950-01-01 01:30:00",
+        "2014-12-31 22:30:00"
+    ]
+}

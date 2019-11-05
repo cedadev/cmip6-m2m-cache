@@ -134,7 +134,7 @@
         90,
         -90
     ],
-    "last_updated": "2019-10-23T11:48:03",
+    "last_updated": "2019-11-04T15:33:41",
     "n_files": 18,
     "phenomena": [
         "evspsbl",
@@ -149,7 +149,7 @@
         "ps",
         "snw"
     ],
-    "size_in_bytes": 6217828000,
+    "size_in_bytes": 12435656000,
     "temporal_extent": [
         "1979-01-01 12:00:00",
         "2014-12-31 12:00:00"

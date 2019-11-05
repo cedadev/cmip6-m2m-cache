@@ -1,0 +1,1024 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/3hr/clt/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.3hr.clt.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/3hr/hfls/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.3hr.hfls.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/3hr/hfss/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.3hr.hfss.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/3hr/huss/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.3hr.huss.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/3hr/mrro/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.3hr.mrro.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/3hr/mrsos/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.3hr.mrsos.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/3hr/pr/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.3hr.pr.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/3hr/prc/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.3hr.prc.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/3hr/prsn/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.3hr.prsn.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/3hr/ps/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.3hr.ps.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/3hr/rlds/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.3hr.rlds.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/3hr/rldscs/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.3hr.rldscs.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/3hr/rlus/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.3hr.rlus.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/3hr/rsds/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.3hr.rsds.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/3hr/rsdscs/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.3hr.rsdscs.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/3hr/rsdsdiff/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.3hr.rsdsdiff.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/3hr/rsus/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.3hr.rsus.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/3hr/rsuscs/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.3hr.rsuscs.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/3hr/tas/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.3hr.tas.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/3hr/uas/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.3hr.uas.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/3hr/vas/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.3hr.vas.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/6hrPlevPt/wbptemp/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.6hrPlevPt.wbptemp.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/AERmon/reffclwtop/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.AERmon.reffclwtop.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/ccb/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.ccb.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/cct/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.cct.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/ci/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.ci.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/cl/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.cl.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/cli/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.cli.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/clt/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.clt.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/clw/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.clw.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/evspsbl/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.evspsbl.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/hfls/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.hfls.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/hfss/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.hfss.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/hur/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.hur.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/hurs/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.hurs.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/hus/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.hus.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/huss/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.huss.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/pr/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.pr.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/prc/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.prc.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/prsn/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.prsn.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/prw/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.prw.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/ps/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.ps.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/psl/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.psl.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/rlds/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.rlds.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/rldscs/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.rldscs.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/rlus/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.rlus.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/rlut/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.rlut.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/rlutcs/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.rlutcs.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/rsds/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.rsds.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/rsdscs/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.rsdscs.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/rsdt/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.rsdt.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/rsus/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.rsus.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/rsuscs/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.rsuscs.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/rsut/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.rsut.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/rsutcs/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.rsutcs.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/sbl/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.sbl.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/sci/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.sci.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/sfcWind/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.sfcWind.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/ta/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.ta.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/tas/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.tas.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/tauu/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.tauu.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/tauv/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.tauv.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/ts/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.ts.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/ua/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.ua.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/uas/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.uas.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/va/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.va.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/vas/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.vas.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/wap/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.wap.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Amon/zg/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Amon.zg.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFday/albisccp/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFday.albisccp.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFday/ccb/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFday.ccb.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFday/cct/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFday.cct.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFday/cl/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFday.cl.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFday/cli/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFday.cli.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFday/cltcalipso/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFday.cltcalipso.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFday/cltisccp/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFday.cltisccp.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFday/clw/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFday.clw.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFday/pctisccp/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFday.pctisccp.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFday/pfull/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFday.pfull.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFday/phalf/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFday.phalf.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFday/ps/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFday.ps.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFday/rldscs/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFday.rldscs.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFday/rlutcs/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFday.rlutcs.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFday/rsdscs/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFday.rsdscs.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFday/rsdt/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFday.rsdt.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFday/rsuscs/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFday.rsuscs.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFday/rsut/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFday.rsut.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFday/rsutcs/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFday.rsutcs.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFday/ta700/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFday.ta700.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFday/wap500/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFday.wap500.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFmon/albisccp/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFmon.albisccp.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFmon/cltcalipso/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFmon.cltcalipso.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFmon/cltisccp/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFmon.cltisccp.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFmon/hur/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFmon.hur.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFmon/hus/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFmon.hus.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFmon/pctisccp/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFmon.pctisccp.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFmon/rld/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFmon.rld.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFmon/rldcs/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFmon.rldcs.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFmon/rlu/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFmon.rlu.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFmon/rlucs/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFmon.rlucs.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFmon/rsd/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFmon.rsd.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFmon/rsdcs/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFmon.rsdcs.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFmon/rsu/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFmon.rsu.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFmon/rsucs/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFmon.rsucs.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/CFmon/ta/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.CFmon.ta.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/E1hr/pr/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.E1hr.pr.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/E1hr/prc/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.E1hr.prc.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/E3hr/prcsh/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.E3hr.prcsh.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/E3hr/prw/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.E3hr.prw.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/E3hr/psl/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.E3hr.psl.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/E3hr/rsutcs/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.E3hr.rsutcs.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/E3hrPt/hus/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.E3hrPt.hus.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/E3hrPt/ta/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.E3hrPt.ta.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/E3hrPt/ua/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.E3hrPt.ua.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/E3hrPt/va/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.E3hrPt.va.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/E3hrPt/wap/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.E3hrPt.wap.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Eday/parasolRefl/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Eday.parasolRefl.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Eday/tauu/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Eday.tauu.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Eday/tauv/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Eday.tauv.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Emon/parasolRefl/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Emon.parasolRefl.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Emon/uqint/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Emon.uqint.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Emon/vqint/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Emon.vqint.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Lmon/evspsblveg/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Lmon.evspsblveg.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Lmon/gpp/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Lmon.gpp.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Lmon/mrro/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Lmon.mrro.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Lmon/mrros/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Lmon.mrros.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Lmon/npp/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Lmon.npp.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Lmon/ra/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Lmon.ra.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Lmon/rh/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Lmon.rh.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/Lmon/tsl/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.Lmon.tsl.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/clt/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.clt.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/hfls/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.hfls.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/hfss/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.hfss.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/hur/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.hur.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/hurs/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.hurs.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/hursmax/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.hursmax.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/hursmin/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.hursmin.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/hus/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.hus.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/huss/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.huss.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/mrro/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.mrro.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/mrsos/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.mrsos.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/pr/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.pr.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/prc/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.prc.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/prsn/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.prsn.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/psl/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.psl.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/rlds/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.rlds.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/rlus/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.rlus.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/rlut/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.rlut.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/rsds/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.rsds.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/rsus/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.rsus.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/sfcWind/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.sfcWind.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/sfcWindmax/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.sfcWindmax.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/ta/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.ta.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/tas/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.tas.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/tasmax/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.tasmax.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/tasmin/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.tasmin.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/ua/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.ua.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/uas/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.uas.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/va/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.va.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/vas/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.vas.gn.v20171010",
+            "version": "v20171010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/MOHC/HadGEM3-GC31-MM/control-1950/r1i1p1f1/day/wap/gn/v20171010",
+            "drs_id": "CMIP6.HighResMIP.MOHC.HadGEM3-GC31-MM.control-1950.r1i1p1f1.day.wap.gn.v20171010",
+            "version": "v20171010"
+        }
+    ],
+    "facets": {
+        "activity_id": "HighResMIP",
+        "experiment_id": [
+            "control-1950"
+        ],
+        "grid_label": [
+            "gn"
+        ],
+        "institution_id": "MOHC",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "HadGEM3-GC31-MM",
+        "table_id": [
+            "3hr",
+            "6hrPlevPt",
+            "AERmon",
+            "Amon",
+            "CFday",
+            "CFmon",
+            "E1hr",
+            "E3hr",
+            "E3hrPt",
+            "Eday",
+            "Emon",
+            "Lmon",
+            "day"
+        ],
+        "variable_id": [
+            "albisccp",
+            "ccb",
+            "cct",
+            "ci",
+            "cl",
+            "cli",
+            "clt",
+            "cltcalipso",
+            "cltisccp",
+            "clw",
+            "evspsbl",
+            "evspsblveg",
+            "gpp",
+            "hfls",
+            "hfss",
+            "hur",
+            "hurs",
+            "hursmax",
+            "hursmin",
+            "hus",
+            "huss",
+            "mrro",
+            "mrros",
+            "mrsos",
+            "npp",
+            "parasolRefl",
+            "pctisccp",
+            "pfull",
+            "phalf",
+            "pr",
+            "prc",
+            "prcsh",
+            "prsn",
+            "prw",
+            "ps",
+            "psl",
+            "ra",
+            "reffclwtop",
+            "rh",
+            "rld",
+            "rldcs",
+            "rlds",
+            "rldscs",
+            "rlu",
+            "rlucs",
+            "rlus",
+            "rlut",
+            "rlutcs",
+            "rsd",
+            "rsdcs",
+            "rsds",
+            "rsdscs",
+            "rsdsdiff",
+            "rsdt",
+            "rsu",
+            "rsucs",
+            "rsus",
+            "rsuscs",
+            "rsut",
+            "rsutcs",
+            "sbl",
+            "sci",
+            "sfcWind",
+            "sfcWindmax",
+            "ta",
+            "ta700",
+            "tas",
+            "tasmax",
+            "tasmin",
+            "tauu",
+            "tauv",
+            "ts",
+            "tsl",
+            "ua",
+            "uas",
+            "uqint",
+            "va",
+            "vas",
+            "vqint",
+            "wap",
+            "wap500",
+            "wbptemp",
+            "zg"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-11-04T15:34:55",
+    "n_files": 17271,
+    "phenomena": [
+        "albisccp",
+        "ccb",
+        "cct",
+        "ci",
+        "cl",
+        "cli",
+        "clt",
+        "cltcalipso",
+        "cltisccp",
+        "clw",
+        "evspsbl",
+        "evspsblveg",
+        "gpp",
+        "hfls",
+        "hfss",
+        "hur",
+        "hurs",
+        "hursmax",
+        "hursmin",
+        "hus",
+        "huss",
+        "mrro",
+        "mrros",
+        "mrsos",
+        "npp",
+        "parasolRefl",
+        "pctisccp",
+        "pfull",
+        "phalf",
+        "pr",
+        "prc",
+        "prcsh",
+        "prsn",
+        "prw",
+        "ps",
+        "psl",
+        "ra",
+        "reffclwtop",
+        "rh",
+        "rld",
+        "rldcs",
+        "rlds",
+        "rldscs",
+        "rlu",
+        "rlucs",
+        "rlus",
+        "rlut",
+        "rlutcs",
+        "rsd",
+        "rsdcs",
+        "rsds",
+        "rsdscs",
+        "rsdsdiff",
+        "rsdt",
+        "rsu",
+        "rsucs",
+        "rsus",
+        "rsuscs",
+        "rsut",
+        "rsutcs",
+        "sbl",
+        "sci",
+        "sfcWind",
+        "sfcWindmax",
+        "ta",
+        "ta700",
+        "tas",
+        "tasmax",
+        "tasmin",
+        "tauu",
+        "tauv",
+        "ts",
+        "tsl",
+        "ua",
+        "uas",
+        "uqint",
+        "va",
+        "vas",
+        "vqint",
+        "wap",
+        "wap500",
+        "wbptemp",
+        "zg"
+    ],
+    "size_in_bytes": 18000,
+    "temporal_extent": [
+        "1950-01-01 00:29:59",
+        "2050-12-30 23:30:00"
+    ]
+}

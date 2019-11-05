@@ -108,7 +108,7 @@
         90,
         -90
     ],
-    "last_updated": "2019-10-23T11:49:40",
+    "last_updated": "2019-11-04T15:33:51",
     "n_files": 150,
     "phenomena": [
         "cli",
@@ -125,7 +125,7 @@
         "thetaoga",
         "tos"
     ],
-    "size_in_bytes": 64923890000,
+    "size_in_bytes": 129847780000,
     "temporal_extent": [
         "1-01-16 12:00:00",
         "150-12-16 12:00:00"

@@ -78,7 +78,7 @@
         90,
         -90
     ],
-    "last_updated": "2019-10-23T11:48:01",
+    "last_updated": "2019-11-04T15:33:58",
     "n_files": 8,
     "phenomena": [
         "rlut",
@@ -90,7 +90,7 @@
         "thetao",
         "tos"
     ],
-    "size_in_bytes": 14276442000,
+    "size_in_bytes": 28552884000,
     "temporal_extent": [
         "1850-01-16 12:00:00",
         "1999-12-16 12:00:00"

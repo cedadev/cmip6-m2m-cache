@@ -1,0 +1,123 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/PMIP/NUIST/NESM3/midHolocene",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/PMIP/NUIST/NESM3/midHolocene/r1i1p1f1/3hr/pr/gn/v20190813",
+            "drs_id": "CMIP6.PMIP.NUIST.NESM3.midHolocene.r1i1p1f1.3hr.pr.gn.v20190813",
+            "version": "v20190813"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/PMIP/NUIST/NESM3/midHolocene/r1i1p1f1/3hr/tas/gn/v20190813",
+            "drs_id": "CMIP6.PMIP.NUIST.NESM3.midHolocene.r1i1p1f1.3hr.tas.gn.v20190813",
+            "version": "v20190813"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/PMIP/NUIST/NESM3/midHolocene/r1i1p1f1/3hr/tos/gn/v20190813",
+            "drs_id": "CMIP6.PMIP.NUIST.NESM3.midHolocene.r1i1p1f1.3hr.tos.gn.v20190813",
+            "version": "v20190813"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/PMIP/NUIST/NESM3/midHolocene/r1i1p1f1/Amon/pr/gn/v20190813",
+            "drs_id": "CMIP6.PMIP.NUIST.NESM3.midHolocene.r1i1p1f1.Amon.pr.gn.v20190813",
+            "version": "v20190813"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/PMIP/NUIST/NESM3/midHolocene/r1i1p1f1/Amon/tas/gn/v20190813",
+            "drs_id": "CMIP6.PMIP.NUIST.NESM3.midHolocene.r1i1p1f1.Amon.tas.gn.v20190813",
+            "version": "v20190813"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/PMIP/NUIST/NESM3/midHolocene/r1i1p1f1/Amon/tasmax/gn/v20190813",
+            "drs_id": "CMIP6.PMIP.NUIST.NESM3.midHolocene.r1i1p1f1.Amon.tasmax.gn.v20190813",
+            "version": "v20190813"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/PMIP/NUIST/NESM3/midHolocene/r1i1p1f1/Amon/ts/gn/v20190813",
+            "drs_id": "CMIP6.PMIP.NUIST.NESM3.midHolocene.r1i1p1f1.Amon.ts.gn.v20190813",
+            "version": "v20190813"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/PMIP/NUIST/NESM3/midHolocene/r1i1p1f1/Omon/tos/gn/v20190926",
+            "drs_id": "CMIP6.PMIP.NUIST.NESM3.midHolocene.r1i1p1f1.Omon.tos.gn.v20190926",
+            "version": "v20190926"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/PMIP/NUIST/NESM3/midHolocene/r1i1p1f1/SIday/siconc/gn/v20190911",
+            "drs_id": "CMIP6.PMIP.NUIST.NESM3.midHolocene.r1i1p1f1.SIday.siconc.gn.v20190911",
+            "version": "v20190911"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/PMIP/NUIST/NESM3/midHolocene/r1i1p1f1/SImon/siconc/gn/v20190911",
+            "drs_id": "CMIP6.PMIP.NUIST.NESM3.midHolocene.r1i1p1f1.SImon.siconc.gn.v20190911",
+            "version": "v20190911"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/PMIP/NUIST/NESM3/midHolocene/r1i1p1f1/day/pr/gn/v20190813",
+            "drs_id": "CMIP6.PMIP.NUIST.NESM3.midHolocene.r1i1p1f1.day.pr.gn.v20190813",
+            "version": "v20190813"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/PMIP/NUIST/NESM3/midHolocene/r1i1p1f1/day/tas/gn/v20190813",
+            "drs_id": "CMIP6.PMIP.NUIST.NESM3.midHolocene.r1i1p1f1.day.tas.gn.v20190813",
+            "version": "v20190813"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/PMIP/NUIST/NESM3/midHolocene/r1i1p1f1/day/tasmax/gn/v20190813",
+            "drs_id": "CMIP6.PMIP.NUIST.NESM3.midHolocene.r1i1p1f1.day.tasmax.gn.v20190813",
+            "version": "v20190813"
+        }
+    ],
+    "facets": {
+        "activity_id": "PMIP",
+        "experiment_id": [
+            "midHolocene"
+        ],
+        "grid_label": [
+            "gn"
+        ],
+        "institution_id": "NUIST",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "NESM3",
+        "table_id": [
+            "3hr",
+            "Amon",
+            "Omon",
+            "SIday",
+            "SImon",
+            "day"
+        ],
+        "variable_id": [
+            "pr",
+            "siconc",
+            "tas",
+            "tasmax",
+            "tos",
+            "ts"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-11-04T15:35:18",
+    "n_files": 27,
+    "phenomena": [
+        "pr",
+        "siconc",
+        "tas",
+        "tasmax",
+        "tos",
+        "ts"
+    ],
+    "size_in_bytes": 45170367000,
+    "temporal_extent": [
+        "1798-01-01 01:30:00",
+        "1897-12-31 22:30:00"
+    ]
+}

@@ -59,14 +59,14 @@
         90,
         -90
     ],
-    "last_updated": "2019-10-23T11:50:20",
+    "last_updated": "2019-11-04T15:34:07",
     "n_files": 155,
     "phenomena": [
         "msftmrho",
         "so",
         "thetao"
     ],
-    "size_in_bytes": 120893835000,
+    "size_in_bytes": 241787671000,
     "temporal_extent": [
         "1600-01-16 12:00:00",
         "1900-12-16 12:00:00"

@@ -35,12 +35,12 @@
         90,
         -90
     ],
-    "last_updated": "2019-10-23T11:48:18",
+    "last_updated": "2019-11-04T15:34:52",
     "n_files": 2,
     "phenomena": [
         "ts"
     ],
-    "size_in_bytes": 9000,
+    "size_in_bytes": 18000,
     "temporal_extent": [
         "2015-01-16 12:00:00",
         "2050-12-16 12:00:00"

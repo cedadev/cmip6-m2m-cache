@@ -1,0 +1,48 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorESM2-LM/amip",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorESM2-LM/amip/r1i1p1f1/Amon/tas/gn/v20190920",
+            "drs_id": "CMIP6.CMIP.NCC.NorESM2-LM.amip.r1i1p1f1.Amon.tas.gn.v20190920",
+            "version": "v20190920"
+        }
+    ],
+    "facets": {
+        "activity_id": "CMIP",
+        "experiment_id": [
+            "amip"
+        ],
+        "grid_label": [
+            "gn"
+        ],
+        "institution_id": "NCC",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "NorESM2-LM",
+        "table_id": [
+            "Amon"
+        ],
+        "variable_id": [
+            "tas"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-11-04T15:34:11",
+    "n_files": 5,
+    "phenomena": [
+        "tas"
+    ],
+    "size_in_bytes": 13833000,
+    "temporal_extent": [
+        "1979-01-16 12:00:00",
+        "2014-12-16 12:00:00"
+    ]
+}

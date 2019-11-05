@@ -422,7 +422,7 @@
         90,
         -90
     ],
-    "last_updated": "2019-10-23T11:52:23",
+    "last_updated": "2019-11-04T15:35:06",
     "n_files": 146,
     "phenomena": [
         "areacello",
@@ -454,7 +454,7 @@
         "volo",
         "zos"
     ],
-    "size_in_bytes": 1030487762000,
+    "size_in_bytes": 2060975524000,
     "temporal_extent": [
         "1700-01-01 12:00:00",
         "2009-12-31 12:00:00"

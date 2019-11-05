@@ -1589,7 +1589,7 @@
         90,
         -90
     ],
-    "last_updated": "2019-10-23T11:54:52",
+    "last_updated": "2019-11-04T15:33:44",
     "n_files": 596,
     "phenomena": [
         "abs550aer",
@@ -1840,7 +1840,7 @@
         "zos",
         "zostoga"
     ],
-    "size_in_bytes": 504074452000,
+    "size_in_bytes": 1008148905000,
     "temporal_extent": [
         "1850-01-01 12:00:00",
         "1999-12-30 12:00:00"

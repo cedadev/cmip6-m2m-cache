@@ -1,0 +1,48 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/HighResMIP/NOAA-GFDL/GFDL-CM4C192/highresSST-future",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/HighResMIP/NOAA-GFDL/GFDL-CM4C192/highresSST-future/r1i1p1f1/Amon/ts/gr3/v20180701",
+            "drs_id": "CMIP6.HighResMIP.NOAA-GFDL.GFDL-CM4C192.highresSST-future.r1i1p1f1.Amon.ts.gr3.v20180701",
+            "version": "v20180701"
+        }
+    ],
+    "facets": {
+        "activity_id": "HighResMIP",
+        "experiment_id": [
+            "highresSST-future"
+        ],
+        "grid_label": [
+            "gr3"
+        ],
+        "institution_id": "NOAA-GFDL",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "GFDL-CM4C192",
+        "table_id": [
+            "Amon"
+        ],
+        "variable_id": [
+            "ts"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-11-04T15:34:53",
+    "n_files": 1,
+    "phenomena": [
+        "ts"
+    ],
+    "size_in_bytes": 191236000,
+    "temporal_extent": [
+        "2015-01-16 12:00:00",
+        "2050-12-16 12:00:00"
+    ]
+}

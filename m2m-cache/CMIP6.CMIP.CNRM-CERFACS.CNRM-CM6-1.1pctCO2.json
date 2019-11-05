@@ -487,7 +487,7 @@
         90,
         -90
     ],
-    "last_updated": "2019-10-23T11:49:26",
+    "last_updated": "2019-11-04T15:33:52",
     "n_files": 94,
     "phenomena": [
         "areacello",
@@ -554,7 +554,7 @@
         "zos",
         "zostoga"
     ],
-    "size_in_bytes": 233328267000,
+    "size_in_bytes": 466656534000,
     "temporal_extent": [
         "1850-01-01 12:00:00",
         "2000-01-01 00:00:00"

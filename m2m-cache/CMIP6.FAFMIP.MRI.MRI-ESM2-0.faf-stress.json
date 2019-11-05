@@ -48,13 +48,13 @@
         90,
         -90
     ],
-    "last_updated": "2019-10-23T11:48:16",
+    "last_updated": "2019-11-04T15:34:41",
     "n_files": 3,
     "phenomena": [
         "tos",
         "ts"
     ],
-    "size_in_bytes": 418427000,
+    "size_in_bytes": 836854000,
     "temporal_extent": [
         "1850-01-16 12:00:00",
         "1919-12-16 12:00:00"

@@ -65,7 +65,7 @@
         90,
         -90
     ],
-    "last_updated": "2019-10-23T11:48:26",
+    "last_updated": "2019-11-04T15:33:52",
     "n_files": 36,
     "phenomena": [
         "cli",
@@ -73,7 +73,7 @@
         "ta",
         "tas"
     ],
-    "size_in_bytes": 48507404000,
+    "size_in_bytes": 97014808000,
     "temporal_extent": [
         "1870-01-16 12:00:00",
         "2014-12-16 12:00:00"

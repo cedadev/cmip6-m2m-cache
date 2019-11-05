@@ -1,0 +1,1068 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/huss/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.huss.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/huss/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.huss.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/mrro/gr1/v20190201",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.mrro.gr1.v20190201",
+            "version": "v20190201"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/mrro/gr2/v20190201",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.mrro.gr2.v20190201",
+            "version": "v20190201"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/mrsos/gr1/v20190201",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.mrsos.gr1.v20190201",
+            "version": "v20190201"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/mrsos/gr2/v20190201",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.mrsos.gr2.v20190201",
+            "version": "v20190201"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/pr/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.pr.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/pr/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.pr.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/prsn/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.prsn.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/prsn/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.prsn.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/rlds/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.rlds.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/rlds/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.rlds.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/rldscs/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.rldscs.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/rldscs/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.rldscs.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/rlus/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.rlus.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/rlus/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.rlus.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/rsds/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.rsds.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/rsds/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.rsds.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/rsdscs/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.rsdscs.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/rsdscs/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.rsdscs.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/rsus/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.rsus.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/rsus/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.rsus.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/rsuscs/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.rsuscs.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/rsuscs/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.rsuscs.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/tas/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.tas.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/tas/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.tas.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/tos/gr1/v20190201",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.tos.gr1.v20190201",
+            "version": "v20190201"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/tos/gr2/v20190201",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.tos.gr2.v20190201",
+            "version": "v20190201"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/uas/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.uas.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/uas/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.uas.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/vas/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.vas.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/3hr/vas/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.3hr.vas.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/6hrPlevPt/psl/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.6hrPlevPt.psl.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/6hrPlevPt/ua/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.6hrPlevPt.ua.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/6hrPlevPt/va/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.6hrPlevPt.va.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/AERmon/ua/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.AERmon.ua.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/AERmon/va/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.AERmon.va.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/AERmon/zg/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.AERmon.zg.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/ccb/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.ccb.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/cct/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.cct.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/cfc113global/gn/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.cfc113global.gn.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/cfc11global/gn/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.cfc11global.gn.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/cfc12global/gn/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.cfc12global.gn.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/ch4global/gn/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.ch4global.gn.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/ci/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.ci.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/cl/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.cl.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/cli/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.cli.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/clivi/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.clivi.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/clt/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.clt.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/clw/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.clw.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/clwvi/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.clwvi.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/co2mass/gn/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.co2mass.gn.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/evspsbl/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.evspsbl.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/hcfc22global/gn/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.hcfc22global.gn.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/hfls/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.hfls.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/hfss/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.hfss.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/hur/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.hur.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/hurs/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.hurs.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/hus/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.hus.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/huss/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.huss.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/n2oglobal/gn/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.n2oglobal.gn.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/o3/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.o3.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/pr/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.pr.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/prc/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.prc.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/prsn/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.prsn.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/prw/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.prw.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/ps/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.ps.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/psl/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.psl.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/rlds/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.rlds.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/rldscs/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.rldscs.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/rlus/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.rlus.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/rlut/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.rlut.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/rlutcs/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.rlutcs.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/rsds/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.rsds.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/rsdscs/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.rsdscs.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/rsdt/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.rsdt.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/rsus/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.rsus.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/rsuscs/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.rsuscs.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/rsut/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.rsut.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/rsutcs/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.rsutcs.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/rtmt/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.rtmt.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/sbl/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.sbl.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/sci/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.sci.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/sfcWind/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.sfcWind.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/ta/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.ta.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/tas/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.tas.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/tasmax/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.tasmax.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/tasmin/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.tasmin.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/tauu/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.tauu.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/tauv/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.tauv.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/ts/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.ts.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/ua/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.ua.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/uas/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.uas.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/va/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.va.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/vas/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.vas.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/wap/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.wap.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Amon/zg/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Amon.zg.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/CFday/rlutcs/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.CFday.rlutcs.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/CFday/rsdt/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.CFday.rsdt.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/CFday/rsut/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.CFday.rsut.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/CFday/rsutcs/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.CFday.rsutcs.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/CFmon/ta/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.CFmon.ta.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Eday/prw/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Eday.prw.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Eday/ts/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Eday.ts.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Eday/ua/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Eday.ua.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Eday/va/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Eday.va.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Eday/zg/gr2/v20190201",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Eday.zg.gr2.v20190201",
+            "version": "v20190201"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/EdayZ/va/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.EdayZ.va.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/EdayZ/zg/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.EdayZ.zg.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Lmon/cropFrac/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Lmon.cropFrac.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Lmon/grassFrac/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Lmon.grassFrac.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Lmon/lai/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Lmon.lai.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Lmon/mrro/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Lmon.mrro.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Lmon/mrros/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Lmon.mrros.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Lmon/mrso/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Lmon.mrso.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Lmon/mrsos/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Lmon.mrsos.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Lmon/pastureFrac/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Lmon.pastureFrac.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Lmon/treeFrac/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Lmon.treeFrac.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Oday/tos/gn/v20190201",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Oday.tos.gn.v20190201",
+            "version": "v20190201"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Oday/tos/gr/v20190201",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Oday.tos.gr.v20190201",
+            "version": "v20190201"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Omon/o2/gr/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Omon.o2.gr.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Omon/ph/gr/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Omon.ph.gr.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Omon/thetao/gn/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Omon.thetao.gn.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Omon/thetao/gr/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Omon.thetao.gr.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Omon/thetaoga/gn/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Omon.thetaoga.gn.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Omon/tos/gn/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Omon.tos.gn.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Omon/tos/gr/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Omon.tos.gr.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Omon/volcello/gn/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Omon.volcello.gn.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/Omon/zos/gr/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.Omon.zos.gr.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/SIday/siconc/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.SIday.siconc.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/SImon/siconc/gn/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.SImon.siconc.gn.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/SImon/siconc/gr/v20190201",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.SImon.siconc.gr.v20190201",
+            "version": "v20190201"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/SImon/simass/gn/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.SImon.simass.gn.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/SImon/simass/gr/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.SImon.simass.gr.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/SImon/sisnmass/gn/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.SImon.sisnmass.gn.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/SImon/sisnmass/gr/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.SImon.sisnmass.gr.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/hurs/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.hurs.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/hurs/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.hurs.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/huss/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.huss.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/huss/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.huss.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/mrsos/gr1/v20190201",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.mrsos.gr1.v20190201",
+            "version": "v20190201"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/mrsos/gr2/v20190201",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.mrsos.gr2.v20190201",
+            "version": "v20190201"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/pr/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.pr.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/pr/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.pr.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/prsn/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.prsn.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/prsn/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.prsn.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/psl/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.psl.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/psl/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.psl.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/rlut/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.rlut.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/rlut/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.rlut.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/rsds/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.rsds.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/rsds/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.rsds.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/sfcWind/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.sfcWind.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/sfcWind/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.sfcWind.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/tas/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.tas.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/tas/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.tas.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/tasmax/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.tasmax.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/tasmax/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.tasmax.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/tasmin/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.tasmin.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/tasmin/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.tasmin.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/uas/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.uas.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/uas/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.uas.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/va/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.va.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/vas/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.vas.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/vas/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.vas.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/day/zg/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.day.zg.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/fx/mrsofc/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.fx.mrsofc.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/fx/mrsofc/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.fx.mrsofc.gr2.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/fx/sftgif/gr1/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.fx.sftgif.gr1.v20180701",
+            "version": "v20180701"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NOAA-GFDL/GFDL-CM4/piControl/r1i1p1f1/fx/sftgif/gr2/v20180701",
+            "drs_id": "CMIP6.CMIP.NOAA-GFDL.GFDL-CM4.piControl.r1i1p1f1.fx.sftgif.gr2.v20180701",
+            "version": "v20180701"
+        }
+    ],
+    "facets": {
+        "activity_id": "CMIP",
+        "experiment_id": [
+            "piControl"
+        ],
+        "grid_label": [
+            "gn",
+            "gr",
+            "gr1",
+            "gr2"
+        ],
+        "institution_id": "NOAA-GFDL",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "GFDL-CM4",
+        "table_id": [
+            "3hr",
+            "6hrPlevPt",
+            "AERmon",
+            "Amon",
+            "CFday",
+            "CFmon",
+            "Eday",
+            "EdayZ",
+            "Lmon",
+            "Oday",
+            "Omon",
+            "SIday",
+            "SImon",
+            "day",
+            "fx"
+        ],
+        "variable_id": [
+            "ccb",
+            "cct",
+            "cfc113global",
+            "cfc11global",
+            "cfc12global",
+            "ch4global",
+            "ci",
+            "cl",
+            "cli",
+            "clivi",
+            "clt",
+            "clw",
+            "clwvi",
+            "co2mass",
+            "cropFrac",
+            "evspsbl",
+            "grassFrac",
+            "hcfc22global",
+            "hfls",
+            "hfss",
+            "hur",
+            "hurs",
+            "hus",
+            "huss",
+            "lai",
+            "mrro",
+            "mrros",
+            "mrso",
+            "mrsofc",
+            "mrsos",
+            "n2oglobal",
+            "o2",
+            "o3",
+            "pastureFrac",
+            "ph",
+            "pr",
+            "prc",
+            "prsn",
+            "prw",
+            "ps",
+            "psl",
+            "rlds",
+            "rldscs",
+            "rlus",
+            "rlut",
+            "rlutcs",
+            "rsds",
+            "rsdscs",
+            "rsdt",
+            "rsus",
+            "rsuscs",
+            "rsut",
+            "rsutcs",
+            "rtmt",
+            "sbl",
+            "sci",
+            "sfcWind",
+            "sftgif",
+            "siconc",
+            "simass",
+            "sisnmass",
+            "ta",
+            "tas",
+            "tasmax",
+            "tasmin",
+            "tauu",
+            "tauv",
+            "thetao",
+            "thetaoga",
+            "tos",
+            "treeFrac",
+            "ts",
+            "ua",
+            "uas",
+            "va",
+            "vas",
+            "volcello",
+            "wap",
+            "zg",
+            "zos"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-10-23T12:14:10",
+    "n_files": 1423,
+    "phenomena": [
+        "ccb",
+        "cct",
+        "cfc113global",
+        "cfc11global",
+        "cfc12global",
+        "ch4global",
+        "ci",
+        "cl",
+        "cli",
+        "clivi",
+        "clt",
+        "clw",
+        "clwvi",
+        "co2mass",
+        "cropFrac",
+        "evspsbl",
+        "grassFrac",
+        "hcfc22global",
+        "hfls",
+        "hfss",
+        "hur",
+        "hurs",
+        "hus",
+        "huss",
+        "lai",
+        "mrro",
+        "mrros",
+        "mrso",
+        "mrsofc",
+        "mrsos",
+        "n2oglobal",
+        "o2",
+        "o3",
+        "pastureFrac",
+        "ph",
+        "pr",
+        "prc",
+        "prsn",
+        "prw",
+        "ps",
+        "psl",
+        "rlds",
+        "rldscs",
+        "rlus",
+        "rlut",
+        "rlutcs",
+        "rsds",
+        "rsdscs",
+        "rsdt",
+        "rsus",
+        "rsuscs",
+        "rsut",
+        "rsutcs",
+        "rtmt",
+        "sbl",
+        "sci",
+        "sfcWind",
+        "sftgif",
+        "siconc",
+        "simass",
+        "sisnmass",
+        "ta",
+        "tas",
+        "tasmax",
+        "tasmin",
+        "tauu",
+        "tauv",
+        "thetao",
+        "thetaoga",
+        "tos",
+        "treeFrac",
+        "ts",
+        "ua",
+        "uas",
+        "va",
+        "vas",
+        "volcello",
+        "wap",
+        "zg",
+        "zos"
+    ],
+    "size_in_bytes": 13000,
+    "temporal_extent": [
+        "151-01-01 12:00:00",
+        "650-12-31 12:00:00"
+    ]
+}

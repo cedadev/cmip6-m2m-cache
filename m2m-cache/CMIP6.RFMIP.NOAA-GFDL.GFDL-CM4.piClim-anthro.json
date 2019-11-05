@@ -77,7 +77,7 @@
         90,
         -90
     ],
-    "last_updated": "2019-10-23T11:48:45",
+    "last_updated": "2019-11-04T15:35:24",
     "n_files": 8,
     "phenomena": [
         "o3",
@@ -89,7 +89,7 @@
         "rlutcs",
         "ts"
     ],
-    "size_in_bytes": 1094994000,
+    "size_in_bytes": 2189988000,
     "temporal_extent": [
         "1-01-16 12:00:00",
         "30-12-16 12:00:00"

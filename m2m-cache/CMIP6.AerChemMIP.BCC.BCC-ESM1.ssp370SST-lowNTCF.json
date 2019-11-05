@@ -282,7 +282,7 @@
         90,
         -90
     ],
-    "last_updated": "2019-10-23T11:48:03",
+    "last_updated": "2019-11-04T15:33:29",
     "n_files": 42,
     "phenomena": [
         "cVeg",
@@ -328,7 +328,7 @@
         "wap",
         "zg"
     ],
-    "size_in_bytes": 4315133000,
+    "size_in_bytes": 8630266000,
     "temporal_extent": [
         "2015-01-16 12:00:00",
         "2055-12-16 12:00:00"

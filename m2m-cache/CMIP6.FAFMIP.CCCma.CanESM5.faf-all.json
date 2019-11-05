@@ -127,7 +127,7 @@
         90,
         -90
     ],
-    "last_updated": "2019-10-23T11:48:43",
+    "last_updated": "2019-11-04T15:34:37",
     "n_files": 79,
     "phenomena": [
         "deptho",
@@ -145,7 +145,7 @@
         "vmo",
         "vo"
     ],
-    "size_in_bytes": 69311821000,
+    "size_in_bytes": 138623642000,
     "temporal_extent": [
         "5550-01-01 12:00:00",
         "5650-12-31 12:00:00"

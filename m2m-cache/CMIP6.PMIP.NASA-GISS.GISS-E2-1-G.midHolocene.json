@@ -73,7 +73,7 @@
         90,
         -90
     ],
-    "last_updated": "2019-10-23T11:48:32",
+    "last_updated": "2019-11-04T15:35:05",
     "n_files": 14,
     "phenomena": [
         "evspsbl",
@@ -84,7 +84,7 @@
         "tos",
         "ts"
     ],
-    "size_in_bytes": 425691000,
+    "size_in_bytes": 851382000,
     "temporal_extent": [
         "2900-01-16 12:00:00",
         "2999-12-16 12:00:00"

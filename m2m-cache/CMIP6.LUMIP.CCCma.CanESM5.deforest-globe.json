@@ -362,7 +362,7 @@
         90,
         -90
     ],
-    "last_updated": "2019-10-23T11:49:51",
+    "last_updated": "2019-11-04T15:34:56",
     "n_files": 111,
     "phenomena": [
         "baresoilFrac",
@@ -421,7 +421,7 @@
         "zg",
         "zos"
     ],
-    "size_in_bytes": 65585545000,
+    "size_in_bytes": 131171090000,
     "temporal_extent": [
         "1850-01-16 12:00:00",
         "1940-12-16 12:00:00"

@@ -308,7 +308,7 @@
         90,
         -90
     ],
-    "last_updated": "2019-10-23T11:49:04",
+    "last_updated": "2019-11-04T15:34:06",
     "n_files": 144,
     "phenomena": [
         "cProduct",
@@ -343,7 +343,7 @@
         "va",
         "zg"
     ],
-    "size_in_bytes": 223628220000,
+    "size_in_bytes": 447256440000,
     "temporal_extent": [
         "1850-01-01 00:00:00",
         "2015-01-01 00:00:00"

@@ -1,0 +1,328 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r11i1p1f1/Emon/ps/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r11i1p1f1.Emon.ps.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r11i1p1f1/LImon/sbl/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r11i1p1f1.LImon.sbl.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r11i1p1f1/LImon/snd/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r11i1p1f1.LImon.snd.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r11i1p1f1/LImon/snm/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r11i1p1f1.LImon.snm.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r11i1p1f1/LImon/snw/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r11i1p1f1.LImon.snw.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r11i1p1f1/LImon/tsn/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r11i1p1f1.LImon.tsn.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r11i1p1f1/Omon/prsn/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r11i1p1f1.Omon.prsn.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r11i1p1f1/day/rsds/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r11i1p1f1.day.rsds.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r11i1p1f1/day/snw/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r11i1p1f1.day.snw.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r11i1p1f1/day/tas/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r11i1p1f1.day.tas.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r11i1p1f1/day/va/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r11i1p1f1.day.va.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r13i1p1f1/3hr/prsn/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r13i1p1f1.3hr.prsn.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r13i1p1f1/3hr/tas/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r13i1p1f1.3hr.tas.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r13i1p1f1/Amon/prsn/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r13i1p1f1.Amon.prsn.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r13i1p1f1/Amon/ps/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r13i1p1f1.Amon.ps.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r13i1p1f1/Amon/rsds/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r13i1p1f1.Amon.rsds.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r13i1p1f1/Amon/sbl/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r13i1p1f1.Amon.sbl.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r13i1p1f1/Amon/tas/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r13i1p1f1.Amon.tas.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r13i1p1f1/Amon/ts/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r13i1p1f1.Amon.ts.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r13i1p1f1/Amon/ua/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r13i1p1f1.Amon.ua.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r13i1p1f1/Amon/va/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r13i1p1f1.Amon.va.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r13i1p1f1/Emon/ps/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r13i1p1f1.Emon.ps.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r13i1p1f1/LImon/sbl/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r13i1p1f1.LImon.sbl.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r13i1p1f1/LImon/snd/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r13i1p1f1.LImon.snd.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r13i1p1f1/LImon/snm/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r13i1p1f1.LImon.snm.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r13i1p1f1/LImon/tsn/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r13i1p1f1.LImon.tsn.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r13i1p1f1/Omon/prsn/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r13i1p1f1.Omon.prsn.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r13i1p1f1/day/tas/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r13i1p1f1.day.tas.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r15i1p1f1/3hr/prsn/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r15i1p1f1.3hr.prsn.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r15i1p1f1/Amon/ps/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r15i1p1f1.Amon.ps.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r15i1p1f1/Amon/rsds/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r15i1p1f1.Amon.rsds.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r15i1p1f1/Amon/sbl/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r15i1p1f1.Amon.sbl.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r15i1p1f1/Amon/tas/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r15i1p1f1.Amon.tas.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r15i1p1f1/Amon/ts/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r15i1p1f1.Amon.ts.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r15i1p1f1/Amon/ua/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r15i1p1f1.Amon.ua.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r15i1p1f1/Amon/zg/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r15i1p1f1.Amon.zg.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r15i1p1f1/Emon/ps/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r15i1p1f1.Emon.ps.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r15i1p1f1/LImon/sbl/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r15i1p1f1.LImon.sbl.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r15i1p1f1/LImon/snd/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r15i1p1f1.LImon.snd.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r15i1p1f1/LImon/snm/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r15i1p1f1.LImon.snm.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r15i1p1f1/LImon/snw/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r15i1p1f1.LImon.snw.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r15i1p1f1/LImon/tsn/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r15i1p1f1.LImon.tsn.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r15i1p1f1/Oday/tos/gn/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r15i1p1f1.Oday.tos.gn.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r15i1p1f1/Omon/prsn/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r15i1p1f1.Omon.prsn.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r15i1p1f1/Omon/tos/gn/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r15i1p1f1.Omon.tos.gn.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r15i1p1f1/day/prsn/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r15i1p1f1.day.prsn.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r15i1p1f1/day/rsds/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r15i1p1f1.day.rsds.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r15i1p1f1/day/tas/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r15i1p1f1.day.tas.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r15i1p1f1/day/ua/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r15i1p1f1.day.ua.gr.v20190710",
+            "version": "v20190710"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp370/r15i1p1f1/day/va/gr/v20190710",
+            "drs_id": "CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp370.r15i1p1f1.day.va.gr.v20190710",
+            "version": "v20190710"
+        }
+    ],
+    "facets": {
+        "activity_id": "ScenarioMIP",
+        "experiment_id": [
+            "ssp370"
+        ],
+        "grid_label": [
+            "gn",
+            "gr"
+        ],
+        "institution_id": "EC-Earth-Consortium",
+        "member_id": [
+            "r11i1p1f1",
+            "r13i1p1f1",
+            "r15i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "EC-Earth3",
+        "table_id": [
+            "3hr",
+            "Amon",
+            "Emon",
+            "LImon",
+            "Oday",
+            "Omon",
+            "day"
+        ],
+        "variable_id": [
+            "prsn",
+            "ps",
+            "rsds",
+            "sbl",
+            "snd",
+            "snm",
+            "snw",
+            "tas",
+            "tos",
+            "ts",
+            "tsn",
+            "ua",
+            "va",
+            "zg"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-11-04T15:48:08",
+    "n_files": 4300,
+    "phenomena": [
+        "prsn",
+        "ps",
+        "rsds",
+        "sbl",
+        "snd",
+        "snm",
+        "snw",
+        "tas",
+        "tos",
+        "ts",
+        "tsn",
+        "ua",
+        "va",
+        "zg"
+    ],
+    "size_in_bytes": 612001698000,
+    "temporal_extent": [
+        "2015-01-01 00:00:00",
+        "2100-12-31 22:30:00"
+    ]
+}

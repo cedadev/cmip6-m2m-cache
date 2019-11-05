@@ -430,7 +430,7 @@
         90,
         -90
     ],
-    "last_updated": "2019-10-23T11:50:40",
+    "last_updated": "2019-11-04T15:34:03",
     "n_files": 224,
     "phenomena": [
         "baresoilFrac",
@@ -495,7 +495,7 @@
         "zos",
         "zostoga"
     ],
-    "size_in_bytes": 91159074000,
+    "size_in_bytes": 182318148000,
     "temporal_extent": [
         "1850-01-16 12:00:00",
         "2000-12-16 12:00:00"

@@ -1,0 +1,606 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/6hrLev/ua/gn/v20190625",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.6hrLev.ua.gn.v20190625",
+            "version": "v20190625"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/6hrLev/va/gn/v20190625",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.6hrLev.va.gn.v20190625",
+            "version": "v20190625"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/6hrPlevPt/psl/gn/v20190722",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.6hrPlevPt.psl.gn.v20190722",
+            "version": "v20190722"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/6hrPlevPt/ua/gn/v20190722",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.6hrPlevPt.ua.gn.v20190722",
+            "version": "v20190722"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/6hrPlevPt/va/gn/v20190722",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.6hrPlevPt.va.gn.v20190722",
+            "version": "v20190722"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/6hrPlevPt/zg/gn/v20190722",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.6hrPlevPt.zg.gn.v20190722",
+            "version": "v20190722"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/ccb/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.ccb.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/cct/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.cct.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/ch4/gn/v20190308",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.ch4.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/ci/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.ci.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/cl/gn/v20190308",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.cl.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/cli/gn/v20190308",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.cli.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/clivi/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.clivi.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/clt/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.clt.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/clw/gn/v20190308",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.clw.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/clwvi/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.clwvi.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/co2/gn/v20190308",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.co2.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/evspsbl/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.evspsbl.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/hfls/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.hfls.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/hfss/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.hfss.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/hur/gn/v20190308",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.hur.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/hurs/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.hurs.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/hus/gn/v20190308",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.hus.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/huss/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.huss.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/mc/gn/v20190308",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.mc.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/n2o/gn/v20190308",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.n2o.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/o3/gn/v20190308",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.o3.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/pr/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.pr.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/prc/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.prc.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/prsn/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.prsn.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/prw/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.prw.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/ps/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.ps.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/psl/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.psl.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/rlds/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.rlds.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/rldscs/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.rldscs.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/rlus/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.rlus.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/rlut/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.rlut.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/rlutcs/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.rlutcs.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/rsds/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.rsds.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/rsdscs/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.rsdscs.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/rsdt/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.rsdt.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/rsus/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.rsus.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/rsuscs/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.rsuscs.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/rsut/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.rsut.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/rsutcs/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.rsutcs.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/sbl/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.sbl.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/sfcWind/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.sfcWind.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/ta/gn/v20190308",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.ta.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/tas/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.tas.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/tasmax/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.tasmax.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/tasmin/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.tasmin.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/tauu/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.tauu.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/tauv/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.tauv.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/ts/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.ts.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/ua/gn/v20190308",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.ua.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/uas/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.uas.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/va/gn/v20190308",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.va.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/vas/gn/v20190222",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.vas.gn.v20190222",
+            "version": "v20190222"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/wap/gn/v20190308",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.wap.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Amon/zg/gn/v20190308",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Amon.zg.gn.v20190308",
+            "version": "v20190308"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/CFday/rlutcs/gn/v20190722",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.CFday.rlutcs.gn.v20190722",
+            "version": "v20190722"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/CFday/rsdt/gn/v20190722",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.CFday.rsdt.gn.v20190722",
+            "version": "v20190722"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/CFday/rsut/gn/v20190722",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.CFday.rsut.gn.v20190722",
+            "version": "v20190722"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/CFday/rsutcs/gn/v20190722",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.CFday.rsutcs.gn.v20190722",
+            "version": "v20190722"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/CFmon/ta/gn/v20190722",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.CFmon.ta.gn.v20190722",
+            "version": "v20190722"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Lmon/mrro/gn/v20190603",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Lmon.mrro.gn.v20190603",
+            "version": "v20190603"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Lmon/mrros/gn/v20190603",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Lmon.mrros.gn.v20190603",
+            "version": "v20190603"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Lmon/mrso/gn/v20190603",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Lmon.mrso.gn.v20190603",
+            "version": "v20190603"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/Lmon/mrsos/gn/v20190603",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.Lmon.mrsos.gn.v20190603",
+            "version": "v20190603"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/day/hurs/gn/v20190603",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.day.hurs.gn.v20190603",
+            "version": "v20190603"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/day/huss/gn/v20190603",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.day.huss.gn.v20190603",
+            "version": "v20190603"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/day/mrro/gn/v20190603",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.day.mrro.gn.v20190603",
+            "version": "v20190603"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/day/mrso/gn/v20190603",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.day.mrso.gn.v20190603",
+            "version": "v20190603"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/day/mrsos/gn/v20190603",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.day.mrsos.gn.v20190603",
+            "version": "v20190603"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/day/pr/gn/v20190603",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.day.pr.gn.v20190603",
+            "version": "v20190603"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/day/prsn/gn/v20190603",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.day.prsn.gn.v20190603",
+            "version": "v20190603"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/day/psl/gn/v20190603",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.day.psl.gn.v20190603",
+            "version": "v20190603"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/day/rlut/gn/v20190603",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.day.rlut.gn.v20190603",
+            "version": "v20190603"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/day/rsds/gn/v20190603",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.day.rsds.gn.v20190603",
+            "version": "v20190603"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/day/tas/gn/v20190603",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.day.tas.gn.v20190603",
+            "version": "v20190603"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/day/tasmax/gn/v20190603",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.day.tasmax.gn.v20190603",
+            "version": "v20190603"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/day/tasmin/gn/v20190603",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.day.tasmin.gn.v20190603",
+            "version": "v20190603"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/day/ua/gn/v20190603",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.day.ua.gn.v20190603",
+            "version": "v20190603"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/day/uas/gn/v20190603",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.day.uas.gn.v20190603",
+            "version": "v20190603"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/day/va/gn/v20190603",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.day.va.gn.v20190603",
+            "version": "v20190603"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/day/vas/gn/v20190603",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.day.vas.gn.v20190603",
+            "version": "v20190603"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/day/zg/gn/v20190603",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.day.zg.gn.v20190603",
+            "version": "v20190603"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/MRI/MRI-ESM2-0/piControl/r1i1p1f1/fx/sftgif/gn/v20190603",
+            "drs_id": "CMIP6.CMIP.MRI.MRI-ESM2-0.piControl.r1i1p1f1.fx.sftgif.gn.v20190603",
+            "version": "v20190603"
+        }
+    ],
+    "facets": {
+        "activity_id": "CMIP",
+        "experiment_id": [
+            "piControl"
+        ],
+        "grid_label": [
+            "gn"
+        ],
+        "institution_id": "MRI",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "MRI-ESM2-0",
+        "table_id": [
+            "6hrLev",
+            "6hrPlevPt",
+            "Amon",
+            "CFday",
+            "CFmon",
+            "Lmon",
+            "day",
+            "fx"
+        ],
+        "variable_id": [
+            "ccb",
+            "cct",
+            "ch4",
+            "ci",
+            "cl",
+            "cli",
+            "clivi",
+            "clt",
+            "clw",
+            "clwvi",
+            "co2",
+            "evspsbl",
+            "hfls",
+            "hfss",
+            "hur",
+            "hurs",
+            "hus",
+            "huss",
+            "mc",
+            "mrro",
+            "mrros",
+            "mrso",
+            "mrsos",
+            "n2o",
+            "o3",
+            "pr",
+            "prc",
+            "prsn",
+            "prw",
+            "ps",
+            "psl",
+            "rlds",
+            "rldscs",
+            "rlus",
+            "rlut",
+            "rlutcs",
+            "rsds",
+            "rsdscs",
+            "rsdt",
+            "rsus",
+            "rsuscs",
+            "rsut",
+            "rsutcs",
+            "sbl",
+            "sfcWind",
+            "sftgif",
+            "ta",
+            "tas",
+            "tasmax",
+            "tasmin",
+            "tauu",
+            "tauv",
+            "ts",
+            "ua",
+            "uas",
+            "va",
+            "vas",
+            "wap",
+            "zg"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-11-04T15:34:03",
+    "n_files": 1989,
+    "phenomena": [
+        "ccb",
+        "cct",
+        "ch4",
+        "ci",
+        "cl",
+        "cli",
+        "clivi",
+        "clt",
+        "clw",
+        "clwvi",
+        "co2",
+        "evspsbl",
+        "hfls",
+        "hfss",
+        "hur",
+        "hurs",
+        "hus",
+        "huss",
+        "mc",
+        "mrro",
+        "mrros",
+        "mrso",
+        "mrsos",
+        "n2o",
+        "o3",
+        "pr",
+        "prc",
+        "prsn",
+        "prw",
+        "ps",
+        "psl",
+        "rlds",
+        "rldscs",
+        "rlus",
+        "rlut",
+        "rlutcs",
+        "rsds",
+        "rsdscs",
+        "rsdt",
+        "rsus",
+        "rsuscs",
+        "rsut",
+        "rsutcs",
+        "sbl",
+        "sfcWind",
+        "sftgif",
+        "ta",
+        "tas",
+        "tasmax",
+        "tasmin",
+        "tauu",
+        "tauv",
+        "ts",
+        "ua",
+        "uas",
+        "va",
+        "vas",
+        "wap",
+        "zg"
+    ],
+    "size_in_bytes": 5745765256000,
+    "temporal_extent": [
+        "1850-01-01 00:00:00",
+        "2550-12-16 12:00:00"
+    ]
+}

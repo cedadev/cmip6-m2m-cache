@@ -1,0 +1,1773 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/cli/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.cli.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/clivi/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.clivi.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/clt/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.clt.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/clw/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.clw.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/clwvi/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.clwvi.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/evspsbl/gn/v20181010",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.evspsbl.gn.v20181010",
+            "version": "v20181010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/hfls/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.hfls.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/hfss/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.hfss.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/hur/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.hur.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/hurs/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.hurs.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/hus/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.hus.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/huss/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.huss.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/pr/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.pr.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/prsn/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.prsn.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/prw/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.prw.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/ps/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.ps.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/psl/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.psl.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/rlds/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.rlds.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/rldscs/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.rldscs.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/rlus/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.rlus.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/rlut/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.rlut.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/rlutcs/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.rlutcs.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/rsds/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.rsds.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/rsdscs/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.rsdscs.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/rsdt/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.rsdt.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/rsus/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.rsus.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/rsut/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.rsut.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/rsutcs/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.rsutcs.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/rtmt/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.rtmt.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/sfcWind/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.sfcWind.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/ta/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.ta.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/tas/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.tas.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/tasmax/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.tasmax.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/tasmin/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.tasmin.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/tauu/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.tauu.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/tauv/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.tauv.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/ts/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.ts.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/ua/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.ua.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/uas/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.uas.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/va/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.va.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/vas/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.vas.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/wap/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.wap.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Amon/zg/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Amon.zg.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Emon/cSoil/gn/v20181010",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Emon.cSoil.gn.v20181010",
+            "version": "v20181010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/LImon/snc/gn/v20181010",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.LImon.snc.gn.v20181010",
+            "version": "v20181010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/LImon/snw/gn/v20181010",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.LImon.snw.gn.v20181010",
+            "version": "v20181010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Lmon/baresoilFrac/gn/v20181010",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Lmon.baresoilFrac.gn.v20181010",
+            "version": "v20181010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Lmon/gpp/gn/v20181010",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Lmon.gpp.gn.v20181010",
+            "version": "v20181010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Lmon/lai/gn/v20181010",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Lmon.lai.gn.v20181010",
+            "version": "v20181010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Lmon/mrro/gn/v20181010",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Lmon.mrro.gn.v20181010",
+            "version": "v20181010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Lmon/mrso/gn/v20181010",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Lmon.mrso.gn.v20181010",
+            "version": "v20181010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Lmon/mrsos/gn/v20181010",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Lmon.mrsos.gn.v20181010",
+            "version": "v20181010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Lmon/nbp/gn/v20181010",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Lmon.nbp.gn.v20181010",
+            "version": "v20181010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Lmon/tsl/gn/v20181010",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Lmon.tsl.gn.v20181010",
+            "version": "v20181010"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Omon/hfds/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Omon.hfds.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Omon/masscello/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Omon.masscello.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Omon/masso/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Omon.masso.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Omon/mlotst/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Omon.mlotst.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Omon/msftmyz/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Omon.msftmyz.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Omon/so/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Omon.so.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Omon/sos/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Omon.sos.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Omon/thetao/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Omon.thetao.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Omon/tos/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Omon.tos.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Omon/uo/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Omon.uo.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Omon/vo/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Omon.vo.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Omon/zos/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Omon.zos.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/Omon/zostoga/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.Omon.zostoga.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/SImon/siconca/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.SImon.siconca.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r1i1p1f1/SImon/simass/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r1i1p1f1.SImon.simass.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/clivi/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.clivi.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/clt/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.clt.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/clwvi/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.clwvi.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/evspsbl/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.evspsbl.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/hfls/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.hfls.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/hfss/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.hfss.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/hur/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.hur.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/hurs/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.hurs.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/hus/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.hus.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/huss/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.huss.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/pr/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.pr.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/prsn/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.prsn.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/prw/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.prw.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/ps/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.ps.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/psl/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.psl.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/rlds/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.rlds.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/rldscs/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.rldscs.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/rlut/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.rlut.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/rlutcs/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.rlutcs.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/rsds/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.rsds.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/rsdscs/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.rsdscs.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/rsus/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.rsus.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/rsut/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.rsut.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/rsutcs/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.rsutcs.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/rtmt/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.rtmt.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/ta/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.ta.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/tas/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.tas.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/tasmax/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.tasmax.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/tasmin/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.tasmin.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/tauu/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.tauu.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/tauv/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.tauv.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/ts/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.ts.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/ua/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.ua.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/va/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.va.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/wap/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.wap.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Amon/zg/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Amon.zg.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Emon/cSoil/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Emon.cSoil.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/LImon/snc/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.LImon.snc.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/LImon/snw/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.LImon.snw.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Lmon/baresoilFrac/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Lmon.baresoilFrac.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Lmon/gpp/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Lmon.gpp.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Lmon/lai/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Lmon.lai.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Lmon/mrro/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Lmon.mrro.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Lmon/mrso/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Lmon.mrso.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Lmon/mrsos/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Lmon.mrsos.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Lmon/nbp/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Lmon.nbp.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Lmon/tsl/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Lmon.tsl.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Omon/hfds/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Omon.hfds.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Omon/masscello/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Omon.masscello.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Omon/masso/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Omon.masso.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Omon/mlotst/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Omon.mlotst.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Omon/msftmyz/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Omon.msftmyz.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Omon/so/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Omon.so.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Omon/sos/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Omon.sos.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Omon/thetao/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Omon.thetao.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Omon/tos/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Omon.tos.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Omon/uo/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Omon.uo.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Omon/vo/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Omon.vo.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Omon/zos/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Omon.zos.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/Omon/zostoga/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.Omon.zostoga.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/SImon/siconca/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.SImon.siconca.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r2i1p1f1/SImon/simass/gn/v20180821",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r2i1p1f1.SImon.simass.gn.v20180821",
+            "version": "v20180821"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/clivi/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.clivi.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/clt/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.clt.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/clwvi/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.clwvi.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/evspsbl/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.evspsbl.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/hfls/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.hfls.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/hfss/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.hfss.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/hur/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.hur.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/hurs/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.hurs.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/hus/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.hus.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/huss/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.huss.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/pr/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.pr.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/prsn/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.prsn.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/prw/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.prw.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/ps/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.ps.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/psl/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.psl.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/rlds/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.rlds.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/rldscs/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.rldscs.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/rlut/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.rlut.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/rlutcs/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.rlutcs.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/rsds/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.rsds.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/rsdscs/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.rsdscs.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/rsus/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.rsus.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/rsut/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.rsut.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/rsutcs/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.rsutcs.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/rtmt/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.rtmt.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/ta/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.ta.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/tas/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.tas.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/tasmax/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.tasmax.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/tasmin/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.tasmin.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/tauu/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.tauu.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/tauv/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.tauv.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/ts/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.ts.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/ua/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.ua.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/va/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.va.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/wap/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.wap.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Amon/zg/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Amon.zg.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Emon/cSoil/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Emon.cSoil.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/LImon/snc/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.LImon.snc.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/LImon/snw/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.LImon.snw.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Lmon/baresoilFrac/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Lmon.baresoilFrac.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Lmon/gpp/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Lmon.gpp.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Lmon/lai/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Lmon.lai.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Lmon/mrro/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Lmon.mrro.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Lmon/mrso/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Lmon.mrso.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Lmon/mrsos/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Lmon.mrsos.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Lmon/nbp/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Lmon.nbp.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Lmon/tsl/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Lmon.tsl.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Omon/hfds/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Omon.hfds.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Omon/masscello/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Omon.masscello.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Omon/masso/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Omon.masso.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Omon/mlotst/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Omon.mlotst.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Omon/msftmyz/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Omon.msftmyz.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Omon/so/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Omon.so.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Omon/sos/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Omon.sos.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Omon/thetao/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Omon.thetao.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Omon/tos/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Omon.tos.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Omon/uo/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Omon.uo.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Omon/vo/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Omon.vo.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Omon/zos/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Omon.zos.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/Omon/zostoga/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.Omon.zostoga.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/SImon/siconca/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.SImon.siconca.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r3i1p1f1/SImon/simass/gn/v20180822",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r3i1p1f1.SImon.simass.gn.v20180822",
+            "version": "v20180822"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/clivi/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.clivi.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/clt/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.clt.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/clwvi/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.clwvi.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/evspsbl/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.evspsbl.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/hfls/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.hfls.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/hfss/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.hfss.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/hur/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.hur.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/hurs/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.hurs.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/hus/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.hus.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/huss/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.huss.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/pr/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.pr.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/prsn/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.prsn.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/prw/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.prw.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/ps/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.ps.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/psl/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.psl.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/rlds/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.rlds.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/rldscs/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.rldscs.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/rlut/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.rlut.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/rlutcs/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.rlutcs.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/rsds/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.rsds.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/rsdscs/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.rsdscs.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/rsus/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.rsus.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/rsut/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.rsut.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/rsutcs/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.rsutcs.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/rtmt/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.rtmt.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/ta/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.ta.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/tas/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.tas.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/tasmax/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.tasmax.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/tasmin/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.tasmin.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/tauu/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.tauu.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/tauv/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.tauv.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/ts/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.ts.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/ua/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.ua.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/va/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.va.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/wap/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.wap.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Amon/zg/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Amon.zg.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Emon/cSoil/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Emon.cSoil.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/LImon/snc/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.LImon.snc.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/LImon/snw/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.LImon.snw.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Lmon/baresoilFrac/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Lmon.baresoilFrac.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Lmon/gpp/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Lmon.gpp.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Lmon/lai/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Lmon.lai.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Lmon/mrro/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Lmon.mrro.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Lmon/mrso/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Lmon.mrso.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Lmon/mrsos/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Lmon.mrsos.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Lmon/nbp/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Lmon.nbp.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Lmon/tsl/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Lmon.tsl.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Omon/hfds/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Omon.hfds.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Omon/masscello/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Omon.masscello.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Omon/masso/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Omon.masso.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Omon/mlotst/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Omon.mlotst.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Omon/msftmyz/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Omon.msftmyz.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Omon/so/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Omon.so.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Omon/sos/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Omon.sos.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Omon/thetao/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Omon.thetao.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Omon/tos/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Omon.tos.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Omon/uo/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Omon.uo.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Omon/vo/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Omon.vo.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Omon/zos/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Omon.zos.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/Omon/zostoga/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.Omon.zostoga.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/SImon/siconca/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.SImon.siconca.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r4i1p1f1/SImon/simass/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r4i1p1f1.SImon.simass.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/clivi/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.clivi.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/clt/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.clt.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/clwvi/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.clwvi.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/evspsbl/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.evspsbl.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/hfls/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.hfls.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/hfss/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.hfss.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/hur/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.hur.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/hurs/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.hurs.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/hus/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.hus.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/huss/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.huss.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/pr/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.pr.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/prsn/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.prsn.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/prw/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.prw.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/ps/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.ps.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/psl/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.psl.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/rlds/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.rlds.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/rldscs/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.rldscs.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/rlut/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.rlut.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/rlutcs/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.rlutcs.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/rsds/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.rsds.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/rsdscs/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.rsdscs.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/rsus/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.rsus.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/rsut/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.rsut.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/rsutcs/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.rsutcs.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/rtmt/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.rtmt.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/ta/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.ta.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/tas/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.tas.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/tasmax/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.tasmax.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/tasmin/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.tasmin.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/tauu/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.tauu.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/tauv/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.tauv.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/ts/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.ts.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/ua/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.ua.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/va/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.va.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/wap/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.wap.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Amon/zg/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Amon.zg.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Emon/cSoil/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Emon.cSoil.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/LImon/snc/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.LImon.snc.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/LImon/snw/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.LImon.snw.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Lmon/baresoilFrac/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Lmon.baresoilFrac.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Lmon/gpp/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Lmon.gpp.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Lmon/lai/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Lmon.lai.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Lmon/mrro/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Lmon.mrro.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Lmon/mrso/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Lmon.mrso.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Lmon/mrsos/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Lmon.mrsos.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Lmon/nbp/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Lmon.nbp.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Lmon/tsl/gn/v20181011",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Lmon.tsl.gn.v20181011",
+            "version": "v20181011"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Omon/hfds/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Omon.hfds.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Omon/masscello/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Omon.masscello.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Omon/masso/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Omon.masso.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Omon/mlotst/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Omon.mlotst.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Omon/msftmyz/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Omon.msftmyz.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Omon/so/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Omon.so.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Omon/sos/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Omon.sos.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Omon/thetao/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Omon.thetao.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Omon/tos/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Omon.tos.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Omon/uo/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Omon.uo.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Omon/vo/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Omon.vo.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Omon/zos/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Omon.zos.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/Omon/zostoga/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.Omon.zostoga.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/SImon/siconca/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.SImon.siconca.gn.v20180823",
+            "version": "v20180823"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/DAMIP/NASA-GISS/GISS-E2-1-G/hist-aer/r5i1p1f1/SImon/simass/gn/v20180823",
+            "drs_id": "CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r5i1p1f1.SImon.simass.gn.v20180823",
+            "version": "v20180823"
+        }
+    ],
+    "facets": {
+        "activity_id": "DAMIP",
+        "experiment_id": [
+            "hist-aer"
+        ],
+        "grid_label": [
+            "gn"
+        ],
+        "institution_id": "NASA-GISS",
+        "member_id": [
+            "r1i1p1f1",
+            "r2i1p1f1",
+            "r3i1p1f1",
+            "r4i1p1f1",
+            "r5i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "GISS-E2-1-G",
+        "table_id": [
+            "Amon",
+            "Emon",
+            "LImon",
+            "Lmon",
+            "Omon",
+            "SImon"
+        ],
+        "variable_id": [
+            "baresoilFrac",
+            "cSoil",
+            "cli",
+            "clivi",
+            "clt",
+            "clw",
+            "clwvi",
+            "evspsbl",
+            "gpp",
+            "hfds",
+            "hfls",
+            "hfss",
+            "hur",
+            "hurs",
+            "hus",
+            "huss",
+            "lai",
+            "masscello",
+            "masso",
+            "mlotst",
+            "mrro",
+            "mrso",
+            "mrsos",
+            "msftmyz",
+            "nbp",
+            "pr",
+            "prsn",
+            "prw",
+            "ps",
+            "psl",
+            "rlds",
+            "rldscs",
+            "rlus",
+            "rlut",
+            "rlutcs",
+            "rsds",
+            "rsdscs",
+            "rsdt",
+            "rsus",
+            "rsut",
+            "rsutcs",
+            "rtmt",
+            "sfcWind",
+            "siconca",
+            "simass",
+            "snc",
+            "snw",
+            "so",
+            "sos",
+            "ta",
+            "tas",
+            "tasmax",
+            "tasmin",
+            "tauu",
+            "tauv",
+            "thetao",
+            "tos",
+            "ts",
+            "tsl",
+            "ua",
+            "uas",
+            "uo",
+            "va",
+            "vas",
+            "vo",
+            "wap",
+            "zg",
+            "zos",
+            "zostoga"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-11-04T15:34:28",
+    "n_files": 1403,
+    "phenomena": [
+        "baresoilFrac",
+        "cSoil",
+        "cli",
+        "clivi",
+        "clt",
+        "clw",
+        "clwvi",
+        "evspsbl",
+        "gpp",
+        "hfds",
+        "hfls",
+        "hfss",
+        "hur",
+        "hurs",
+        "hus",
+        "huss",
+        "lai",
+        "masscello",
+        "masso",
+        "mlotst",
+        "mrro",
+        "mrso",
+        "mrsos",
+        "msftmyz",
+        "nbp",
+        "pr",
+        "prsn",
+        "prw",
+        "ps",
+        "psl",
+        "rlds",
+        "rldscs",
+        "rlus",
+        "rlut",
+        "rlutcs",
+        "rsds",
+        "rsdscs",
+        "rsdt",
+        "rsus",
+        "rsut",
+        "rsutcs",
+        "rtmt",
+        "sfcWind",
+        "siconca",
+        "simass",
+        "snc",
+        "snw",
+        "so",
+        "sos",
+        "ta",
+        "tas",
+        "tasmax",
+        "tasmin",
+        "tauu",
+        "tauv",
+        "thetao",
+        "tos",
+        "ts",
+        "tsl",
+        "ua",
+        "uas",
+        "uo",
+        "va",
+        "vas",
+        "vo",
+        "wap",
+        "zg",
+        "zos",
+        "zostoga"
+    ],
+    "size_in_bytes": 1008141962000,
+    "temporal_extent": [
+        "1850-01-16 12:00:00",
+        "2014-12-16 12:00:00"
+    ]
+}

@@ -104,7 +104,7 @@
         90,
         -90
     ],
-    "last_updated": "2019-10-23T11:51:29",
+    "last_updated": "2019-11-04T15:34:07",
     "n_files": 319,
     "phenomena": [
         "pr",
@@ -118,7 +118,7 @@
         "tos",
         "volcello"
     ],
-    "size_in_bytes": 60796139000,
+    "size_in_bytes": 121592278000,
     "temporal_extent": [
         "1-01-01 12:00:00",
         "300-12-31 12:00:00"

@@ -1,0 +1,494 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/3hr/tas/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.3hr.tas.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/3hr/tos/gn/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.3hr.tos.gn.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/clivi/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.clivi.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/clt/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.clt.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/clwvi/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.clwvi.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/evspsbl/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.evspsbl.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/hfls/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.hfls.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/hfss/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.hfss.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/hur/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.hur.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/hus/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.hus.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/pr/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.pr.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/prsn/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.prsn.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/prw/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.prw.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/ps/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.ps.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/psl/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.psl.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/rlds/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.rlds.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/rldscs/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.rldscs.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/rlut/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.rlut.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/rlutcs/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.rlutcs.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/rsds/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.rsds.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/rsdscs/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.rsdscs.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/rsdt/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.rsdt.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/rsut/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.rsut.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/rsutcs/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.rsutcs.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/rtmt/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.rtmt.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/ta/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.ta.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/tas/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.tas.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/tasmax/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.tasmax.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/tasmin/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.tasmin.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/tauu/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.tauu.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/tauv/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.tauv.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/ts/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.ts.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/va/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.va.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/wap/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.wap.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Amon/zg/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Amon.zg.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Lmon/baresoilFrac/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Lmon.baresoilFrac.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Lmon/cVeg/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Lmon.cVeg.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Lmon/cropFrac/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Lmon.cropFrac.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Lmon/gpp/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Lmon.gpp.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Lmon/grassFrac/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Lmon.grassFrac.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Lmon/lai/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Lmon.lai.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Lmon/mrro/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Lmon.mrro.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Lmon/mrso/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Lmon.mrso.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Lmon/mrsos/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Lmon.mrsos.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Lmon/nbp/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Lmon.nbp.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Lmon/pastureFrac/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Lmon.pastureFrac.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Lmon/treeFrac/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Lmon.treeFrac.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Omon/bigthetao/gn/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Omon.bigthetao.gn.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Omon/bigthetaoga/gn/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Omon.bigthetaoga.gn.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Omon/hfds/gn/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Omon.hfds.gn.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Omon/mlotst/gn/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Omon.mlotst.gn.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Omon/so/gn/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Omon.so.gn.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Omon/sos/gn/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Omon.sos.gn.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Omon/thetao/gn/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Omon.thetao.gn.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Omon/thetaoga/gn/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Omon.thetaoga.gn.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Omon/tos/gn/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Omon.tos.gn.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Omon/uo/gn/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Omon.uo.gn.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Omon/vo/gn/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Omon.vo.gn.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Omon/zos/gn/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Omon.zos.gn.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/Omon/zostoga/gn/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.Omon.zostoga.gn.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/SImon/siconc/gn/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.SImon.siconc.gn.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/SImon/simass/gn/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.SImon.simass.gn.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/SImon/sisnmass/gn/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.SImon.sisnmass.gn.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/day/rlut/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.day.rlut.gr.v20190702",
+            "version": "v20190702"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/1pctCO2/r1i1p1f1/day/tas/gr/v20190702",
+            "drs_id": "CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.1pctCO2.r1i1p1f1.day.tas.gr.v20190702",
+            "version": "v20190702"
+        }
+    ],
+    "facets": {
+        "activity_id": "CMIP",
+        "experiment_id": [
+            "1pctCO2"
+        ],
+        "grid_label": [
+            "gn",
+            "gr"
+        ],
+        "institution_id": "EC-Earth-Consortium",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "EC-Earth3-Veg",
+        "table_id": [
+            "3hr",
+            "Amon",
+            "Lmon",
+            "Omon",
+            "SImon",
+            "day"
+        ],
+        "variable_id": [
+            "baresoilFrac",
+            "bigthetao",
+            "bigthetaoga",
+            "cVeg",
+            "clivi",
+            "clt",
+            "clwvi",
+            "cropFrac",
+            "evspsbl",
+            "gpp",
+            "grassFrac",
+            "hfds",
+            "hfls",
+            "hfss",
+            "hur",
+            "hus",
+            "lai",
+            "mlotst",
+            "mrro",
+            "mrso",
+            "mrsos",
+            "nbp",
+            "pastureFrac",
+            "pr",
+            "prsn",
+            "prw",
+            "ps",
+            "psl",
+            "rlds",
+            "rldscs",
+            "rlut",
+            "rlutcs",
+            "rsds",
+            "rsdscs",
+            "rsdt",
+            "rsut",
+            "rsutcs",
+            "rtmt",
+            "siconc",
+            "simass",
+            "sisnmass",
+            "so",
+            "sos",
+            "ta",
+            "tas",
+            "tasmax",
+            "tasmin",
+            "tauu",
+            "tauv",
+            "thetao",
+            "thetaoga",
+            "tos",
+            "treeFrac",
+            "ts",
+            "uo",
+            "va",
+            "vo",
+            "wap",
+            "zg",
+            "zos",
+            "zostoga"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-11-04T15:33:55",
+    "n_files": 9815,
+    "phenomena": [
+        "baresoilFrac",
+        "bigthetao",
+        "bigthetaoga",
+        "cVeg",
+        "clivi",
+        "clt",
+        "clwvi",
+        "cropFrac",
+        "evspsbl",
+        "gpp",
+        "grassFrac",
+        "hfds",
+        "hfls",
+        "hfss",
+        "hur",
+        "hus",
+        "lai",
+        "mlotst",
+        "mrro",
+        "mrso",
+        "mrsos",
+        "nbp",
+        "pastureFrac",
+        "pr",
+        "prsn",
+        "prw",
+        "ps",
+        "psl",
+        "rlds",
+        "rldscs",
+        "rlut",
+        "rlutcs",
+        "rsds",
+        "rsdscs",
+        "rsdt",
+        "rsut",
+        "rsutcs",
+        "rtmt",
+        "siconc",
+        "simass",
+        "sisnmass",
+        "so",
+        "sos",
+        "ta",
+        "tas",
+        "tasmax",
+        "tasmin",
+        "tauu",
+        "tauv",
+        "thetao",
+        "thetaoga",
+        "tos",
+        "treeFrac",
+        "ts",
+        "uo",
+        "va",
+        "vo",
+        "wap",
+        "zg",
+        "zos",
+        "zostoga"
+    ],
+    "size_in_bytes": 1084484614000,
+    "temporal_extent": [
+        "1850-01-01 00:00:00",
+        "2001-01-01 00:00:00"
+    ]
+}

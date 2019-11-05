@@ -99,7 +99,7 @@
         90,
         -90
     ],
-    "last_updated": "2019-10-23T11:50:18",
+    "last_updated": "2019-11-04T15:34:24",
     "n_files": 151,
     "phenomena": [
         "rlutcs",
@@ -112,7 +112,7 @@
         "volcello",
         "zostoga"
     ],
-    "size_in_bytes": 29816965000,
+    "size_in_bytes": 59633930000,
     "temporal_extent": [
         "1-01-01 12:00:00",
         "150-12-31 12:00:00"

@@ -587,7 +587,7 @@
         90,
         -90
     ],
-    "last_updated": "2019-10-23T11:48:43",
+    "last_updated": "2019-11-04T15:35:25",
     "n_files": 93,
     "phenomena": [
         "abs550aer",
@@ -675,7 +675,7 @@
         "wetlandFrac",
         "zg"
     ],
-    "size_in_bytes": 43832515000,
+    "size_in_bytes": 87665030000,
     "temporal_extent": [
         "1850-01-01 12:00:00",
         "1894-12-30 12:00:00"

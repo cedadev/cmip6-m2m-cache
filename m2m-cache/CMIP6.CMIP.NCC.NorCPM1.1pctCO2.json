@@ -1,0 +1,107 @@
+{
+    "catalogue_uuid": null,
+    "data_path": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorCPM1/1pctCO2",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorCPM1/1pctCO2/r1i1p1f1/Amon/rlut/gn/v20190914",
+            "drs_id": "CMIP6.CMIP.NCC.NorCPM1.1pctCO2.r1i1p1f1.Amon.rlut.gn.v20190914",
+            "version": "v20190914"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorCPM1/1pctCO2/r1i1p1f1/Amon/rlutcs/gn/v20190914",
+            "drs_id": "CMIP6.CMIP.NCC.NorCPM1.1pctCO2.r1i1p1f1.Amon.rlutcs.gn.v20190914",
+            "version": "v20190914"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorCPM1/1pctCO2/r1i1p1f1/Amon/rsdt/gn/v20190914",
+            "drs_id": "CMIP6.CMIP.NCC.NorCPM1.1pctCO2.r1i1p1f1.Amon.rsdt.gn.v20190914",
+            "version": "v20190914"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorCPM1/1pctCO2/r1i1p1f1/Amon/rsut/gn/v20190914",
+            "drs_id": "CMIP6.CMIP.NCC.NorCPM1.1pctCO2.r1i1p1f1.Amon.rsut.gn.v20190914",
+            "version": "v20190914"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorCPM1/1pctCO2/r1i1p1f1/Amon/rsutcs/gn/v20190914",
+            "drs_id": "CMIP6.CMIP.NCC.NorCPM1.1pctCO2.r1i1p1f1.Amon.rsutcs.gn.v20190914",
+            "version": "v20190914"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorCPM1/1pctCO2/r1i1p1f1/Amon/tas/gn/v20190914",
+            "drs_id": "CMIP6.CMIP.NCC.NorCPM1.1pctCO2.r1i1p1f1.Amon.tas.gn.v20190914",
+            "version": "v20190914"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorCPM1/1pctCO2/r1i1p1f1/Ofx/volcello/gr/v20190914",
+            "drs_id": "CMIP6.CMIP.NCC.NorCPM1.1pctCO2.r1i1p1f1.Ofx.volcello.gr.v20190914",
+            "version": "v20190914"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorCPM1/1pctCO2/r1i1p1f1/Omon/thetao/gr/v20190914",
+            "drs_id": "CMIP6.CMIP.NCC.NorCPM1.1pctCO2.r1i1p1f1.Omon.thetao.gr.v20190914",
+            "version": "v20190914"
+        },
+        {
+            "directory": "/badc/cmip6/data/CMIP6/CMIP/NCC/NorCPM1/1pctCO2/r1i1p1f1/Omon/tos/gn/v20190914",
+            "drs_id": "CMIP6.CMIP.NCC.NorCPM1.1pctCO2.r1i1p1f1.Omon.tos.gn.v20190914",
+            "version": "v20190914"
+        }
+    ],
+    "facets": {
+        "activity_id": "CMIP",
+        "experiment_id": [
+            "1pctCO2"
+        ],
+        "grid_label": [
+            "gn",
+            "gr"
+        ],
+        "institution_id": "NCC",
+        "member_id": [
+            "r1i1p1f1"
+        ],
+        "mip_era": "CMIP6",
+        "source_id": "NorCPM1",
+        "table_id": [
+            "Amon",
+            "Ofx",
+            "Omon"
+        ],
+        "variable_id": [
+            "rlut",
+            "rlutcs",
+            "rsdt",
+            "rsut",
+            "rsutcs",
+            "tas",
+            "thetao",
+            "tos",
+            "volcello"
+        ]
+    },
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "last_updated": "2019-11-04T15:34:08",
+    "n_files": 9,
+    "phenomena": [
+        "rlut",
+        "rlutcs",
+        "rsdt",
+        "rsut",
+        "rsutcs",
+        "tas",
+        "thetao",
+        "tos",
+        "volcello"
+    ],
+    "size_in_bytes": 13181260000,
+    "temporal_extent": [
+        "1-01-16 12:00:00",
+        "164-12-16 12:00:00"
+    ]
+}

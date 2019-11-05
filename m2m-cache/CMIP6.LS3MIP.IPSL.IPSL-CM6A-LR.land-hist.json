@@ -95,7 +95,7 @@
         90,
         -90
     ],
-    "last_updated": "2019-10-23T11:48:27",
+    "last_updated": "2019-11-04T15:34:54",
     "n_files": 11,
     "phenomena": [
         "baresoilFrac",
@@ -110,7 +110,7 @@
         "nbp",
         "treeFrac"
     ],
-    "size_in_bytes": 491680000,
+    "size_in_bytes": 983360000,
     "temporal_extent": [
         "1850-01-16 12:00:00",
         "2014-12-16 12:00:00"

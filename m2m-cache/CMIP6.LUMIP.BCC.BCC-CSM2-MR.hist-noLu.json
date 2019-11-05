@@ -47,14 +47,14 @@
         90,
         -90
     ],
-    "last_updated": "2019-10-23T11:48:35",
+    "last_updated": "2019-11-04T15:34:54",
     "n_files": 27,
     "phenomena": [
         "cli",
         "clw",
         "ta"
     ],
-    "size_in_bytes": 44748927000,
+    "size_in_bytes": 89497854000,
     "temporal_extent": [
         "1850-01-16 12:00:00",
         "2014-12-16 12:00:00"
